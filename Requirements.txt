@@ -1,5 +1,5 @@
-numpy 
-pandas 
+numpy
+pandas
 scipy
 matplotlib
 seaborn
@@ -9,3 +9,4 @@ contextily
 folium
 streamlit
 babel
+streamlit-folium
