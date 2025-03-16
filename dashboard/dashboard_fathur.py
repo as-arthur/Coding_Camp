@@ -288,41 +288,34 @@ st.pyplot(fig)
 # The Distribution of Sellers
 st.subheader("Most Dense Seller in Argentina")
 
-# Pastikan tidak ada nilai NaN pada koordinat
-seller_map_df.dropna(subset=['geolocation_lat', 'geolocation_lng'], inplace=True)
+# Drop NaN values from the dataset
+product_orders_df = product_orders_df.dropna()
 
-# Titik tengah peta berdasarkan rata-rata koordinat
-map_center = [seller_map_df['geolocation_lat'].mean(), seller_map_df['geolocation_lng'].mean()]
+# Ensure categorical columns are strings instead of category type
+product_orders_df["price_category"] = product_orders_df["price_category"].astype(str)
+product_orders_df["weight_category"] = product_orders_df["weight_category"].astype(str)
 
-# Buat peta dengan Folium
-seller_map = folium.Map(location=map_center, zoom_start=5)
-
-# Tambahkan Heatmap ke peta
-heat_data = seller_map_df[['geolocation_lat', 'geolocation_lng']].values.tolist()
-HeatMap(heat_data).add_to(seller_map)
-
-# Tampilkan peta di Streamlit
-st_folium(seller_map, width=700, height=500)
-
-# Cluster Demographic
-st.subheader("Price & Weight Effect on Shipping Cost")
-
+# Create group_data from product_orders_df
 group_data = product_orders_df.groupby(["price_category", "weight_category"], as_index=False).agg({
     "freight_value": "sum"
 })
 
 
+group_data = group_data.sort_values(by="freight_value", ascending=True)
+
+# Plot 1: Total Freight Value by Price Category
 fig1, ax1 = plt.subplots(figsize=(10, 6))
 sns.barplot(
     x="price_category",
     y="freight_value",
-    data=group_data.groupby("price_category", as_index=False).sum(),
+    data=group_data.groupby("price_category", as_index=False).sum().sort_values(by="freight_value", ascending=True),
     palette="Blues",
     ax=ax1
 )
-ax1.set_title("Total Biaya Pengiriman Berdasarkan Kategori Harga", fontsize=14)
-ax1.set_xlabel("Kategori Harga Produk", fontsize=12)
-ax1.set_ylabel("Total Biaya Pengiriman (Freight Value)", fontsize=12)
+ax1.set_title("Total Shipping Cost by Price Category", fontsize=14)
+ax1.set_xlabel("Product Price Category", fontsize=12)
+ax1.set_ylabel("Total Shipping Cost (Freight Value)", fontsize=12)
+ax1.tick_params(axis='x', rotation=45)  
 
 st.pyplot(fig1)
 
@@ -330,12 +323,13 @@ fig2, ax2 = plt.subplots(figsize=(10, 6))
 sns.barplot(
     x="weight_category",
     y="freight_value",
-    data=group_data.groupby("weight_category", as_index=False).sum(),
+    data=group_data.groupby("weight_category", as_index=False).sum().sort_values(by="freight_value", ascending=True),
     palette="Oranges",
     ax=ax2
 )
-ax2.set_title("Total Biaya Pengiriman Berdasarkan Kategori Berat", fontsize=14)
-ax2.set_xlabel("Kategori Berat Produk", fontsize=12)
-ax2.set_ylabel("Total Biaya Pengiriman (Freight Value)", fontsize=12)
+ax2.set_title("Total Shipping Cost by Weight Category", fontsize=14)
+ax2.set_xlabel("Product Weight Category", fontsize=12)
+ax2.set_ylabel("Total Shipping Cost (Freight Value)", fontsize=12)
+ax2.tick_params(axis='x', rotation=45) 
 
 st.pyplot(fig2)
