@@ -1,2 +1,11 @@
-pip install numpy pandas scipy matplotlib seaborn jupyter geopandas contextily folium
-pip install streamlit babel
+numpy 
+pandas 
+scipy
+matplotlib
+seaborn
+jupyter
+geopandas
+contextily
+folium
+streamlit
+babel
