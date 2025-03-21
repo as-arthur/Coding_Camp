@@ -10,3 +10,4 @@ folium
 streamlit
 babel
 streamlit-folium
+os
