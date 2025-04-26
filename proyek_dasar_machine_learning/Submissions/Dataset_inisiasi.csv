@@ -1,0 +1,2568 @@
+price,processor_type,ssd_capacity,ram_system_memory,graphics_card,capacity,cluster
+13716.900000000001,Intel Core i5,512.0,16.0,AMD Radeon RX 550,512.0,1
+13678.0,Intel Core i5,512.0,16.0,Nvidia Geforce GT 740,0.0,3
+12857.739999999998,Intel Core i5,512.0,16.0,AMD Radeon RX 580,512.0,1
+20799.0,Intel Core i5,256.0,32.0,AMD Radeon RX 580,256.0,1
+12834.620000000003,Intel Core i5,512.0,16.0,AMD Radeon RX 550,512.0,1
+13184.0,Intel Core i5,256.0,32.0,AMD Radeon RX550,1024.0,1
+6212.999999999996,Intel Core i5,512.0,16.0,Intel HD Graphics,256.0,1
+8909.010000000002,Intel Core i5,256.0,16.0,Intel HD Graphics,500.0,1
+16499.0,Intel Core i5,256.0,16.0,Nvidia GeForce GTX 1650,500.0,2
+6389.999999999996,Intel Core i5,512.0,20.0,Intel HD Graphics,256.0,1
+12299.0,Intel Core i5,256.0,16.0,Nvidia Geforce GT 740,256.0,3
+5999.989999999998,Intel Core i5,256.0,16.0,Dahili Ekran Kartı,256.0,1
+14899.0,Intel Core i5,256.0,16.0,AMD Radeon RX 580,500.0,1
+25639.0,Intel Core i5,512.0,32.0,Nvidia GeForce RTX 3050,512.0,2
+7277.0,Intel Core i7,256.0,16.0,Nvidia Geforce GT 740,256.0,3
+9799.0,Intel Core i5,256.0,64.0,AMD Radeon RX550,256.0,1
+16865.0,Intel Core i5,256.0,16.0,AMD Radeon RX 560,500.0,1
+10499.0,Intel Core i5,512.0,16.0,Nvidia Geforce GT 740,512.0,3
+3999.0,Intel Core i5,256.0,16.0,Dahili Ekran Kartı,256.0,1
+12299.0,Intel Core i5,256.0,16.0,Nvidia GeForce GT 730,256.0,2
+8909.010000000002,Intel Core i7,256.0,8.0,AMD Radeon R7 240,0.0,1
+22543.34,AMD,512.0,16.0,Nvidia GeForce RTX 3050,512.0,2
+13621.02,Intel Core i5,240.0,16.0,AMD Radeon RX 550,1024.0,1
+12399.0,Intel Core i7,256.0,16.0,Nvidia Geforce GT 740,500.0,3
+6499.0,Intel Core i7,256.0,16.0,Intel HD Graphics,256.0,1
+2649.0,Intel Core i3,1024.0,64.0,Intel HD Graphics,8.0,1
+14649.0,Intel Core i5,4096.0,12.0,AMD Radeon RX 550,1024.0,1
+3849.0,Intel Core i5,256.0,8.0,Dahili Ekran Kartı,0.0,1
+19999.0,AMD Ryzen 5,1024.0,16.0,AMD Radeon RX 550,1024.0,1
+8349.0,Intel Core i5,2048.0,40.0,Nvidia GeForce GT 730,1024.0,2
+9799.0,Intel Core i5,256.0,16.0,AMD Radeon RX 580,256.0,1
+7599.0,Intel Core i5,1024.0,32.0,Dahili Ekran Kartı,500.0,1
+4999.0,Intel Core i3,128.0,8.0,Dahili Ekran Kartı,128.0,1
+14549.0,Intel Core i7,256.0,16.0,Nvidia Geforce GT 740,500.0,3
+8699.0,Intel Core i5,256.0,16.0,Nvidia Geforce GT 740,256.0,3
+6599.989999999998,Intel Core i5,256.0,16.0,Dahili Ekran Kartı,256.0,1
+8599.0,Intel Core i5,256.0,16.0,AMD Radeon R7 240,256.0,1
+8499.0,Intel Core i5,256.0,24.0,Intel HD Graphics,500.0,1
+7599.0,Intel Core i5,256.0,16.0,AMD Radeon R7 240,256.0,1
+10020.0,Intel Core i5,240.0,16.0,Nvidia GeForce GT 730,500.0,2
+22699.0,AMD Ryzen 5,1024.0,16.0,Nvidia GeForce GTX 1650,500.0,2
+3499.0,Intel Core i3,128.0,16.0,Dahili Ekran Kartı,128.0,1
+7999.0,Intel Core i5,256.0,16.0,Dahili Ekran Kartı,256.0,1
+9199.0,Intel Core i5,0.0,16.0,Intel HD Graphics,0.0,1
+3799.0,Intel Core i5,256.0,16.0,Intel Iris Graphics,256.0,0
+14669.0,Intel Core i5,256.0,16.0,AMD Radeon RX 580,256.0,1
+7299.0,Intel Core i5,256.0,8.0,Intel HD Graphics,0.0,1
+11749.0,Intel Core i7,256.0,32.0,Nvidia GeForce GT 730,500.0,2
+17499.0,Intel Core i5,1024.0,32.0,AMD Radeon R5 230,0.0,1
+19345.0,Intel Core i3,4096.0,20.0,Nvidia GeForce RTX 3050,0.0,2
+7130.0,Intel Core i3,256.0,16.0,Dahili Ekran Kartı,256.0,1
+7157.0,Intel Core i5,256.0,64.0,Intel HD Graphics,0.0,1
+2899.0,Intel Core i3,128.0,8.0,Intel HD Graphics,128.0,1
+57999.0,AMD Ryzen 9,1024.0,32.0,Nvidia GeForce RTX 3050,1024.0,2
+23699.0,Intel Core i5,2048.0,8.0,Nvidia GeForce GTX 1650,1024.0,2
+25739.01,M2,512.0,24.0,Dahili Ekran Kartı,0.0,1
+4396.0,Intel Core i5,256.0,16.0,Intel UHD Graphics 600,256.0,0
+4549.0,Intel Core i5,4096.0,24.0,Dahili Ekran Kartı,500.0,1
+23499.0,AMD Ryzen 5,1024.0,16.0,Nvidia GeForce GTX 1660 SUPER,1024.0,2
+7699.0,Intel Core i5,256.0,16.0,Dahili Ekran Kartı,256.0,1
+89122.48000000001,AMD Ryzen 5,1024.0,32.0,Nvidia GeForce RTX 4070Ti SUPER,1024.0,3
+44999.0,Apple M1,4096.0,32.0,Dahili Ekran Kartı,0.0,1
+7199.0,Intel Core i5,256.0,8.0,Dahili Ekran Kartı,0.0,1
+24099.0,AMD Ryzen 5,500.0,16.0,Nvidia GeForce RTX3060,500.0,3
+11689.0,Intel Core i5,256.0,16.0,AMD Radeon R7 240,256.0,1
+15999.0,Intel Core i5,256.0,8.0,Intel HD Graphics,256.0,1
+33493.07,Intel Core i5,512.0,16.0,Nvidia GeForce RTX 4060Ti,512.0,3
+7749.0,Intel Core i5,1024.0,32.0,Dahili Ekran Kartı,0.0,1
+23076.06,Intel Core i5,512.0,32.0,Nvidia GeForce RTX 3050,512.0,2
+15730.0,Intel Core i5,1024.0,36.0,Nvidia GeForce GTX1050 Ti,320.0,2
+9699.0,Intel Core i7,256.0,16.0,Nvidia Geforce GT 740,256.0,3
+8919.0,Intel Core i5,512.0,16.0,AMD Radeon RX 550,512.0,1
+4899.0,Intel Pentium,1024.0,40.0,Dahili Ekran Kartı,0.0,1
+67581.82,AMD Ryzen 7,1024.0,32.0,Nvidia GeForce RTX 4060Ti,1024.0,3
+53700.07,AMD Ryzen 5,1024.0,32.0,Nvidia GeForce RTX 4070,1024.0,3
+15749.0,AMD Ryzen 5,2048.0,48.0,Nvidia GeForce GTX1050 Ti,500.0,2
+6389.1500000000015,Intel Core i7,512.0,16.0,Intel HD Graphics,0.0,1
+9475.0,Intel Core i5,512.0,16.0,Intel HD Graphics,512.0,1
+8875.0,Intel Core i5,1024.0,16.0,Intel HD Graphics,0.0,1
+25565.96,Intel Core i5,512.0,16.0,Nvidia GeForce GTX 1660 SUPER,512.0,2
+19439.0,AMD Ryzen 5,240.0,8.0,AMD Radeon RX 550,0.0,1
+11149.0,Intel Core i5,256.0,16.0,Nvidia GeForce GT 730,500.0,2
+9199.0,Intel Core i5,256.0,32.0,AMD Radeon RX 550,500.0,1
+8749.0,Intel Core i7,4096.0,64.0,Nvidia GeForce GT 730,500.0,2
+108707.03,Intel Core i7,1024.0,32.0,Dahili Ekran Kartı,0.0,1
+7366.860000000001,Intel Core i5,4096.0,36.0,AMD Radeon RX 550,256.0,1
+9370.0,Intel Core i5,1024.0,16.0,Intel HD Graphics,1024.0,1
+8691.0,Intel Core i7,1024.0,48.0,Intel HD Graphics,256.0,1
+43001.54,AMD Ryzen 5,4096.0,24.0,Nvidia GeForce RTX 4060Ti,1024.0,3
+5899.0,Intel Core i3,4096.0,20.0,Intel HD Graphics,256.0,1
+26999.95,Intel Core i5,512.0,16.0,Intel UHD Graphics 730,0.0,0
+7699.0,Intel Core i5,2048.0,32.0,Dahili Ekran Kartı,500.0,1
+4588.0,Intel Core i5,512.0,16.0,Dahili Ekran Kartı,0.0,1
+60928.149999999994,Intel Core i5,1024.0,32.0,Nvidia GeForce RTX 4070,1024.0,3
+22299.0,AMD,512.0,8.0,AMD CPU Entegre Grafik,512.0,1
+119999.98999999999,Intel Xeon,1024.0,128.0,Dahili Ekran Kartı,1024.0,1
+59399.01,Intel Core i5,256.0,8.0,AMD Radeon RX550,0.0,1
+7499.0,Intel Core i5,4096.0,32.0,Nvidia Geforce GT 740,0.0,3
+11999.0,Intel Core i5,240.0,16.0,AMD Radeon R5 230,500.0,1
+15648.0,Intel Core i5,512.0,8.0,Intel HD Graphics,512.0,1
+15199.0,Intel Core i5,512.0,16.0,AMD Radeon RX 580,512.0,1
+22499.0,Intel Core i5,512.0,36.0,Dahili Ekran Kartı,512.0,1
+5999.0,Intel Core i5,256.0,8.0,Dahili Ekran Kartı,256.0,1
+10029.0,Intel Core i5,4096.0,8.0,Intel HD Graphics,1024.0,1
+11294.0,Intel Core i7,256.0,16.0,Intel HD Graphics,256.0,1
+17614.5,Intel Core i5,512.0,16.0,Nvidia Geforce GT 710,512.0,3
+7128.0,Intel Core i5,2048.0,16.0,Intel HD Graphics,256.0,1
+5889.560000000005,Intel Core i3,2048.0,8.0,Intel HD Graphics,256.0,1
+14780.809999999998,Intel Core i7,512.0,16.0,AMD Radeon RX 550,512.0,1
+5702.000000000004,Intel Core i7,256.0,16.0,Intel HD Graphics,256.0,1
+8642.0,Intel Core i5,512.0,16.0,Intel HD Graphics,512.0,1
+55471.19,Intel Core i7,1024.0,16.0,Nvidia GeForce RTX 4060Ti,1024.0,3
+7146.739999999998,Intel Core i5,256.0,36.0,Intel HD Graphics,0.0,1
+10751.0,Intel Core i7,1024.0,16.0,Intel HD Graphics,1024.0,1
+19104.0,Intel Core i5,1024.0,16.0,Intel HD Graphics,1024.0,1
+8464.0,Intel Core i5,1024.0,8.0,Intel HD Graphics,1024.0,1
+8499.0,Intel Core i5,512.0,8.0,Intel HD Graphics,512.0,1
+11281.0,Intel Core i5,2048.0,64.0,Intel HD Graphics,1024.0,1
+91372.28,AMD Ryzen 7,1024.0,32.0,Nvidia GeForce RTX 4070Ti,1024.0,3
+26999.0,Intel Core i7,1024.0,16.0,Intel HD Graphics,1024.0,1
+8074.0,Intel Core i5,4096.0,64.0,Intel HD Graphics,512.0,1
+34315.83,Intel Core i3,4096.0,48.0,Dahili Ekran Kartı,0.0,1
+10552.0,Intel Core i5,512.0,16.0,Intel HD Graphics,512.0,1
+6899.0,Intel Core i5,4096.0,36.0,AMD Radeon RX 550,500.0,1
+9896.0,Intel Core i7,2048.0,8.0,Intel HD Graphics,512.0,1
+28999.99,Intel Core i5,256.0,8.0,Intel UHD Graphics 770,0.0,0
+9384.0,Intel Core i7,2048.0,64.0,Intel HD Graphics,256.0,1
+29000.0,Intel Core i7,4096.0,64.0,Nvidia GeForce RTX 4090Ti,5120.0,3
+8760.0,Intel Core i3,480.0,32.0,Dahili Ekran Kartı,64.0,1
+54999.0,Apple M1,512.0,32.0,Dahili Ekran Kartı,0.0,1
+11299.0,Intel Core i5,2048.0,40.0,Nvidia GeForce GT 730,1024.0,2
+6440.41,Intel Core i5,512.0,32.0,Dahili Ekran Kartı,256.0,1
+10794.849999999999,Intel Core i5,256.0,16.0,Intel HD Graphics,0.0,1
+3899.0,Intel Core i5,240.0,16.0,Dahili Ekran Kartı,0.0,1
+19547.07,Intel Core i7,256.0,16.0,Nvidia Geforce GT 740,0.0,3
+16642.0,Intel Core i5,512.0,32.0,Intel HD Graphics,512.0,1
+8472.0,Intel Core i5,256.0,8.0,Intel HD Graphics,256.0,1
+29999.0,Intel Core i5,512.0,16.0,Nvidia GeForce RTX3060,512.0,3
+5750.0,Intel Pentium,512.0,20.0,Dahili Ekran Kartı,0.0,1
+15526.0,Intel Core i5,1024.0,32.0,Intel HD Graphics,1024.0,1
+10999.0,Intel Core i7,512.0,16.0,AMD Radeon RX 550,500.0,1
+22949.0,Intel Core i5,512.0,32.0,Intel HD Graphics,512.0,1
+11063.0,Intel Core i7,2048.0,32.0,Intel HD Graphics,1024.0,1
+6099.0,Intel Core i7,512.0,48.0,Intel HD Graphics,512.0,1
+25999.0,Intel Core i5,512.0,16.0,Intel UHD Graphics 730,512.0,0
+7897.0,Intel Core i7,4096.0,20.0,Intel HD Graphics,1024.0,1
+6790.6500000000015,Intel Core i5,2048.0,64.0,Intel HD Graphics,256.0,1
+73948.0,AMD Ryzen 9,1024.0,64.0,Nvidia GeForce RTX 4070,1024.0,3
+7199.0,Intel Core i5,512.0,12.0,Intel HD Graphics,500.0,1
+12934.779999999999,Intel Core i5,1024.0,16.0,AMD Radeon RX 550,1024.0,1
+10518.0,Intel Core i5,2048.0,64.0,Intel HD Graphics,1024.0,1
+6699.0,Intel Core i7,256.0,16.0,Nvidia Geforce GT 740,0.0,3
+12000.0,Intel Core i3,250.0,8.0,Dahili Ekran Kartı,250.0,1
+7291.0,Intel Core i5,256.0,16.0,Intel HD Graphics,256.0,1
+4199.999999999996,Intel Core i5,256.0,8.0,Dahili Ekran Kartı,0.0,1
+5997.139999999999,Intel Core i7,256.0,16.0,Intel HD Graphics,0.0,1
+9445.0,Intel Core i5,512.0,48.0,AMD Radeon R7 240,0.0,1
+7372.790000000001,Intel Core i7,512.0,8.0,Intel HD Graphics,128.0,1
+8249.0,Intel Core i5,512.0,8.0,Intel HD Graphics,512.0,1
+7953.0,Intel Core i5,4096.0,36.0,AMD Radeon Graphics,500.0,1
+8495.0,Intel Core i5,256.0,16.0,Intel HD Graphics,256.0,1
+15368.0,Intel Core i5,512.0,16.0,Intel HD Graphics,512.0,1
+8304.68,Intel Core i5,256.0,16.0,Intel HD Graphics,256.0,1
+14429.129999999997,Intel Xeon,0.0,4.0,Nvidia GeForce RTX 4090Ti,0.0,3
+13357.440000000002,Intel Core i5,512.0,16.0,Dahili Ekran Kartı,0.0,1
+32400.0,Intel Core i7,0.0,32.0,Dahili Ekran Kartı,500.0,1
+11326.0,Intel Core i3,512.0,8.0,Intel HD Graphics,512.0,1
+11950.0,Intel Core i5,512.0,36.0,AMD Radeon R7 240,500.0,1
+6909.0,Intel Core i5,2048.0,16.0,Intel HD Graphics,256.0,1
+6899.0,Intel Core i5,256.0,20.0,AMD Radeon R5,1024.0,1
+8997.0,Intel Core i5,512.0,8.0,Intel HD Graphics,512.0,1
+6006.039999999997,Intel Core i5,512.0,48.0,Intel HD Graphics,128.0,1
+7652.27,Intel Core i5,128.0,16.0,Intel HD Graphics,0.0,1
+9230.0,Intel Core i5,256.0,12.0,Intel HD Graphics,256.0,1
+50699.76,Intel Core i5,1024.0,32.0,Nvidia GeForce RTX 4060,1024.0,3
+57505.58,AMD Ryzen 7,1024.0,32.0,Nvidia GeForce RTX 4060Ti,1024.0,3
+8130.0,Intel Core i5,4096.0,20.0,Intel HD Graphics,256.0,1
+7302.0,Intel Core i5,4096.0,16.0,Intel HD Graphics,512.0,1
+9624.0,Intel Core i5,1024.0,16.0,Intel HD Graphics,1024.0,1
+11025.0,Intel Core i5,4096.0,64.0,Intel HD Graphics,1024.0,1
+7633.0,Intel Core i5,1024.0,64.0,Intel HD Graphics,256.0,1
+8990.0,Intel Core i3,256.0,8.0,Intel HD Graphics,256.0,1
+8949.0,Intel Core i7,240.0,16.0,AMD Radeon R5,1024.0,1
+9807.0,Intel Core i7,512.0,36.0,Intel HD Graphics,256.0,1
+8558.0,Intel Core i5,256.0,64.0,Intel HD Graphics,512.0,1
+309999.99,AMD,1024.0,128.0,Intel HD Graphics,1024.0,1
+9453.0,Intel Core i5,2048.0,64.0,Intel HD Graphics,1024.0,1
+6048.27,Intel Core i3,512.0,64.0,Intel HD Graphics,128.0,1
+10060.0,Intel Core i5,256.0,8.0,Intel HD Graphics,256.0,1
+10393.0,Intel Core i5,2048.0,48.0,Intel HD Graphics,1024.0,1
+11444.0,Intel Core i5,512.0,16.0,Intel HD Graphics,512.0,1
+11657.0,Intel Core i5,512.0,16.0,Intel HD Graphics,512.0,1
+20499.0,Intel Core i5,512.0,16.0,Intel HD Graphics,512.0,1
+11523.0,Intel Core i7,512.0,8.0,Intel HD Graphics,1024.0,1
+8554.0,Intel Core i5,256.0,16.0,Intel HD Graphics,256.0,1
+12779.09,Intel Core i5,4096.0,12.0,Dahili Ekran Kartı,0.0,1
+13678.0,Intel Core i5,2048.0,64.0,Nvidia GeForce GT 730,500.0,2
+18308.07,Intel Core i5,480.0,16.0,AMD Radeon RX 550X,16.0,1
+9896.0,Intel Core i7,256.0,64.0,Intel HD Graphics,512.0,1
+11474.27,Intel Core i5,256.0,8.0,Dahili Ekran Kartı,0.0,1
+8887.36,Intel Core i5,512.0,16.0,Intel HD Graphics,0.0,1
+12467.0,Intel Core i7,2048.0,64.0,Intel HD Graphics,1024.0,1
+16064.48,Intel Core i3,256.0,8.0,Intel UHD Graphics 630,256.0,0
+10867.0,Intel Core i7,32.0,32.0,Intel HD Graphics,512.0,1
+10980.0,Intel Core i5,1024.0,64.0,Intel HD Graphics,512.0,1
+11466.2,Intel Core i5,512.0,16.0,Intel HD Graphics,0.0,1
+10829.91,Intel Core i5,256.0,8.0,Dahili Ekran Kartı,0.0,1
+5967.419999999998,Intel Core i3,4096.0,20.0,Intel HD Graphics,128.0,1
+6743.66,Intel Core i5,500.0,64.0,Intel HD Graphics,256.0,1
+11446.0,Intel Core i7,4096.0,32.0,Intel HD Graphics,512.0,1
+10273.0,Intel Core i3,512.0,8.0,Intel HD Graphics,512.0,1
+12775.21,Intel Core i5,256.0,16.0,Dahili Ekran Kartı,0.0,1
+6184.189999999995,Intel Core i5,4096.0,16.0,Intel HD Graphics,128.0,1
+7269.369999999999,Intel Core i5,4096.0,20.0,Intel HD Graphics,256.0,1
+8999.0,Intel Core i5,128.0,8.0,Dahili Ekran Kartı,0.0,1
+101789.0,AMD Ryzen 9,8.0,128.0,Nvidia GeForce RTX 3080,0.0,3
+8999.0,Intel Core i5,128.0,8.0,Intel HD Graphics,0.0,1
+10196.3,Intel Core i5,256.0,8.0,Intel HD Graphics,0.0,1
+9309.43,Intel Core i5,4096.0,16.0,Intel HD Graphics,256.0,1
+8599.0,Intel Core i5,512.0,40.0,AMD Radeon R5,500.0,1
+7249.0,Intel Core i5,1024.0,16.0,Intel HD Graphics,500.0,1
+14417.580000000002,Intel Core i3,256.0,8.0,Nvidia Geforce GT 740,256.0,3
+13687.0,Intel Core i5,1024.0,16.0,AMD Radeon R5 230,0.0,1
+8880.0,Intel Core i5,2048.0,32.0,Intel HD Graphics,256.0,1
+7867.049999999999,Intel Core i7,4096.0,48.0,Intel HD Graphics,256.0,1
+7887.580000000002,Intel Core i5,256.0,16.0,Intel HD Graphics,0.0,1
+8171.139999999999,Intel Core i5,512.0,16.0,Intel HD Graphics,512.0,1
+8256.0,Intel Core i5,512.0,16.0,Intel HD Graphics,512.0,1
+8130.560000000001,Intel Core i5,256.0,8.0,Intel HD Graphics,256.0,1
+8078.0,Intel Core i5,256.0,8.0,Intel HD Graphics,256.0,1
+8688.739999999998,Intel Core i7,256.0,48.0,Intel HD Graphics,128.0,1
+12515.0,Intel Core i5,512.0,16.0,Intel HD Graphics,512.0,1
+8076.470000000001,Intel Core i5,256.0,8.0,Intel HD Graphics,256.0,1
+16563.0,Intel Core i5,512.0,16.0,Intel HD Graphics,512.0,1
+7546.790000000001,Intel Core i5,2048.0,48.0,Intel HD Graphics,0.0,1
+9149.0,Intel Core i5,256.0,24.0,Nvidia GeForce GT 730,500.0,2
+15400.0,Intel Core i3,500.0,32.0,Intel UHD Graphics 600,1024.0,0
+7288.450000000001,Intel Core i7,512.0,16.0,Intel HD Graphics,0.0,1
+6508.98,Intel Core i5,256.0,8.0,Intel HD Graphics,128.0,1
+7421.790000000001,Intel Core i5,1024.0,8.0,Intel HD Graphics,512.0,1
+6457.679999999997,Intel Core i5,2048.0,64.0,Intel HD Graphics,128.0,1
+6428.810000000005,Intel Core i3,1024.0,40.0,Dahili Ekran Kartı,128.0,1
+16369.580000000002,Intel Core i5,1024.0,16.0,AMD Radeon RX 580,1024.0,1
+15931.099999999999,Intel Core i5,256.0,16.0,Nvidia Geforce GT 740,0.0,3
+14300.0,Intel Core i5,500.0,16.0,Dahili Ekran Kartı,500.0,1
+23000.0,Intel Core i5,1024.0,32.0,Dahili Ekran Kartı,256.0,1
+5975.0,Intel Pentium,256.0,32.0,Dahili Ekran Kartı,0.0,1
+21718.0,Intel Core i7,512.0,16.0,Intel HD Graphics,512.0,1
+6415.950000000001,Intel Core i5,4096.0,8.0,Intel HD Graphics,256.0,1
+6555.959999999999,Intel Core i5,4096.0,20.0,Intel HD Graphics,128.0,1
+6692.360000000001,Intel Core i5,1024.0,64.0,Intel HD Graphics,256.0,1
+7012.889999999999,Intel Core i5,128.0,8.0,Intel HD Graphics,0.0,1
+9899.0,Intel Core i3,1024.0,24.0,Nvidia GeForce GT 730,16.0,2
+7822.330000000002,Intel Core i3,512.0,8.0,Intel HD Graphics,0.0,1
+6616.07,Intel Core i3,256.0,16.0,Intel HD Graphics,0.0,1
+11376.7,Intel Core i5,512.0,16.0,Intel HD Graphics,0.0,1
+18550.0,Intel Core i5,500.0,16.0,Intel HD Graphics,500.0,1
+24210.72,Intel Core i7,512.0,16.0,Nvidia GeForce MX110,0.0,2
+5737.499999999996,Intel Core i7,256.0,8.0,Intel HD Graphics,0.0,1
+5799.999999999996,Intel Core i5,2048.0,8.0,Intel HD Graphics,512.0,1
+10549.0,Intel Core i3,256.0,32.0,Nvidia GeForce GT 730,16.0,2
+20519.0,Intel Core i5,1024.0,16.0,Intel HD Graphics,1024.0,1
+12087.510000000002,Intel Core i7,512.0,8.0,Intel HD Graphics,0.0,1
+23640.0,Intel Core i7,512.0,16.0,Intel HD Graphics,512.0,1
+7985.84,Intel Core i7,512.0,64.0,Intel HD Graphics,256.0,1
+7133.540000000001,Intel Core i3,256.0,8.0,Intel HD Graphics,0.0,1
+7858.02,Intel Core i5,512.0,8.0,Intel HD Graphics,0.0,1
+6238.389999999996,Intel Core i5,256.0,48.0,Intel HD Graphics,256.0,1
+7609.869999999999,Intel Core i5,4096.0,24.0,Dahili Ekran Kartı,0.0,1
+8567.529999999999,Intel Core i5,512.0,16.0,Intel HD Graphics,0.0,1
+7378.639999999999,Intel Core i3,512.0,16.0,Intel HD Graphics,0.0,1
+21950.0,Intel Core i5,500.0,16.0,Dahili Ekran Kartı,0.0,1
+91499.49,Intel Core i7,4096.0,96.0,Nvidia GeForce RTX 4060,512.0,3
+57742.99,Intel Core i9,2048.0,64.0,Intel UHD Graphics 770,0.0,0
+75799.49,Intel Core i7,1024.0,64.0,Nvidia GeForce RTX 4060,512.0,3
+6285.270000000004,Intel Core i7,512.0,16.0,Intel HD Graphics,256.0,1
+37646.6,Intel Core i5,4096.0,24.0,AMD Radeon RX550,4096.0,1
+10999.0,Intel Core i3,2048.0,8.0,Intel HD Graphics,1024.0,1
+39740.79,Intel Core i5,4096.0,16.0,Dahili Ekran Kartı,0.0,1
+21004.0,Intel Core i5,256.0,16.0,Intel HD Graphics,256.0,1
+11452.89,Intel Core i3,256.0,8.0,Nvidia Geforce GT 740,256.0,3
+95999.99,Intel Xeon,1024.0,256.0,Intel HD Graphics,1024.0,1
+42561.92,Intel Core i5,4096.0,48.0,Intel UHD Graphics 770,0.0,0
+23050.0,Intel Core i7,500.0,16.0,Dahili Ekran Kartı,0.0,1
+5899.0,Intel Core i5,1024.0,8.0,AMD Radeon R5,500.0,1
+80697.69,AMD Ryzen 5,1024.0,32.0,Nvidia GeForce RTX 4070,1024.0,3
+67329.0,Intel Core i7,1024.0,128.0,Nvidia GeForce RTX 3070,128.0,3
+36358.88,Intel Core i5,4096.0,8.0,Nvidia GeForce GT 730,0.0,2
+5948.999999999996,Intel Core i5,256.0,20.0,Nvidia GeForce GT 730,500.0,2
+12240.379999999997,Intel Core i5,256.0,8.0,Intel Iris Graphics,256.0,0
+5299.0,Intel Core i5,1024.0,40.0,Intel HD Graphics,500.0,1
+22742.69,Intel Core i5,256.0,48.0,Dahili Ekran Kartı,0.0,1
+5265.239999999998,Intel Core i7,256.0,128.0,Intel HD Graphics,256.0,1
+28149.0,Intel Core i7,512.0,32.0,Intel UHD Graphics 770,512.0,0
+5748.999999999996,Intel Core i5,4096.0,16.0,Nvidia GeForce GT 730,0.0,2
+36976.22,Intel Core i5,4096.0,12.0,AMD Radeon RX550,0.0,1
+85499.49,Intel Core i7,4096.0,48.0,Nvidia GeForce RTX 4060,512.0,3
+96499.49,Intel Core i7,4096.0,128.0,Nvidia GeForce RTX 4060,512.0,3
+40250.0,Intel Core i3,128.0,16.0,Intel HD Graphics 5500,256.0,1
+87499.49,Intel Core i7,2048.0,128.0,Nvidia GeForce RTX 4060,512.0,3
+84899.49,Intel Core i7,4096.0,64.0,Nvidia GeForce RTX 4060,512.0,3
+36358.88,Intel Core i5,4096.0,12.0,Nvidia GeForce GT 730,4096.0,2
+36336.63,Intel Core i5,4096.0,8.0,Intel UHD Graphics 770,4096.0,0
+36336.63,Intel Core i5,4096.0,12.0,Intel UHD Graphics 770,4096.0,0
+36398.93,Intel Core i5,4096.0,32.0,Dahili Ekran Kartı,0.0,1
+36398.93,Intel Core i5,4096.0,36.0,Intel UHD Graphics 770,4096.0,0
+36439.91,Intel Core i5,4096.0,40.0,Intel UHD Graphics 770,4096.0,0
+97882.35,AMD Ryzen 5,1024.0,32.0,Nvidia GeForce RTX 4070,1024.0,3
+36937.37,Intel Core i5,4096.0,20.0,Intel UHD Graphics 770,4096.0,0
+93599.49000000002,Intel Core i7,4096.0,128.0,Nvidia GeForce RTX 4060,512.0,3
+30299.0,Intel Core i7,512.0,32.0,Intel UHD Graphics 770,512.0,0
+5499.0,Intel Core i5,4096.0,32.0,AMD Radeon R5,500.0,1
+43699.49,Intel Core i7,2048.0,32.0,NVIDIA GeForce GT1030,0.0,0
+64949.08,AMD Ryzen 5,1024.0,32.0,Nvidia GeForce RTX 4060Ti,1024.0,3
+30649.8,Intel Core i5,1024.0,20.0,Dahili Ekran Kartı,0.0,1
+30555.69,Intel Core i5,256.0,64.0,AMD Radeon RX550,256.0,1
+59835.0,Intel Core i7,1024.0,32.0,Nvidia Quadro T400,0.0,3
+87399.48999999999,Intel Core i7,1024.0,128.0,Nvidia GeForce RTX 4060,512.0,3
+30383.03,Intel Core i3,4096.0,16.0,Dahili Ekran Kartı,0.0,1
+30383.03,Intel Core i3,4096.0,20.0,Dahili Ekran Kartı,0.0,1
+38072.09,Intel Core i5,4096.0,20.0,AMD Radeon RX550,4096.0,1
+37304.45,Intel Core i3,4096.0,64.0,Nvidia GeForce GT 730,0.0,2
+37557.43,AMD Ryzen 3,4096.0,64.0,AMD Radeon Graphics,0.0,1
+19759.0,Intel Core i5,256.0,36.0,Dahili Ekran Kartı,512.0,1
+33099.0,Intel Core i7,2048.0,32.0,Intel UHD Graphics 770,512.0,0
+39451.55,Intel Core i5,4096.0,12.0,AMD Radeon RX550,4096.0,1
+39042.16,Intel Core i5,4096.0,64.0,Dahili Ekran Kartı,0.0,1
+39298.54,Intel Core i5,4096.0,36.0,AMD Radeon RX550,0.0,1
+39285.89,Intel Core i5,4096.0,40.0,NVIDIA GeForce GT1030,0.0,0
+38939.82,Intel Core i5,4096.0,20.0,Nvidia GeForce GT 730,0.0,2
+38602.85,Intel Core i5,4096.0,36.0,NVIDIA GeForce GT1030,0.0,0
+38401.38,Intel Core i5,4096.0,32.0,Nvidia GeForce GT 730,0.0,2
+31769.27,Intel Core i5,1024.0,48.0,Nvidia GeForce GT 730,1024.0,2
+33434.55,Intel Core i5,4096.0,12.0,Intel UHD Graphics 770,4096.0,0
+31166.88,Intel Core i5,2048.0,48.0,Intel UHD Graphics 770,2048.0,0
+32659.82,Intel Core i3,4096.0,20.0,Nvidia GeForce GT 730,0.0,2
+31788.19,Intel Core i5,1024.0,20.0,Nvidia GeForce GTX 1650,0.0,2
+31747.02,Intel Core i5,1024.0,48.0,Dahili Ekran Kartı,0.0,1
+32022.32,Intel Core i3,4096.0,32.0,Dahili Ekran Kartı,0.0,1
+32022.32,Intel Core i3,4096.0,36.0,Dahili Ekran Kartı,0.0,1
+32659.82,Intel Core i3,4096.0,16.0,Nvidia GeForce GT 730,0.0,2
+32806.16,Intel Core i5,2048.0,64.0,Intel UHD Graphics 770,2048.0,0
+33434.55,Intel Core i5,4096.0,8.0,Dahili Ekran Kartı,0.0,1
+32701.43,Intel Core i5,1024.0,64.0,NVIDIA GeForce GT1030,1024.0,0
+36490.5,Intel Core i5,4096.0,48.0,NVIDIA GeForce GT1030,0.0,0
+32912.79,AMD Ryzen 3,4096.0,20.0,AMD Radeon Graphics,0.0,1
+33443.66,Intel Core i5,2048.0,48.0,Nvidia GeForce GT 730,0.0,2
+79599.49,Intel Core i7,1024.0,96.0,Nvidia GeForce RTX 4060,512.0,3
+30049.0,Intel Core i7,1024.0,32.0,Intel UHD Graphics 770,512.0,0
+83399.49,Intel Core i7,4096.0,32.0,Nvidia GeForce RTX 4060,512.0,3
+4399.0,Intel Core i5,512.0,12.0,Dahili Ekran Kartı,0.0,1
+5450.0,Intel Core i5,2048.0,32.0,AMD Radeon RX550,256.0,1
+84443.0,AMD Ryzen 9,4096.0,20.0,Nvidia GeForce RTX 3080,0.0,3
+87104.0,AMD Ryzen 9,512.0,36.0,Nvidia GeForce RTX 3080,0.0,3
+47403.26,Intel Xeon,32.0,48.0,Nvidia GeForce RTX 4090Ti,5120.0,3
+90899.0,Intel Core i7,256.0,32.0,Nvidia RTX A2000,2048.0,3
+27123.6,Intel Core i5,1024.0,20.0,Intel UHD Graphics 770,1024.0,0
+84699.0,Intel Core i7,2048.0,64.0,Nvidia RTX A2000,0.0,3
+27267.77,Intel Core i5,1024.0,40.0,Intel UHD Graphics 770,256.0,0
+88299.0,Intel Core i7,4096.0,12.0,Nvidia RTX A2000,1024.0,3
+96499.0,Intel Core i7,512.0,16.0,Nvidia RTX A2000,4096.0,3
+88399.0,Intel Core i7,1024.0,20.0,Nvidia RTX A2000,2048.0,3
+28161.53,Intel Core i5,2048.0,16.0,Intel UHD Graphics 770,2048.0,0
+79399.49,Intel Core i7,2048.0,48.0,Nvidia GeForce RTX 4060,512.0,3
+90699.0,Intel Core i7,1024.0,16.0,Nvidia RTX A2000,1024.0,3
+5666.0,Intel Core i5,128.0,8.0,Belirtilmemiş,512.0,1
+49735.0,Intel Xeon,512.0,32.0,Nvidia RTX A4000,512.0,3
+51031.56,Intel Core i5,4096.0,64.0,Nvidia GeForce GTX 1650,0.0,2
+29860.01,Intel Core i5,256.0,64.0,NVIDIA GeForce GT1030,256.0,0
+29809.92,Intel Core i5,1024.0,40.0,Nvidia GeForce GT 730,1024.0,2
+46386.92,Intel Core i5,4096.0,16.0,Nvidia GeForce GTX 1650,0.0,2
+46050.73,Intel Core i5,4096.0,64.0,Nvidia GeForce GT 730,0.0,2
+29290.81,Intel Core i5,256.0,64.0,Nvidia GeForce GT 730,256.0,2
+46606.96,Intel Core i5,4096.0,64.0,NVIDIA GeForce GT1030,0.0,0
+46356.56,Intel Core i5,4096.0,48.0,AMD Radeon RX550,0.0,1
+46730.97,Intel Core i5,4096.0,64.0,Nvidia GeForce GT 730,0.0,2
+46500.17,Intel Core i5,4096.0,32.0,AMD Radeon RX550,0.0,1
+23052.43,Intel Core i5,256.0,24.0,Dahili Ekran Kartı,0.0,1
+25329.21,Intel Core i5,512.0,16.0,Nvidia GeForce GT 730,0.0,2
+23052.43,Intel Core i5,512.0,20.0,Dahili Ekran Kartı,0.0,1
+39440.43,Intel Core i5,4096.0,16.0,AMD Radeon RX550,4096.0,1
+38939.82,Intel Core i5,4096.0,16.0,Nvidia GeForce GT 730,4096.0,2
+38827.37,Intel Core i3,4096.0,48.0,Dahili Ekran Kartı,0.0,1
+27697.06,Intel Core i5,512.0,64.0,Intel UHD Graphics 770,512.0,0
+39740.79,Intel Core i5,4096.0,20.0,Dahili Ekran Kartı,0.0,1
+39502.73,Intel Core i5,4096.0,40.0,NVIDIA GeForce GT1030,0.0,0
+39602.85,Intel Core i5,4096.0,48.0,Nvidia GeForce GT 730,0.0,2
+39580.6,Intel Core i5,4096.0,48.0,Intel UHD Graphics 770,4096.0,0
+39540.55,Intel Core i5,4096.0,24.0,Nvidia GeForce GT 730,4096.0,2
+38716.69,Intel Core i5,4096.0,40.0,Nvidia GeForce GT 730,4096.0,2
+38379.13,Intel Core i5,4096.0,36.0,Intel UHD Graphics 770,4096.0,0
+39002.11,Intel Core i5,4096.0,40.0,Nvidia GeForce GT 730,4096.0,2
+45724.12,Intel Core i5,4096.0,48.0,NVIDIA GeForce GT1030,0.0,0
+32399.0,Intel Core i7,512.0,64.0,Intel UHD Graphics 770,0.0,0
+32912.79,AMD Ryzen 3,4096.0,16.0,AMD Radeon Graphics,0.0,1
+23052.43,Intel Core i5,4096.0,24.0,Intel UHD Graphics 770,512.0,0
+97797.98,Intel Xeon,256.0,24.0,NVIDIA Quadro RTX 4000,1024.0,0
+32881.74,Intel Core i5,1024.0,48.0,AMD Radeon RX550,1024.0,1
+32199.0,Intel Core i7,1024.0,64.0,Intel UHD Graphics 770,512.0,0
+35665.17,Intel Core i3,4096.0,48.0,Nvidia GeForce GT 730,0.0,2
+35918.15,AMD Ryzen 3,4096.0,48.0,AMD Radeon Graphics,0.0,1
+35711.34,Intel Core i5,4096.0,12.0,Nvidia GeForce GT 730,4096.0,2
+35711.34,Intel Core i5,4096.0,20.0,Nvidia GeForce GT 730,4096.0,2
+36184.91,Intel Core i5,1024.0,48.0,Nvidia GeForce GT 730,0.0,2
+34070.4,Intel Core i7,2048.0,8.0,Dahili Ekran Kartı,512.0,1
+25893.85,Intel Core i5,1024.0,24.0,Dahili Ekran Kartı,0.0,1
+29855.45,Intel Core i5,1024.0,64.0,Intel UHD Graphics 770,1024.0,0
+30391.76,Intel Core i5,1024.0,32.0,AMD Radeon RX550,1024.0,1
+27123.6,Intel Core i5,1024.0,16.0,Dahili Ekran Kartı,0.0,1
+33388.39,Intel Core i3,4096.0,48.0,Dahili Ekran Kartı,0.0,1
+47163.2,Intel Core i5,4096.0,64.0,AMD Radeon RX550,0.0,1
+47069.95,Intel Core i5,4096.0,24.0,Nvidia GeForce GTX 1650,0.0,2
+28220.72,Intel Core i5,256.0,48.0,NVIDIA GeForce GT1030,0.0,0
+27651.53,Intel Core i5,256.0,48.0,NVIDIA GeForce GT1030,256.0,0
+28334.56,Intel Core i5,256.0,8.0,AMD Radeon RX550,0.0,1
+28170.63,Intel Core i5,1024.0,24.0,Nvidia GeForce GT 730,1024.0,2
+157999.98,Intel Xeon,1024.0,128.0,Dahili Ekran Kartı,1024.0,1
+76499.49,Intel Core i7,2048.0,48.0,Nvidia GeForce RTX 4060,512.0,3
+31550.4,Intel Core i7,1024.0,16.0,Dahili Ekran Kartı,512.0,1
+49392.27,Intel Core i5,4096.0,48.0,Nvidia GeForce GTX 1650,0.0,2
+49833.13,Intel Core i5,4096.0,64.0,Nvidia GeForce GTX 1650,0.0,2
+48587.16,Intel Core i5,4096.0,64.0,NVIDIA GeForce GT1030,0.0,0
+48709.24,Intel Core i5,4096.0,40.0,Nvidia GeForce GTX 1650,0.0,2
+48391.37,Intel Core i5,4096.0,48.0,Nvidia GeForce GTX 1650,0.0,2
+41195.85,Intel Core i5,4096.0,36.0,Dahili Ekran Kartı,0.0,1
+40715.32,Intel Core i5,4096.0,48.0,AMD Radeon RX550,4096.0,1
+40653.02,Intel Core i5,4096.0,24.0,AMD Radeon RX550,4096.0,1
+40982.31,Intel Core i5,4096.0,40.0,Nvidia GeForce GT 730,4096.0,2
+45748.14,Intel Core i5,4096.0,16.0,Nvidia GeForce GTX 1650,0.0,2
+45058.41,Intel Core i5,4096.0,16.0,AMD Radeon RX550,0.0,1
+45387.7,Intel Core i5,4096.0,32.0,Nvidia GeForce GT 730,0.0,2
+46386.92,Intel Core i5,4096.0,20.0,Nvidia GeForce GTX 1650,0.0,2
+45748.14,Intel Core i5,4096.0,20.0,Nvidia GeForce GTX 1650,0.0,2
+45102.9,Intel Core i5,4096.0,24.0,NVIDIA GeForce GT1030,0.0,0
+45387.7,Intel Core i5,4096.0,36.0,Nvidia GeForce GT 730,0.0,2
+45659.14,Intel Core i5,4096.0,24.0,AMD Radeon RX550,0.0,1
+45805.99,Intel Core i5,4096.0,64.0,Dahili Ekran Kartı,0.0,1
+29126.88,Intel Core i5,1024.0,36.0,Nvidia GeForce GT 730,0.0,2
+45988.43,Intel Core i5,4096.0,40.0,Nvidia GeForce GT 730,0.0,2
+26850.1,Intel Core i5,1024.0,32.0,Intel UHD Graphics 770,1024.0,0
+44358.05,Intel Core i5,4096.0,32.0,NVIDIA GeForce GT1030,0.0,0
+43725.61,Intel Core i5,4096.0,32.0,Nvidia GeForce GT 730,0.0,2
+44137.28,Intel Core i5,4096.0,64.0,AMD Radeon RX550,4096.0,1
+44163.98,Intel Core i5,4096.0,36.0,Nvidia GeForce GTX 1650,0.0,2
+28499.0,Intel Core i5,4096.0,24.0,Intel UHD Graphics 730,0.0,0
+48999.99,Intel Xeon,4096.0,40.0,AMD Radeon RX 570,512.0,1
+43963.73,Intel Core i5,4096.0,32.0,NVIDIA GeForce GT1030,0.0,0
+43945.93,Intel Core i5,4096.0,16.0,Nvidia GeForce GT 730,0.0,2
+43963.73,Intel Core i5,4096.0,36.0,NVIDIA GeForce GT1030,0.0,0
+43945.93,Intel Core i5,4096.0,20.0,Nvidia GeForce GT 730,0.0,2
+44163.98,Intel Core i5,4096.0,32.0,Nvidia GeForce GTX 1650,4096.0,2
+38873.54,Intel Core i5,4096.0,12.0,Dahili Ekran Kartı,0.0,1
+44546.67,Intel Core i5,4096.0,24.0,Nvidia GeForce GT 730,0.0,2
+24849.0,Intel Core i5,1024.0,12.0,Dahili Ekran Kartı,1024.0,1
+78799.49,Intel Core i7,2048.0,64.0,Nvidia GeForce RTX 4060,512.0,3
+44764.71,Intel Core i5,4096.0,40.0,Nvidia GeForce GTX 1650,4096.0,2
+29699.0,Intel Core i5,2048.0,48.0,Intel UHD Graphics 730,0.0,0
+32299.89,Intel Core i3,2048.0,32.0,Intel UHD Graphics 730,0.0,0
+76772.5,AMD Ryzen 7,1024.0,32.0,Nvidia GeForce RTX 4070,1024.0,3
+74399.49,Intel Core i7,2048.0,32.0,Nvidia GeForce RTX 4060,512.0,3
+41720.99,Intel Core i5,4096.0,16.0,Dahili Ekran Kartı,0.0,1
+41720.99,Intel Core i5,4096.0,20.0,Dahili Ekran Kartı,0.0,1
+41965.74,Intel Core i5,4096.0,16.0,Nvidia GeForce GT 730,0.0,2
+41965.74,Intel Core i5,4096.0,20.0,Nvidia GeForce GT 730,0.0,2
+40882.19,Intel Core i5,4096.0,36.0,NVIDIA GeForce GT1030,0.0,0
+40882.19,Intel Core i5,4096.0,32.0,NVIDIA GeForce GT1030,0.0,0
+40742.02,Intel Core i5,4096.0,16.0,Nvidia GeForce GTX 1650,4096.0,2
+41022.36,Intel Core i5,4096.0,64.0,Intel UHD Graphics 770,4096.0,0
+33818.4,Intel Core i7,1024.0,16.0,Dahili Ekran Kartı,512.0,1
+76399.49,Intel Core i7,1024.0,48.0,Nvidia GeForce RTX 4060,512.0,3
+33566.4,Intel Core i7,1024.0,32.0,Dahili Ekran Kartı,512.0,1
+36590.4,Intel Core i7,2048.0,8.0,Dahili Ekran Kartı,512.0,1
+25376.95,Intel Core i5,4096.0,64.0,Nvidia GeForce GT 730,0.0,2
+39556.57,Intel Core i5,4096.0,20.0,Nvidia GeForce GT 730,0.0,2
+41545.22,Intel Core i5,4096.0,64.0,NVIDIA GeForce GT1030,0.0,0
+40239.61,Intel Core i5,4096.0,24.0,Dahili Ekran Kartı,0.0,1
+42086.33,Intel Core i5,4096.0,20.0,Nvidia GeForce GT 730,0.0,2
+42086.33,Intel Core i5,4096.0,16.0,Nvidia GeForce GT 730,0.0,2
+28949.0,Intel Core i7,1024.0,16.0,Intel UHD Graphics 770,512.0,0
+29149.0,Intel Core i7,512.0,16.0,Intel UHD Graphics 770,512.0,0
+43078.21,Intel Core i5,4096.0,16.0,AMD Radeon RX550,0.0,1
+42769.36,Intel Core i5,4096.0,24.0,Nvidia GeForce GT 730,0.0,2
+43351.21,Intel Core i5,4096.0,16.0,AMD Radeon RX550,0.0,1
+42566.47,Intel Core i5,4096.0,24.0,Nvidia GeForce GT 730,0.0,2
+43078.21,Intel Core i5,4096.0,20.0,AMD Radeon RX550,0.0,1
+42718.77,Intel Core i5,4096.0,16.0,NVIDIA GeForce GT1030,0.0,0
+43351.21,Intel Core i5,4096.0,20.0,AMD Radeon RX550,0.0,1
+42521.97,Intel Core i5,4096.0,20.0,NVIDIA GeForce GT1030,0.0,0
+42668.17,Intel Core i5,4096.0,8.0,AMD Radeon RX550,0.0,1
+43122.71,Intel Core i5,4096.0,24.0,NVIDIA GeForce GT1030,0.0,0
+42668.17,Intel Core i5,4096.0,12.0,AMD Radeon RX550,0.0,1
+43162.75,Intel Core i5,4096.0,32.0,Dahili Ekran Kartı,0.0,1
+42784.51,Intel Core i5,4096.0,40.0,Nvidia GeForce GTX 1650,0.0,2
+42094.78,Intel Core i5,4096.0,40.0,AMD Radeon RX550,4096.0,1
+43525.42,Intel Core i5,4096.0,64.0,NVIDIA GeForce GT1030,4096.0,0
+43725.61,Intel Core i5,4096.0,36.0,Nvidia GeForce GT 730,0.0,2
+43678.94,Intel Core i5,4096.0,24.0,AMD Radeon RX550,0.0,1
+24008.67,Intel Core i5,256.0,36.0,Intel UHD Graphics 770,256.0,0
+77299.49,Intel Core i7,2048.0,32.0,Nvidia GeForce RTX 4060,512.0,3
+380353.35,Intel Xeon,2048.0,192.0,Nvidia RTX A5000,2048.0,3
+29879.0,Intel Core i5,256.0,40.0,Dahili Ekran Kartı,256.0,1
+73213.0,Intel Core i7,2048.0,32.0,Nvidia Quadro T600,0.0,3
+5599.999999999996,Intel Core i5,256.0,16.0,Intel HD Graphics 4400,256.0,1
+43763.49,Intel Core i5,4096.0,40.0,Intel UHD Graphics 770,0.0,0
+26999.0,Intel Core i5,256.0,8.0,Dahili Ekran Kartı,256.0,1
+37850.4,Intel Core i7,2048.0,16.0,Dahili Ekran Kartı,512.0,1
+43825.79,Intel Core i5,4096.0,64.0,Nvidia GeForce GTX 1650,0.0,2
+35027.67,Intel Core i3,4096.0,64.0,Dahili Ekran Kartı,0.0,1
+33924.7,Intel Core i3,4096.0,16.0,AMD Radeon RX550,0.0,1
+36086.4,Intel Core i7,1024.0,32.0,Dahili Ekran Kartı,512.0,1
+129118.0,Intel Core i7,2048.0,128.0,Nvidia Quadro T1000,0.0,3
+32132.24,Intel Core i5,1024.0,64.0,Nvidia GeForce GT 730,1024.0,2
+47553.96,Intel Core i7,512.0,64.0,AMD Radeon RX550,512.0,1
+42447.71,Intel Core i7,512.0,16.0,AMD Radeon RX550,512.0,1
+44249.92,Intel Core i7,256.0,40.0,AMD Radeon RX550,256.0,1
+43920.81,Intel Core i7,512.0,40.0,AMD Radeon RX550,512.0,1
+44249.92,Intel Core i7,512.0,32.0,AMD Radeon RX550,512.0,1
+43187.92,Intel Core i7,512.0,32.0,AMD Radeon RX550,512.0,1
+44249.92,Intel Core i7,512.0,36.0,AMD Radeon RX550,512.0,1
+42091.61,Intel Core i7,512.0,48.0,AMD Radeon RX550,512.0,1
+43187.92,Intel Core i7,256.0,40.0,AMD Radeon RX550,256.0,1
+41696.8,Intel Core i7,512.0,12.0,AMD Radeon RX550,512.0,1
+42455.02,Intel Core i7,256.0,32.0,AMD Radeon RX550,256.0,1
+43058.79,Intel Core i7,256.0,64.0,AMD Radeon RX550,256.0,1
+45751.75,Intel Core i7,512.0,48.0,AMD Radeon RX550,512.0,1
+43499.0,Intel Core i7,256.0,32.0,AMD Radeon RX550,256.0,1
+45000.83,Intel Core i7,512.0,40.0,AMD Radeon RX550,512.0,1
+43187.92,Intel Core i7,512.0,36.0,AMD Radeon RX550,512.0,1
+46803.04,Intel Core i7,256.0,64.0,AMD Radeon RX550,256.0,1
+44219.41,Intel Core i7,2048.0,16.0,AMD Radeon RX550,2048.0,1
+45571.53,Intel Core i7,1024.0,24.0,AMD Radeon RX550,1024.0,1
+44820.61,Intel Core i7,1024.0,20.0,AMD Radeon RX550,1024.0,1
+43583.84,Intel Core i7,1024.0,40.0,AMD Radeon RX550,1024.0,1
+44910.26,Intel Core i7,2048.0,24.0,AMD Radeon RX550,2048.0,1
+51901.6,Intel Core i7,4096.0,36.0,AMD Radeon RX550,4096.0,1
+50934.42,Intel Core i7,4096.0,24.0,AMD Radeon RX550,4096.0,1
+46969.66,Intel Core i7,1024.0,48.0,AMD Radeon RX550,1024.0,1
+47313.66,Intel Core i7,2048.0,8.0,AMD Radeon RX550,2048.0,1
+48815.5,Intel Core i7,2048.0,24.0,AMD Radeon RX550,2048.0,1
+49866.78,Intel Core i7,2048.0,32.0,AMD Radeon RX550,2048.0,1
+43012.02,Intel Core i7,1024.0,8.0,AMD Radeon RX550,1024.0,1
+45503.87,Intel Core i7,1024.0,36.0,AMD Radeon RX550,1024.0,1
+49552.73,Intel Core i7,4096.0,8.0,AMD Radeon RX550,4096.0,1
+43528.57,Intel Core i7,2048.0,8.0,AMD Radeon RX550,2048.0,1
+46568.28,Intel Core i7,2048.0,40.0,AMD Radeon RX550,2048.0,1
+47643.93,Intel Core i7,2048.0,24.0,AMD Radeon RX550,2048.0,1
+46178.13,Intel Core i7,2048.0,8.0,AMD Radeon RX550,2048.0,1
+49926.86,Intel Core i7,1024.0,64.0,AMD Radeon RX550,1024.0,1
+48064.58,Intel Core i7,2048.0,20.0,AMD Radeon RX550,2048.0,1
+52568.98,Intel Core i7,4096.0,8.0,AMD Radeon RX550,4096.0,1
+46236.77,Intel Core i7,1024.0,40.0,AMD Radeon RX550,1024.0,1
+46911.03,Intel Core i7,2048.0,20.0,AMD Radeon RX550,2048.0,1
+52592.45,Intel Core i7,4096.0,40.0,AMD Radeon RX550,4096.0,1
+51894.72,Intel Core i7,2048.0,64.0,AMD Radeon RX550,2048.0,1
+49866.78,Intel Core i7,2048.0,36.0,AMD Radeon RX550,2048.0,1
+49552.73,Intel Core i7,4096.0,12.0,AMD Radeon RX550,4096.0,1
+48669.98,Intel Core i7,2048.0,36.0,AMD Radeon RX550,2048.0,1
+50243.58,Intel Core i7,4096.0,16.0,AMD Radeon RX550,4096.0,1
+43528.57,Intel Core i7,2048.0,12.0,AMD Radeon RX550,2048.0,1
+50617.7,Intel Core i7,2048.0,40.0,AMD Radeon RX550,2048.0,1
+30379.11,Intel Core i5,1024.0,40.0,NVIDIA GeForce GT1030,0.0,0
+35189.57,AMD Ryzen 3,4096.0,20.0,Nvidia GeForce GT 730,0.0,2
+31672.6,Intel Core i3,4096.0,16.0,Dahili Ekran Kartı,0.0,1
+33342.85,Intel Core i3,4096.0,24.0,Nvidia GeForce GT 730,0.0,2
+34552.08,AMD Ryzen 3,4096.0,36.0,AMD Radeon Graphics,0.0,1
+41099.09,AMD Ryzen 3,4096.0,64.0,AMD Radeon RX550,0.0,1
+29800.81,Intel Core i5,2048.0,32.0,Intel UHD Graphics 770,2048.0,0
+21199.0,Intel Core i5,1024.0,32.0,Dahili Ekran Kartı,0.0,1
+8749.0,Intel Core i5,256.0,16.0,Intel HD Graphics,256.0,1
+53283.29,Intel Core i7,4096.0,48.0,AMD Radeon RX550,4096.0,1
+54941.32,Intel Core i7,4096.0,64.0,AMD Radeon RX550,4096.0,1
+56414.79,Intel Core i7,4096.0,32.0,AMD Radeon RX550,4096.0,1
+56526.62,Intel Core i7,4096.0,48.0,AMD Radeon RX550,4096.0,1
+55363.5,Intel Core i7,4096.0,24.0,AMD Radeon RX550,4096.0,1
+55060.83,Intel Core i7,4096.0,36.0,AMD Radeon RX550,4096.0,1
+55060.83,Intel Core i7,4096.0,32.0,AMD Radeon RX550,4096.0,1
+54612.58,Intel Core i7,4096.0,20.0,AMD Radeon RX550,4096.0,1
+54034.78,Intel Core i7,4096.0,24.0,AMD Radeon RX550,4096.0,1
+69352.94,AMD Ryzen 5,1024.0,32.0,Nvidia GeForce RTX 4070,1024.0,3
+94999.99,Intel Xeon,1024.0,128.0,Dahili Ekran Kartı,1024.0,1
+11802.0,Intel Core i5,240.0,16.0,AMD Radeon R5 230,0.0,1
+71818.0,Intel Core i7,2048.0,32.0,Nvidia Quadro T600,0.0,3
+9499.0,Intel Core i3,256.0,8.0,Intel HD Graphics,256.0,1
+24899.16,AMD Ryzen 5,4096.0,32.0,Dahili Ekran Kartı,256.0,1
+37670.21,Intel Core i7,256.0,8.0,AMD Radeon RX550,256.0,1
+40696.07,Intel Core i7,512.0,8.0,AMD Radeon RX550,512.0,1
+41428.97,Intel Core i7,256.0,24.0,AMD Radeon RX550,256.0,1
+41428.97,Intel Core i7,512.0,20.0,AMD Radeon RX550,512.0,1
+40709.92,Intel Core i7,256.0,40.0,AMD Radeon RX550,256.0,1
+41400.77,Intel Core i7,256.0,48.0,AMD Radeon RX550,256.0,1
+41400.77,Intel Core i7,512.0,40.0,AMD Radeon RX550,512.0,1
+38361.05,Intel Core i7,256.0,16.0,AMD Radeon RX550,256.0,1
+40945.88,Intel Core i7,256.0,8.0,AMD Radeon RX550,256.0,1
+38361.05,Intel Core i7,256.0,20.0,AMD Radeon RX550,256.0,1
+40696.07,Intel Core i7,256.0,20.0,AMD Radeon RX550,256.0,1
+39963.18,Intel Core i7,256.0,8.0,AMD Radeon RX550,256.0,1
+19599.0,Intel Core i5,256.0,24.0,Intel UHD Graphics 730,0.0,0
+29699.89,Intel Core i3,1024.0,32.0,Intel UHD Graphics 730,0.0,0
+11455.0,Intel Core i7,512.0,40.0,Intel HD Graphics,1024.0,1
+6999.0,Intel Core i5,128.0,8.0,Dahili Ekran Kartı,320.0,1
+25399.0,Intel Core i5,512.0,20.0,Dahili Ekran Kartı,0.0,1
+21400.0,Intel Core i7,500.0,32.0,Dahili Ekran Kartı,0.0,1
+29250.0,Intel Core i7,500.0,32.0,Dahili Ekran Kartı,1024.0,1
+16900.0,Intel Core i5,500.0,32.0,Dahili Ekran Kartı,1024.0,1
+67857.24,Intel Core i7,4096.0,64.0,Nvidia GeForce GTX 1650,4096.0,2
+6199.0,Intel Core i7,256.0,16.0,Nvidia Geforce GT 740,0.0,3
+23000.0,Intel Core i5,500.0,16.0,Dahili Ekran Kartı,0.0,1
+18100.0,Intel Core i3,500.0,16.0,Dahili Ekran Kartı,0.0,1
+13699.0,Intel Core i5,256.0,8.0,Intel HD Graphics,256.0,1
+11499.0,Intel Core i5,2048.0,32.0,Intel HD Graphics,500.0,1
+10226.29,Intel Core i5,256.0,16.0,Intel HD Graphics,0.0,1
+5702.000000000004,Intel Core i7,256.0,16.0,Intel HD Graphics,256.0,1
+98899.0,Intel Core i7,1024.0,32.0,Nvidia RTX A2000,4096.0,3
+117899.0,Intel Core i7,4096.0,36.0,Nvidia RTX A2000,4096.0,3
+102299.0,Intel Core i7,2048.0,20.0,Nvidia RTX A2000,4096.0,3
+115199.0,Intel Core i7,512.0,16.0,Nvidia RTX A2000,4096.0,3
+115999.0,Intel Core i7,256.0,32.0,Nvidia RTX A2000,4096.0,3
+104799.0,Intel Core i7,2048.0,32.0,Nvidia RTX A2000,4096.0,3
+117699.0,Intel Core i7,2048.0,48.0,Nvidia RTX A2000,4096.0,3
+108599.0,Intel Core i7,1024.0,64.0,Nvidia RTX A2000,4096.0,3
+8892.0,Intel Core i5,512.0,16.0,Intel HD Graphics,512.0,1
+11999.0,Intel Core i7,256.0,16.0,Nvidia GeForce GT 730,250.0,2
+26699.49,Intel Core i5,512.0,36.0,Intel UHD Graphics 730,0.0,0
+6588.0,Intel Core i7,256.0,32.0,Intel HD Graphics,512.0,1
+10849.0,Intel Core i7,512.0,16.0,Nvidia GeForce GT 730,500.0,2
+9500.0,Intel Pentium,4096.0,64.0,Dahili Ekran Kartı,0.0,1
+6874.0,Intel Core i7,2048.0,64.0,Nvidia GeForce GT 730,0.0,2
+201260.0,Intel Core i7,4096.0,128.0,Nvidia RTX A4000,0.0,3
+205739.0,Intel Core i9,4096.0,128.0,Nvidia RTX A4000,0.0,3
+8184.0,Intel Core i5,256.0,16.0,Intel HD Graphics,256.0,1
+6299.0,Intel Core i3,256.0,32.0,Dahili Ekran Kartı,0.0,1
+9573.0,Intel Core i7,512.0,8.0,Intel HD Graphics,512.0,1
+6011.520000000004,Intel Core i7,1024.0,48.0,Intel HD Graphics,256.0,1
+7427.760000000002,Intel Core i5,1024.0,16.0,Intel HD Graphics,128.0,1
+7949.0,Intel Core i5,256.0,48.0,Intel HD Graphics,0.0,1
+42520.82,Intel Core i5,4096.0,32.0,NVIDIA GeForce GT1030,4096.0,0
+42147.63,Intel Core i5,4096.0,40.0,Dahili Ekran Kartı,4096.0,1
+42285.57,Intel Core i5,4096.0,8.0,NVIDIA GeForce GT1030,4096.0,0
+43153.26,Intel Core i5,4096.0,32.0,AMD Radeon RX550,4096.0,1
+42993.1,Intel Core i5,4096.0,48.0,Nvidia GeForce GT 730,4096.0,2
+43517.3,Intel Core i5,2048.0,48.0,Nvidia GeForce GTX 1650,2048.0,2
+42948.6,Intel Core i5,4096.0,40.0,NVIDIA GeForce GT1030,4096.0,0
+42285.57,Intel Core i5,4096.0,12.0,NVIDIA GeForce GT1030,4096.0,0
+43549.34,Intel Core i5,4096.0,48.0,NVIDIA GeForce GT1030,4096.0,0
+42315.83,Intel Core i5,2048.0,32.0,Nvidia GeForce GTX 1650,2048.0,2
+44959.06,Intel Core i5,2048.0,64.0,Nvidia GeForce GTX 1650,2048.0,2
+42886.31,Intel Core i5,4096.0,20.0,NVIDIA GeForce GT1030,4096.0,0
+47554.23,Intel Core i5,4096.0,32.0,Nvidia GeForce GTX 1650,4096.0,2
+44043.28,Intel Core i5,4096.0,24.0,AMD Radeon RX550,4096.0,1
+44928.8,Intel Core i5,4096.0,40.0,NVIDIA GeForce GT1030,4096.0,0
+42841.81,Intel Core i5,4096.0,12.0,AMD Radeon RX550,4096.0,1
+44132.27,Intel Core i5,4096.0,16.0,Nvidia GeForce GTX 1650,4096.0,2
+44190.12,Intel Core i5,4096.0,64.0,Dahili Ekran Kartı,4096.0,1
+44434.87,Intel Core i5,4096.0,64.0,Nvidia GeForce GT 730,4096.0,2
+43531.54,Intel Core i5,4096.0,12.0,Nvidia GeForce GTX 1650,4096.0,2
+42748.36,Intel Core i5,4096.0,48.0,Dahili Ekran Kartı,4096.0,1
+46112.47,Intel Core i5,4096.0,20.0,Nvidia GeForce GTX 1650,4096.0,2
+44328.07,Intel Core i5,4096.0,36.0,NVIDIA GeForce GT1030,4096.0,0
+47527.53,Intel Core i5,4096.0,64.0,AMD Radeon RX550,4096.0,1
+45529.54,Intel Core i5,4096.0,48.0,NVIDIA GeForce GT1030,4096.0,0
+42886.31,Intel Core i5,4096.0,16.0,NVIDIA GeForce GT1030,4096.0,0
+43771.83,Intel Core i5,4096.0,36.0,Nvidia GeForce GT 730,4096.0,2
+46085.77,Intel Core i5,4096.0,48.0,AMD Radeon RX550,4096.0,1
+46158.61,Intel Core i5,4096.0,64.0,AMD Radeon RX550,4096.0,1
+41791.63,Intel Core i5,4096.0,32.0,Nvidia GeForce GT 730,4096.0,2
+42841.81,Intel Core i5,4096.0,8.0,AMD Radeon RX550,4096.0,1
+47554.23,Intel Core i5,4096.0,36.0,Nvidia GeForce GTX 1650,4096.0,2
+44328.07,Intel Core i5,4096.0,32.0,NVIDIA GeForce GT1030,4096.0,0
+44372.57,Intel Core i5,4096.0,40.0,Nvidia GeForce GT 730,4096.0,2
+46775.5,Intel Core i5,4096.0,48.0,Nvidia GeForce GTX 1650,4096.0,2
+44105.57,Intel Core i5,4096.0,48.0,AMD Radeon RX550,4096.0,1
+45511.74,Intel Core i5,4096.0,12.0,Nvidia GeForce GTX 1650,4096.0,2
+42520.82,Intel Core i5,4096.0,36.0,NVIDIA GeForce GT1030,4096.0,0
+43442.54,Intel Core i5,4096.0,16.0,AMD Radeon RX550,4096.0,1
+41791.63,Intel Core i5,4096.0,36.0,Nvidia GeForce GT 730,4096.0,2
+45485.04,Intel Core i5,4096.0,40.0,AMD Radeon RX550,4096.0,1
+44884.3,Intel Core i5,4096.0,36.0,AMD Radeon RX550,4096.0,1
+42197.01,Intel Core i5,4096.0,24.0,AMD Radeon RX550,4096.0,1
+46112.47,Intel Core i5,4096.0,16.0,Nvidia GeForce GTX 1650,4096.0,2
+42347.87,Intel Core i5,4096.0,32.0,NVIDIA GeForce GT1030,4096.0,0
+46415.06,Intel Core i5,4096.0,64.0,Nvidia GeForce GT 730,4096.0,2
+48755.7,Intel Core i5,4096.0,48.0,Nvidia GeForce GTX 1650,4096.0,2
+44549.68,Intel Core i5,4096.0,16.0,Nvidia GeForce GTX 1650,4096.0,2
+41729.34,Intel Core i5,4096.0,12.0,Nvidia GeForce GT 730,4096.0,2
+42281.12,Intel Core i5,4096.0,40.0,Nvidia GeForce GTX 1650,4096.0,2
+44261.32,Intel Core i5,4096.0,40.0,Nvidia GeForce GTX 1650,4096.0,2
+41761.89,Intel Core i5,4096.0,36.0,Nvidia GeForce GTX 1650,4096.0,2
+42521.42,Intel Core i5,4096.0,64.0,Nvidia GeForce GT 730,4096.0,2
+41761.89,Intel Core i5,4096.0,32.0,Nvidia GeForce GTX 1650,4096.0,2
+44323.62,Intel Core i5,4096.0,64.0,Nvidia GeForce GTX 1650,4096.0,2
+41680.39,Intel Core i5,4096.0,32.0,Nvidia GeForce GTX 1650,4096.0,2
+42881.86,Intel Core i5,4096.0,48.0,Nvidia GeForce GTX 1650,4096.0,2
+44862.05,Intel Core i5,4096.0,48.0,Nvidia GeForce GTX 1650,4096.0,2
+42192.12,Intel Core i5,4096.0,48.0,AMD Radeon RX550,4096.0,1
+42218.82,Intel Core i5,4096.0,16.0,Nvidia GeForce GTX 1650,4096.0,2
+42819.56,Intel Core i5,4096.0,24.0,Nvidia GeForce GTX 1650,4096.0,2
+43022.03,Intel Core i5,4096.0,64.0,NVIDIA GeForce GT1030,4096.0,0
+43660.59,Intel Core i5,4096.0,36.0,Intel UHD Graphics 730,0.0,0
+26499.49,Intel Core i5,512.0,16.0,Intel UHD Graphics 730,1024.0,0
+11499.0,Intel Core i5,256.0,40.0,Nvidia GeForce GT 730,500.0,2
+11249.0,Intel Core i5,4096.0,8.0,AMD Radeon RX 550,500.0,1
+11649.0,Intel Core i5,256.0,16.0,Nvidia GeForce GT 730,1024.0,2
+11349.0,Intel Core i5,4096.0,20.0,Nvidia GeForce GT 730,1024.0,2
+11399.0,Intel Core i5,1024.0,16.0,Nvidia GeForce GT 730,1024.0,2
+55839.0,Intel Core i7,1024.0,32.0,Nvidia GeForce RTX 3070,128.0,2
+30373.23,Intel Core i5,512.0,16.0,Dahili Ekran Kartı,512.0,1
+35529.76,Intel Core i5,2048.0,48.0,Dahili Ekran Kartı,2048.0,1
+40936.37,Intel Core i5,2048.0,40.0,Nvidia GeForce GTX 1650,2048.0,2
+29171.77,Intel Core i5,256.0,12.0,Dahili Ekran Kartı,256.0,1
+37647.9,Intel Core i5,2048.0,20.0,NVIDIA GeForce GT1030,2048.0,0
+34496.5,Intel Core i5,1024.0,20.0,Nvidia GeForce GT 730,1024.0,2
+31036.27,Intel Core i5,512.0,48.0,Dahili Ekran Kartı,512.0,1
+34167.55,Intel Core i5,512.0,24.0,Nvidia GeForce GTX 1650,512.0,2
+31997.44,Intel Core i5,512.0,12.0,Nvidia GeForce GT 730,512.0,2
+35642.91,Intel Core i5,1024.0,16.0,Nvidia GeForce GTX 1650,1024.0,2
+25971.13,Intel Core i5,512.0,8.0,Dahili Ekran Kartı,512.0,1
+40305.37,Intel Core i5,4096.0,12.0,NVIDIA GeForce GT1030,4096.0,0
+34496.5,Intel Core i5,1024.0,16.0,Nvidia GeForce GT 730,1024.0,2
+31733.12,Intel Core i5,1024.0,36.0,Dahili Ekran Kartı,1024.0,1
+37050.73,Intel Core i5,1024.0,36.0,AMD Radeon RX550,1024.0,1
+39645.9,Intel Core i5,2048.0,32.0,AMD Radeon RX550,2048.0,1
+32478.03,Intel Core i5,512.0,64.0,Dahili Ekran Kartı,512.0,1
+29082.74,Intel Core i5,256.0,8.0,AMD Radeon RX550,256.0,1
+32415.73,Intel Core i5,256.0,48.0,Dahili Ekran Kartı,256.0,1
+37298.38,Intel Core i5,2048.0,48.0,Nvidia GeForce GT 730,2048.0,2
+37930.82,Intel Core i5,2048.0,48.0,NVIDIA GeForce GT1030,2048.0,0
+31670.82,Intel Core i5,1024.0,8.0,Dahili Ekran Kartı,1024.0,1
+32509.18,Intel Core i5,256.0,12.0,AMD Radeon RX550,256.0,1
+31997.44,Intel Core i5,256.0,16.0,Nvidia GeForce GT 730,256.0,2
+31974.76,Intel Core i5,1024.0,20.0,NVIDIA GeForce GT1030,1024.0,0
+31817.91,Intel Core i5,1024.0,48.0,Dahili Ekran Kartı,1024.0,1
+34293.03,Intel Core i5,2048.0,16.0,Nvidia GeForce GT 730,2048.0,2
+32771.13,Intel Core i5,512.0,40.0,AMD Radeon RX550,512.0,1
+29133.33,Intel Core i5,256.0,20.0,NVIDIA GeForce GT1030,256.0,0
+33154.41,Intel Core i5,256.0,24.0,NVIDIA GeForce GT1030,256.0,0
+33817.44,Intel Core i5,512.0,48.0,NVIDIA GeForce GT1030,512.0,0
+31342.32,Intel Core i5,1024.0,20.0,Nvidia GeForce GT 730,1024.0,2
+36601.29,Intel Core i5,1024.0,64.0,Nvidia GeForce GT 730,1024.0,2
+35779.84,Intel Core i5,512.0,8.0,Nvidia GeForce GTX 1650,512.0,2
+29183.93,Intel Core i5,512.0,20.0,Nvidia GeForce GT 730,512.0,2
+35008.23,Intel Core i5,1024.0,12.0,AMD Radeon RX550,1024.0,1
+31730.45,Intel Core i5,256.0,24.0,AMD Radeon RX550,256.0,1
+38533.43,Intel Core i5,2048.0,36.0,Nvidia GeForce GT 730,2048.0,2
+35712.2,Intel Core i5,2048.0,24.0,Nvidia GeForce GT 730,2048.0,2
+39358.62,Intel Core i5,4096.0,32.0,Dahili Ekran Kartı,4096.0,1
+29816.37,Intel Core i5,256.0,24.0,NVIDIA GeForce GT1030,256.0,0
+40922.13,Intel Core i5,1024.0,48.0,Nvidia GeForce GTX 1650,1024.0,2
+34452.0,Intel Core i5,1024.0,8.0,NVIDIA GeForce GT1030,1024.0,0
+35214.71,Intel Core i5,256.0,64.0,AMD Radeon RX550,256.0,1
+35179.11,Intel Core i5,256.0,8.0,Nvidia GeForce GTX 1650,256.0,2
+32607.2,Intel Core i5,1024.0,20.0,AMD Radeon RX550,1024.0,1
+38402.37,Intel Core i5,4096.0,24.0,Dahili Ekran Kartı,4096.0,1
+34874.87,Intel Core i5,2048.0,8.0,AMD Radeon RX550,2048.0,1
+37822.34,Intel Core i5,512.0,36.0,Nvidia GeForce GTX 1650,512.0,2
+33484.52,Intel Core i5,512.0,20.0,Nvidia GeForce GTX 1650,512.0,2
+37221.6,Intel Core i5,256.0,32.0,Nvidia GeForce GTX 1650,256.0,2
+31733.12,Intel Core i5,1024.0,32.0,Dahili Ekran Kartı,1024.0,1
+33772.95,Intel Core i5,256.0,48.0,AMD Radeon RX550,256.0,1
+34039.94,Intel Core i5,256.0,40.0,Nvidia GeForce GT 730,256.0,2
+31291.72,Intel Core i5,1024.0,12.0,NVIDIA GeForce GT1030,1024.0,0
+37647.9,Intel Core i5,2048.0,16.0,NVIDIA GeForce GT1030,2048.0,0
+35608.5,Intel Core i5,2048.0,24.0,NVIDIA GeForce GT1030,2048.0,0
+31298.81,Intel Core i5,512.0,64.0,Dahili Ekran Kartı,512.0,1
+32138.69,Intel Core i5,256.0,48.0,NVIDIA GeForce GT1030,256.0,0
+31342.32,Intel Core i5,1024.0,16.0,Nvidia GeForce GT 730,1024.0,2
+37740.46,Intel Core i5,1024.0,36.0,Nvidia GeForce GTX 1650,1024.0,2
+37047.17,Intel Core i5,2048.0,8.0,NVIDIA GeForce GT1030,2048.0,0
+38533.43,Intel Core i5,2048.0,32.0,Nvidia GeForce GT 730,2048.0,2
+28976.49,Intel Core i5,256.0,48.0,Dahili Ekran Kartı,256.0,1
+36442.88,Intel Core i5,512.0,40.0,Nvidia GeForce GTX 1650,512.0,2
+38293.14,Intel Core i5,2048.0,8.0,Nvidia GeForce GTX 1650,2048.0,2
+36494.49,Intel Core i5,1024.0,32.0,NVIDIA GeForce GT1030,1024.0,0
+27191.57,Intel Core i5,256.0,12.0,Dahili Ekran Kartı,256.0,1
+37880.23,Intel Core i5,2048.0,40.0,AMD Radeon RX550,2048.0,1
+28500.89,Intel Core i5,256.0,16.0,Nvidia GeForce GT 730,256.0,2
+31763.27,Intel Core i5,2048.0,20.0,Dahili Ekran Kartı,2048.0,1
+37153.97,Intel Core i5,2048.0,40.0,Nvidia GeForce GT 730,2048.0,2
+32059.74,Intel Core i5,512.0,36.0,Nvidia GeForce GT 730,512.0,2
+32553.68,Intel Core i5,256.0,16.0,NVIDIA GeForce GT1030,256.0,0
+31997.44,Intel Core i5,256.0,20.0,Nvidia GeForce GT 730,256.0,2
+35715.76,Intel Core i5,1024.0,48.0,NVIDIA GeForce GT1030,1024.0,0
+40349.87,Intel Core i5,4096.0,20.0,Nvidia GeForce GT 730,4096.0,2
+36638.67,Intel Core i5,256.0,64.0,NVIDIA GeForce GT1030,256.0,0
+28976.49,Intel Core i5,512.0,40.0,Dahili Ekran Kartı,512.0,1
+29972.74,Intel Core i5,256.0,8.0,NVIDIA GeForce GT1030,256.0,0
+32088.09,Intel Core i5,256.0,40.0,AMD Radeon RX550,256.0,1
+37795.64,Intel Core i5,512.0,64.0,AMD Radeon RX550,512.0,1
+34874.87,Intel Core i5,2048.0,12.0,AMD Radeon RX550,2048.0,1
+34452.0,Intel Core i5,1024.0,12.0,NVIDIA GeForce GT1030,1024.0,0
+36353.88,Intel Core i5,512.0,48.0,AMD Radeon RX550,512.0,1
+35557.91,Intel Core i5,2048.0,20.0,AMD Radeon RX550,2048.0,1
+37036.3,Intel Core i5,4096.0,12.0,Dahili Ekran Kartı,4096.0,1
+32886.53,Intel Core i5,2048.0,20.0,Dahili Ekran Kartı,2048.0,1
+40198.5,Intel Core i5,4096.0,12.0,NVIDIA GeForce GT1030,4096.0,0
+28450.3,Intel Core i5,256.0,8.0,NVIDIA GeForce GT1030,256.0,0
+31730.45,Intel Core i5,512.0,20.0,AMD Radeon RX550,512.0,1
+29416.51,Intel Core i5,256.0,12.0,Nvidia GeForce GT 730,256.0,2
+34596.17,Intel Core i5,512.0,36.0,NVIDIA GeForce GT1030,512.0,0
+28812.56,Intel Core i5,1024.0,16.0,Dahili Ekran Kartı,1024.0,1
+37524.2,Intel Core i5,4096.0,12.0,Dahili Ekran Kartı,4096.0,1
+35806.84,Intel Core i5,256.0,48.0,Nvidia GeForce GTX 1650,256.0,2
+34551.67,Intel Core i5,256.0,32.0,AMD Radeon RX550,256.0,1
+28293.45,Intel Core i5,512.0,36.0,Dahili Ekran Kartı,512.0,1
+30892.09,Intel Core i5,1024.0,24.0,Dahili Ekran Kartı,1024.0,1
+40847.37,Intel Core i5,2048.0,48.0,AMD Radeon RX550,2048.0,1
+27792.3,Intel Core i5,512.0,12.0,Dahili Ekran Kartı,512.0,1
+37965.23,Intel Core i5,1024.0,40.0,Nvidia GeForce GTX 1650,1024.0,2
+34959.87,Intel Core i5,1024.0,8.0,Nvidia GeForce GTX 1650,1024.0,2
+34400.38,Intel Core i5,512.0,16.0,Nvidia GeForce GTX 1650,512.0,2
+31774.95,Intel Core i5,512.0,24.0,NVIDIA GeForce GT1030,512.0,0
+29183.93,Intel Core i5,512.0,16.0,Nvidia GeForce GT 730,512.0,2
+36308.49,Intel Core i5,2048.0,36.0,Dahili Ekran Kartı,2048.0,1
+39566.69,Intel Core i5,4096.0,36.0,Dahili Ekran Kartı,4096.0,1
+32516.3,Intel Core i5,1024.0,16.0,Nvidia GeForce GT 730,1024.0,2
+30435.53,Intel Core i5,256.0,48.0,Dahili Ekran Kartı,256.0,1
+33109.91,Intel Core i5,512.0,8.0,AMD Radeon RX550,512.0,1
+34510.74,Intel Core i5,2048.0,8.0,Nvidia GeForce GT 730,2048.0,2
+33172.21,Intel Core i5,512.0,32.0,AMD Radeon RX550,512.0,1
+40465.57,Intel Core i5,512.0,64.0,Nvidia GeForce GTX 1650,512.0,2
+35671.27,Intel Core i5,1024.0,40.0,AMD Radeon RX550,1024.0,1
+36272.0,Intel Core i5,1024.0,48.0,AMD Radeon RX550,1024.0,1
+35779.84,Intel Core i5,256.0,20.0,Nvidia GeForce GTX 1650,256.0,2
+39494.61,Intel Core i5,2048.0,24.0,Nvidia GeForce GTX 1650,2048.0,2
+35196.91,Intel Core i5,256.0,48.0,NVIDIA GeForce GT1030,256.0,0
+36223.94,Intel Core i5,2048.0,20.0,AMD Radeon RX550,2048.0,1
+37139.73,Intel Core i5,1024.0,48.0,Nvidia GeForce GT 730,1024.0,2
+39134.16,Intel Core i5,2048.0,40.0,Nvidia GeForce GT 730,2048.0,2
+40105.13,Intel Core i5,4096.0,20.0,Dahili Ekran Kartı,4096.0,1
+33828.56,Intel Core i5,512.0,64.0,Nvidia GeForce GT 730,512.0,2
+34596.17,Intel Core i5,512.0,32.0,NVIDIA GeForce GT1030,512.0,0
+34929.52,Intel Core i5,1024.0,40.0,AMD Radeon RX550,1024.0,1
+34039.94,Intel Core i5,512.0,32.0,Nvidia GeForce GT 730,512.0,2
+41506.84,Intel Core i5,4096.0,24.0,NVIDIA GeForce GT1030,4096.0,0
+31924.16,Intel Core i5,1024.0,8.0,AMD Radeon RX550,1024.0,1
+32189.28,Intel Core i5,512.0,48.0,Nvidia GeForce GT 730,512.0,2
+34925.47,Intel Core i5,2048.0,20.0,NVIDIA GeForce GT1030,2048.0,0
+34980.11,Intel Core i5,1024.0,48.0,NVIDIA GeForce GT1030,1024.0,0
+30451.84,Intel Core i5,1024.0,36.0,Dahili Ekran Kartı,1024.0,1
+28393.04,Intel Core i5,256.0,24.0,Dahili Ekran Kartı,256.0,1
+38581.49,Intel Core i5,1024.0,64.0,Nvidia GeForce GT 730,1024.0,2
+31129.71,Intel Core i5,256.0,20.0,AMD Radeon RX550,256.0,1
+37197.19,Intel Core i5,2048.0,32.0,AMD Radeon RX550,2048.0,1
+39566.06,Intel Core i5,4096.0,12.0,Nvidia GeForce GT 730,4096.0,2
+35152.41,Intel Core i5,256.0,40.0,AMD Radeon RX550,256.0,1
+35052.73,Intel Core i5,1024.0,16.0,NVIDIA GeForce GT1030,1024.0,0
+35052.73,Intel Core i5,1024.0,20.0,NVIDIA GeForce GT1030,1024.0,0
+34373.68,Intel Core i5,512.0,48.0,AMD Radeon RX550,512.0,1
+27610.42,Intel Core i5,256.0,32.0,Dahili Ekran Kartı,256.0,1
+31174.21,Intel Core i5,256.0,24.0,NVIDIA GeForce GT1030,256.0,0
+37665.7,Intel Core i5,2048.0,32.0,AMD Radeon RX550,2048.0,1
+37239.4,Intel Core i5,512.0,64.0,NVIDIA GeForce GT1030,512.0,0
+32471.8,Intel Core i5,1024.0,8.0,NVIDIA GeForce GT1030,1024.0,0
+37754.7,Intel Core i5,2048.0,48.0,Nvidia GeForce GT 730,2048.0,2
+30823.21,Intel Core i5,512.0,36.0,Nvidia GeForce GT 730,512.0,2
+39864.84,Intel Core i5,256.0,64.0,Nvidia GeForce GTX 1650,256.0,2
+34440.77,Intel Core i5,256.0,32.0,Nvidia GeForce GTX 1650,256.0,2
+32981.6,Intel Core i5,1024.0,32.0,Nvidia GeForce GT 730,1024.0,2
+30659.28,Intel Core i5,1024.0,8.0,Nvidia GeForce GT 730,1024.0,2
+36564.75,Intel Core i5,2048.0,32.0,NVIDIA GeForce GT1030,2048.0,0
+33487.26,Intel Core i5,2048.0,24.0,Dahili Ekran Kartı,2048.0,1
+33799.64,Intel Core i5,256.0,20.0,Nvidia GeForce GTX 1650,256.0,2
+30373.23,Intel Core i5,256.0,24.0,Dahili Ekran Kartı,256.0,1
+33772.95,Intel Core i5,512.0,40.0,AMD Radeon RX550,512.0,1
+41546.89,Intel Core i5,4096.0,36.0,Dahili Ekran Kartı,4096.0,1
+29659.52,Intel Core i5,512.0,48.0,Dahili Ekran Kartı,512.0,1
+38879.63,Intel Core i5,1024.0,24.0,Nvidia GeForce GTX 1650,1024.0,2
+39276.65,Intel Core i5,2048.0,24.0,Nvidia GeForce GTX 1650,2048.0,2
+31080.24,Intel Core i5,2048.0,8.0,Dahili Ekran Kartı,2048.0,1
+33172.21,Intel Core i5,256.0,40.0,AMD Radeon RX550,256.0,1
+39089.67,Intel Core i5,2048.0,36.0,NVIDIA GeForce GT1030,2048.0,0
+35932.31,Intel Core i5,2048.0,32.0,Nvidia GeForce GT 730,2048.0,2
+40232.9,Intel Core i5,2048.0,36.0,Nvidia GeForce GTX 1650,2048.0,2
+31506.25,Intel Core i5,512.0,40.0,Nvidia GeForce GT 730,512.0,2
+33028.03,Intel Core i5,1024.0,8.0,AMD Radeon RX550,1024.0,1
+38248.64,Intel Core i5,2048.0,24.0,NVIDIA GeForce GT1030,2048.0,0
+30617.98,Intel Core i5,256.0,24.0,Nvidia GeForce GT 730,256.0,2
+40906.11,Intel Core i5,4096.0,20.0,NVIDIA GeForce GT1030,4096.0,0
+31915.56,Intel Core i5,1024.0,8.0,Nvidia GeForce GT 730,1024.0,2
+30140.18,Intel Core i5,256.0,32.0,Nvidia GeForce GT 730,256.0,2
+32059.74,Intel Core i5,512.0,32.0,Nvidia GeForce GT 730,512.0,2
+35467.46,Intel Core i5,2048.0,24.0,Dahili Ekran Kartı,2048.0,1
+30017.24,Intel Core i5,512.0,12.0,Nvidia GeForce GT 730,512.0,2
+31459.01,Intel Core i5,256.0,32.0,Nvidia GeForce GT 730,256.0,2
+38293.14,Intel Core i5,2048.0,12.0,Nvidia GeForce GTX 1650,2048.0,2
+31974.76,Intel Core i5,1024.0,16.0,NVIDIA GeForce GT1030,1024.0,0
+29133.33,Intel Core i5,256.0,16.0,NVIDIA GeForce GT1030,256.0,0
+38725.67,Intel Core i5,4096.0,24.0,Dahili Ekran Kartı,4096.0,1
+36490.93,Intel Core i5,2048.0,12.0,Nvidia GeForce GT 730,2048.0,2
+33457.2,Intel Core i5,1024.0,64.0,Dahili Ekran Kartı,1024.0,1
+37719.33,Intel Core i5,4096.0,16.0,Dahili Ekran Kartı,4096.0,1
+36971.52,Intel Core i5,2048.0,64.0,Dahili Ekran Kartı,2048.0,1
+38941.93,Intel Core i5,1024.0,48.0,Nvidia GeForce GTX 1650,1024.0,2
+33198.91,Intel Core i5,512.0,24.0,Nvidia GeForce GT 730,512.0,2
+33216.71,Intel Core i5,512.0,40.0,NVIDIA GeForce GT1030,512.0,0
+32088.09,Intel Core i5,512.0,36.0,AMD Radeon RX550,512.0,1
+40874.07,Intel Core i5,2048.0,16.0,Nvidia GeForce GTX 1650,2048.0,2
+34510.74,Intel Core i5,2048.0,12.0,Nvidia GeForce GT 730,2048.0,2
+36553.23,Intel Core i5,2048.0,36.0,Nvidia GeForce GT 730,2048.0,2
+38266.44,Intel Core i5,2048.0,40.0,AMD Radeon RX550,2048.0,1
+29834.8,Intel Core i5,256.0,40.0,Dahili Ekran Kartı,256.0,1
+37091.67,Intel Core i5,2048.0,16.0,Nvidia GeForce GT 730,2048.0,2
+39137.72,Intel Core i5,1024.0,64.0,NVIDIA GeForce GT1030,1024.0,0
+33439.2,Intel Core i5,256.0,36.0,Nvidia GeForce GT 730,256.0,2
+31214.26,Intel Core i5,256.0,32.0,Dahili Ekran Kartı,256.0,1
+40874.07,Intel Core i5,2048.0,20.0,Nvidia GeForce GTX 1650,2048.0,2
+33895.76,Intel Core i5,1024.0,12.0,Nvidia GeForce GT 730,1024.0,2
+41474.8,Intel Core i5,2048.0,24.0,Nvidia GeForce GTX 1650,2048.0,2
+27792.3,Intel Core i5,512.0,8.0,Dahili Ekran Kartı,512.0,1
+31405.06,Intel Core i5,256.0,36.0,AMD Radeon RX550,256.0,1
+34959.87,Intel Core i5,1024.0,12.0,Nvidia GeForce GTX 1650,1024.0,2
+37194.91,Intel Core i5,256.0,64.0,AMD Radeon RX550,256.0,1
+34293.03,Intel Core i5,2048.0,20.0,Nvidia GeForce GT 730,2048.0,2
+30291.36,Intel Core i5,1024.0,16.0,Dahili Ekran Kartı,1024.0,1
+40335.63,Intel Core i5,2048.0,32.0,Nvidia GeForce GTX 1650,2048.0,2
+35642.91,Intel Core i5,1024.0,20.0,Nvidia GeForce GTX 1650,1024.0,2
+30617.98,Intel Core i5,512.0,20.0,Nvidia GeForce GT 730,512.0,2
+29765.77,Intel Core i5,256.0,20.0,AMD Radeon RX550,256.0,1
+34328.29,Intel Core i5,2048.0,32.0,Dahili Ekran Kartı,2048.0,1
+32509.18,Intel Core i5,256.0,8.0,AMD Radeon RX550,256.0,1
+39504.39,Intel Core i5,4096.0,12.0,Dahili Ekran Kartı,4096.0,1
+32821.72,Intel Core i5,512.0,48.0,NVIDIA GeForce GT1030,512.0,0
+38278.9,Intel Core i5,1024.0,20.0,Nvidia GeForce GTX 1650,1024.0,2
+36899.43,Intel Core i5,1024.0,24.0,Nvidia GeForce GTX 1650,1024.0,2
+40881.53,Intel Core i5,4096.0,16.0,NVIDIA GeForce GT1030,4096.0,0
+36909.22,Intel Core i5,2048.0,40.0,Dahili Ekran Kartı,2048.0,1
+38124.93,Intel Core i5,4096.0,16.0,Dahili Ekran Kartı,4096.0,1
+33109.91,Intel Core i5,256.0,16.0,AMD Radeon RX550,256.0,1
+29133.33,Intel Core i5,512.0,12.0,NVIDIA GeForce GT1030,512.0,0
+36619.39,Intel Core i5,1024.0,64.0,NVIDIA GeForce GT1030,1024.0,0
+36407.91,Intel Core i5,2048.0,64.0,Dahili Ekran Kartı,2048.0,1
+35667.71,Intel Core i5,2048.0,16.0,NVIDIA GeForce GT1030,2048.0,0
+29834.8,Intel Core i5,512.0,36.0,Dahili Ekran Kartı,512.0,1
+32285.79,Intel Core i5,2048.0,8.0,Dahili Ekran Kartı,2048.0,1
+31174.21,Intel Core i5,512.0,20.0,NVIDIA GeForce GT1030,512.0,0
+40881.53,Intel Core i5,4096.0,20.0,NVIDIA GeForce GT1030,4096.0,0
+31405.06,Intel Core i5,256.0,32.0,AMD Radeon RX550,256.0,1
+40249.09,Intel Core i5,4096.0,16.0,Nvidia GeForce GT 730,4096.0,2
+30772.62,Intel Core i5,256.0,32.0,NVIDIA GeForce GT1030,256.0,0
+36442.88,Intel Core i5,256.0,48.0,Nvidia GeForce GTX 1650,256.0,2
+29183.93,Intel Core i5,256.0,24.0,Nvidia GeForce GT 730,256.0,2
+31080.24,Intel Core i5,2048.0,12.0,Dahili Ekran Kartı,2048.0,1
+33710.65,Intel Core i5,512.0,16.0,AMD Radeon RX550,512.0,1
+40321.39,Intel Core i5,1024.0,40.0,Nvidia GeForce GTX 1650,1024.0,2
+40830.94,Intel Core i5,4096.0,12.0,AMD Radeon RX550,4096.0,1
+33484.52,Intel Core i5,256.0,24.0,Nvidia GeForce GTX 1650,256.0,2
+36380.58,Intel Core i5,256.0,24.0,Nvidia GeForce GTX 1650,256.0,2
+36298.7,Intel Core i5,1024.0,16.0,Nvidia GeForce GTX 1650,1024.0,2
+36538.99,Intel Core i5,1024.0,40.0,Nvidia GeForce GT 730,1024.0,2
+33710.65,Intel Core i5,512.0,20.0,AMD Radeon RX550,512.0,1
+30017.24,Intel Core i5,256.0,16.0,Nvidia GeForce GT 730,256.0,2
+29834.8,Intel Core i5,512.0,32.0,Dahili Ekran Kartı,512.0,1
+32138.69,Intel Core i5,512.0,40.0,NVIDIA GeForce GT1030,512.0,0
+36356.55,Intel Core i5,1024.0,64.0,Dahili Ekran Kartı,1024.0,1
+39720.66,Intel Core i5,1024.0,36.0,Nvidia GeForce GTX 1650,1024.0,2
+34400.38,Intel Core i5,512.0,20.0,Nvidia GeForce GTX 1650,512.0,2
+32801.48,Intel Core i5,512.0,8.0,Nvidia GeForce GTX 1650,512.0,2
+40932.13,Intel Core i5,4096.0,24.0,Nvidia GeForce GT 730,4096.0,2
+29133.33,Intel Core i5,512.0,8.0,NVIDIA GeForce GT1030,512.0,0
+34514.3,Intel Core i5,1024.0,36.0,NVIDIA GeForce GT1030,1024.0,0
+34347.67,Intel Core i5,1024.0,48.0,Nvidia GeForce GT 730,1024.0,2
+37910.58,Intel Core i5,2048.0,8.0,Nvidia GeForce GTX 1650,2048.0,2
+33154.41,Intel Core i5,512.0,16.0,NVIDIA GeForce GT1030,512.0,0
+30528.98,Intel Core i5,256.0,12.0,AMD Radeon RX550,256.0,1
+29171.77,Intel Core i5,256.0,8.0,Dahili Ekran Kartı,256.0,1
+37665.7,Intel Core i5,2048.0,36.0,AMD Radeon RX550,2048.0,1
+32615.98,Intel Core i5,256.0,40.0,NVIDIA GeForce GT1030,256.0,0
+30823.21,Intel Core i5,256.0,40.0,Nvidia GeForce GT 730,256.0,2
+34866.73,Intel Core i5,2048.0,20.0,Dahili Ekran Kartı,2048.0,1
+40202.54,Intel Core i5,2048.0,64.0,AMD Radeon RX550,2048.0,1
+37247.79,Intel Core i5,2048.0,40.0,NVIDIA GeForce GT1030,2048.0,0
+37109.47,Intel Core i5,2048.0,32.0,NVIDIA GeForce GT1030,2048.0,0
+37197.19,Intel Core i5,2048.0,36.0,AMD Radeon RX550,2048.0,1
+29816.37,Intel Core i5,512.0,16.0,NVIDIA GeForce GT1030,512.0,0
+34551.67,Intel Core i5,256.0,36.0,AMD Radeon RX550,256.0,1
+38204.14,Intel Core i5,2048.0,20.0,AMD Radeon RX550,2048.0,1
+33454.16,Intel Core i5,512.0,48.0,AMD Radeon RX550,512.0,1
+34265.99,Intel Core i5,2048.0,8.0,Dahili Ekran Kartı,2048.0,1
+31396.71,Intel Core i5,256.0,8.0,Nvidia GeForce GT 730,256.0,2
+28129.52,Intel Core i5,1024.0,8.0,Dahili Ekran Kartı,1024.0,1
+32801.48,Intel Core i5,256.0,20.0,Nvidia GeForce GTX 1650,256.0,2
+29972.74,Intel Core i5,256.0,12.0,NVIDIA GeForce GT1030,256.0,0
+33710.65,Intel Core i5,256.0,24.0,AMD Radeon RX550,256.0,1
+33402.55,Intel Core i5,2048.0,32.0,Dahili Ekran Kartı,2048.0,1
+36308.49,Intel Core i5,2048.0,32.0,Dahili Ekran Kartı,2048.0,1
+39089.67,Intel Core i5,2048.0,32.0,NVIDIA GeForce GT1030,2048.0,0
+30659.28,Intel Core i5,1024.0,12.0,Nvidia GeForce GT 730,1024.0,2
+38893.87,Intel Core i5,2048.0,16.0,Nvidia GeForce GTX 1650,2048.0,2
+37109.47,Intel Core i5,2048.0,36.0,NVIDIA GeForce GT1030,2048.0,0
+40273.33,Intel Core i5,2048.0,12.0,Nvidia GeForce GTX 1650,2048.0,2
+32015.24,Intel Core i5,256.0,32.0,NVIDIA GeForce GT1030,256.0,0
+37091.67,Intel Core i5,2048.0,20.0,Nvidia GeForce GT 730,2048.0,2
+34246.48,Intel Core i5,1024.0,36.0,AMD Radeon RX550,1024.0,1
+36683.17,Intel Core i5,512.0,64.0,Nvidia GeForce GT 730,512.0,2
+35608.97,Intel Core i5,1024.0,16.0,AMD Radeon RX550,1024.0,1
+41513.97,Intel Core i5,4096.0,20.0,AMD Radeon RX550,4096.0,1
+32553.68,Intel Core i5,512.0,8.0,NVIDIA GeForce GT1030,512.0,0
+38563.26,Intel Core i5,2048.0,48.0,AMD Radeon RX550,2048.0,1
+39734.9,Intel Core i5,2048.0,48.0,Nvidia GeForce GT 730,2048.0,2
+29234.06,Intel Core i5,256.0,36.0,Dahili Ekran Kartı,256.0,1
+31455.65,Intel Core i5,512.0,32.0,NVIDIA GeForce GT1030,512.0,0
+33145.53,Intel Core i5,256.0,64.0,Nvidia GeForce GT 730,256.0,2
+25971.13,Intel Core i5,256.0,20.0,Dahili Ekran Kartı,256.0,1
+36223.94,Intel Core i5,2048.0,16.0,AMD Radeon RX550,2048.0,1
+39752.7,Intel Core i5,2048.0,64.0,NVIDIA GeForce GT1030,2048.0,0
+32118.45,Intel Core i5,256.0,8.0,Nvidia GeForce GTX 1650,256.0,2
+30573.48,Intel Core i5,512.0,12.0,NVIDIA GeForce GT1030,512.0,0
+37710.2,Intel Core i5,2048.0,40.0,NVIDIA GeForce GT1030,2048.0,0
+35623.21,Intel Core i5,2048.0,12.0,AMD Radeon RX550,2048.0,1
+29690.62,Intel Core i5,1024.0,12.0,Dahili Ekran Kartı,1024.0,1
+32516.3,Intel Core i5,1024.0,20.0,Nvidia GeForce GT 730,1024.0,2
+32660.47,Intel Core i5,256.0,48.0,Nvidia GeForce GT 730,256.0,2
+38893.87,Intel Core i5,2048.0,20.0,Nvidia GeForce GTX 1650,2048.0,2
+36615.35,Intel Core i5,2048.0,40.0,Nvidia GeForce GT 730,2048.0,2
+37050.73,Intel Core i5,1024.0,32.0,AMD Radeon RX550,1024.0,1
+40308.93,Intel Core i5,2048.0,64.0,AMD Radeon RX550,2048.0,1
+40198.5,Intel Core i5,4096.0,8.0,NVIDIA GeForce GT1030,4096.0,0
+39396.56,Intel Core i5,4096.0,48.0,NVIDIA GeForce GT1030,4096.0,0
+33087.66,Intel Core i5,512.0,24.0,Nvidia GeForce GTX 1650,512.0,2
+33585.49,Intel Core i3,4096.0,64.0,Dahili Ekran Kartı,4096.0,1
+25092.89,Intel Core i3,256.0,32.0,NVIDIA GeForce GT1030,256.0,0
+29408.39,Intel Core i3,2048.0,48.0,NVIDIA GeForce GT1030,2048.0,0
+28374.41,Intel Core i5,512.0,8.0,Nvidia GeForce GTX 1650,512.0,2
+33983.76,Intel Core i3,4096.0,16.0,NVIDIA GeForce GT1030,4096.0,0
+25326.05,Intel Core i5,256.0,24.0,NVIDIA GeForce GT1030,256.0,0
+41035.85,Intel Core i5,4096.0,64.0,NVIDIA GeForce GT1030,4096.0,0
+30787.85,Intel Core i3,2048.0,40.0,NVIDIA GeForce GT1030,2048.0,0
+21797.03,Intel Core i5,512.0,8.0,Dahili Ekran Kartı,512.0,1
+27825.68,Intel Core i5,512.0,24.0,NVIDIA GeForce GT1030,512.0,0
+38811.18,Intel Core i5,2048.0,64.0,Nvidia GeForce GTX 1650,2048.0,2
+27913.36,Intel Core i3,4096.0,16.0,Dahili Ekran Kartı,4096.0,1
+31379.76,Intel Core i5,512.0,40.0,Nvidia GeForce GTX 1650,512.0,2
+30235.68,Intel Core i3,4096.0,40.0,Dahili Ekran Kartı,4096.0,1
+23050.4,Intel Core i3,256.0,8.0,NVIDIA GeForce GT1030,256.0,0
+23190.57,Intel Core i3,256.0,40.0,Dahili Ekran Kartı,256.0,1
+26442.56,Intel Core i3,2048.0,32.0,NVIDIA GeForce GT1030,2048.0,0
+31379.76,Intel Core i5,256.0,48.0,Nvidia GeForce GTX 1650,256.0,2
+28604.41,Intel Core i5,256.0,20.0,NVIDIA GeForce GT1030,256.0,0
+34399.49,Intel Core i5,2048.0,12.0,Nvidia GeForce GTX 1650,2048.0,2
+27484.44,Intel Core i5,1024.0,16.0,NVIDIA GeForce GT1030,1024.0,0
+25092.89,Intel Core i3,256.0,36.0,NVIDIA GeForce GT1030,256.0,0
+26906.13,Intel Core i5,2048.0,8.0,Dahili Ekran Kartı,2048.0,1
+21169.53,Intel Core i3,1024.0,8.0,NVIDIA GeForce GT1030,1024.0,0
+33483.51,Intel Core i5,2048.0,8.0,Nvidia GeForce GTX 1650,2048.0,2
+29970.68,Intel Core i5,512.0,64.0,NVIDIA GeForce GT1030,512.0,0
+30918.71,Intel Core i3,4096.0,48.0,Dahili Ekran Kartı,4096.0,1
+21748.8,Intel Core i3,512.0,20.0,Dahili Ekran Kartı,512.0,1
+26624.21,Intel Core i5,256.0,16.0,NVIDIA GeForce GT1030,256.0,0
+33327.96,Intel Core i5,256.0,32.0,Nvidia GeForce GTX 1650,256.0,2
+33208.26,Intel Core i5,1024.0,64.0,NVIDIA GeForce GT1030,1024.0,0
+30187.12,Intel Core i3,2048.0,32.0,NVIDIA GeForce GT1030,2048.0,0
+31285.46,Intel Core i5,256.0,12.0,Nvidia GeForce GTX 1650,256.0,2
+23046.39,Intel Core i3,1024.0,12.0,Dahili Ekran Kartı,1024.0,1
+21748.8,Intel Core i3,256.0,24.0,Dahili Ekran Kartı,256.0,1
+26765.16,Intel Core i3,2048.0,16.0,NVIDIA GeForce GT1030,2048.0,0
+22271.67,Intel Core i3,512.0,20.0,NVIDIA GeForce GT1030,512.0,0
+35805.82,Intel Core i5,2048.0,36.0,Nvidia GeForce GTX 1650,2048.0,2
+31247.64,Intel Core i5,512.0,40.0,NVIDIA GeForce GT1030,512.0,0
+31247.64,Intel Core i5,256.0,48.0,NVIDIA GeForce GT1030,256.0,0
+27684.06,Intel Core i3,2048.0,36.0,Dahili Ekran Kartı,2048.0,1
+31886.19,Intel Core i5,256.0,20.0,Nvidia GeForce GTX 1650,256.0,2
+22271.67,Intel Core i3,512.0,16.0,NVIDIA GeForce GT1030,512.0,0
+28336.86,Intel Core i3,512.0,64.0,NVIDIA GeForce GT1030,512.0,0
+35803.43,Intel Core i5,2048.0,64.0,NVIDIA GeForce GT1030,2048.0,0
+27589.17,Intel Core i5,2048.0,16.0,Dahili Ekran Kartı,2048.0,1
+23112.69,Intel Core i3,256.0,32.0,NVIDIA GeForce GT1030,256.0,0
+26290.36,Intel Core i3,1024.0,48.0,Dahili Ekran Kartı,1024.0,1
+26441.67,Intel Core i5,256.0,64.0,Dahili Ekran Kartı,256.0,1
+30532.8,Intel Core i5,1024.0,8.0,Nvidia GeForce GTX 1650,1024.0,2
+32545.22,Intel Core i5,1024.0,32.0,NVIDIA GeForce GT1030,1024.0,0
+33097.9,Intel Core i5,2048.0,12.0,NVIDIA GeForce GT1030,2048.0,0
+31886.19,Intel Core i5,256.0,16.0,Nvidia GeForce GTX 1650,256.0,2
+27913.36,Intel Core i3,4096.0,20.0,Dahili Ekran Kartı,4096.0,1
+25233.06,Intel Core i3,256.0,64.0,Dahili Ekran Kartı,256.0,1
+32003.56,Intel Core i3,4096.0,20.0,NVIDIA GeForce GT1030,4096.0,0
+29123.72,Intel Core i5,1024.0,32.0,NVIDIA GeForce GT1030,1024.0,0
+40805.64,Intel Core i5,4096.0,24.0,Nvidia GeForce GTX 1650,4096.0,2
+36980.42,Intel Core i5,2048.0,20.0,Nvidia GeForce GTX 1650,2048.0,2
+20645.87,Intel Core i3,1024.0,32.0,Dahili Ekran Kartı,1024.0,1
+27589.17,Intel Core i5,2048.0,20.0,Dahili Ekran Kartı,2048.0,1
+24174.88,Intel Core i3,1024.0,40.0,NVIDIA GeForce GT1030,1024.0,0
+32855.11,Intel Core i5,1024.0,36.0,Nvidia GeForce GTX 1650,1024.0,2
+25693.63,Intel Core i3,512.0,36.0,NVIDIA GeForce GT1030,512.0,0
+32319.17,Intel Core i5,2048.0,24.0,NVIDIA GeForce GT1030,2048.0,0
+26965.33,Intel Core i5,512.0,32.0,NVIDIA GeForce GT1030,512.0,0
+29752.11,Intel Core i5,2048.0,12.0,NVIDIA GeForce GT1030,2048.0,0
+31388.59,Intel Core i3,2048.0,48.0,NVIDIA GeForce GT1030,2048.0,0
+25703.86,Intel Core i3,2048.0,36.0,Dahili Ekran Kartı,2048.0,1
+25693.63,Intel Core i3,256.0,40.0,NVIDIA GeForce GT1030,256.0,0
+24251.86,Intel Core i3,256.0,24.0,NVIDIA GeForce GT1030,256.0,0
+26019.47,Intel Core i5,1024.0,12.0,Dahili Ekran Kartı,1024.0,1
+31796.31,Intel Core i5,2048.0,24.0,Dahili Ekran Kartı,2048.0,1
+26212.48,Intel Core i3,1024.0,40.0,NVIDIA GeForce GT1030,1024.0,0
+24857.91,Intel Core i3,1024.0,48.0,NVIDIA GeForce GT1030,1024.0,0
+38398.6,Intel Core i5,4096.0,32.0,NVIDIA GeForce GT1030,4096.0,0
+36956.84,Intel Core i5,4096.0,20.0,NVIDIA GeForce GT1030,4096.0,0
+31402.83,Intel Core i3,4096.0,12.0,NVIDIA GeForce GT1030,4096.0,0
+22480.07,Intel Core i5,256.0,24.0,Dahili Ekran Kartı,256.0,1
+20547.34,Intel Core i3,256.0,8.0,Dahili Ekran Kartı,256.0,1
+38189.87,Intel Core i5,4096.0,64.0,Dahili Ekran Kartı,4096.0,1
+34221.18,Intel Core i5,1024.0,48.0,Nvidia GeForce GTX 1650,1024.0,2
+38030.49,Intel Core i5,4096.0,36.0,NVIDIA GeForce GT1030,4096.0,0
+20650.42,Intel Core i3,256.0,36.0,NVIDIA GeForce GT1030,256.0,0
+22271.67,Intel Core i3,256.0,24.0,NVIDIA GeForce GT1030,256.0,0
+21169.53,Intel Core i3,1024.0,12.0,NVIDIA GeForce GT1030,1024.0,0
+33698.63,Intel Core i5,2048.0,20.0,NVIDIA GeForce GT1030,2048.0,0
+25755.92,Intel Core i3,256.0,64.0,NVIDIA GeForce GT1030,256.0,0
+30502.73,Intel Core i5,1024.0,12.0,NVIDIA GeForce GT1030,1024.0,0
+38398.6,Intel Core i5,4096.0,36.0,NVIDIA GeForce GT1030,4096.0,0
+28206.92,Intel Core i3,2048.0,36.0,NVIDIA GeForce GT1030,2048.0,0
+27648.36,Intel Core i5,256.0,48.0,NVIDIA GeForce GT1030,256.0,0
+25088.89,Intel Core i3,1024.0,36.0,Dahili Ekran Kartı,1024.0,1
+25611.75,Intel Core i3,1024.0,36.0,NVIDIA GeForce GT1030,1024.0,0
+28374.41,Intel Core i5,512.0,12.0,Nvidia GeForce GTX 1650,512.0,2
+25611.75,Intel Core i3,1024.0,32.0,NVIDIA GeForce GT1030,1024.0,0
+30489.79,Intel Core i5,1024.0,48.0,NVIDIA GeForce GT1030,1024.0,0
+27808.62,Intel Core i3,2048.0,48.0,NVIDIA GeForce GT1030,2048.0,0
+21148.07,Intel Core i3,512.0,12.0,Dahili Ekran Kartı,512.0,1
+31107.47,Intel Core i5,512.0,24.0,Nvidia GeForce GTX 1650,512.0,2
+31718.43,Intel Core i5,2048.0,20.0,NVIDIA GeForce GT1030,2048.0,0
+37171.89,Intel Core i5,2048.0,48.0,Nvidia GeForce GTX 1650,2048.0,2
+30696.72,Intel Core i5,512.0,36.0,Nvidia GeForce GTX 1650,512.0,2
+33216.15,Intel Core i3,4096.0,24.0,AMD Radeon RX550,4096.0,1
+26367.78,Intel Core i3,256.0,64.0,AMD Radeon RX550,256.0,1
+30020.25,Intel Core i3,2048.0,48.0,AMD Radeon RX550,2048.0,1
+25498.96,Intel Core i3,2048.0,16.0,AMD Radeon RX550,2048.0,1
+29205.14,Intel Core i5,512.0,16.0,NVIDIA GeForce GT1030,512.0,0
+23724.55,Intel Core i3,256.0,32.0,AMD Radeon RX550,256.0,1
+36550.59,Intel Core i5,4096.0,48.0,Dahili Ekran Kartı,4096.0,1
+39548.89,Intel Core i5,4096.0,20.0,AMD Radeon RX550,4096.0,1
+32138.05,Intel Core i3,4096.0,24.0,AMD Radeon RX550,4096.0,1
+35196.35,Intel Core i3,4096.0,24.0,AMD Radeon RX550,4096.0,1
+28677.83,Intel Core i5,256.0,36.0,AMD Radeon RX550,256.0,1
+40149.63,Intel Core i5,4096.0,24.0,AMD Radeon RX550,4096.0,1
+37769.93,Intel Core i5,4096.0,24.0,AMD Radeon RX550,4096.0,1
+38169.43,Intel Core i5,4096.0,24.0,AMD Radeon RX550,4096.0,1
+33846.81,Intel Core i5,1024.0,32.0,Nvidia GeForce GTX 1650,1024.0,2
+31185.47,Intel Core i5,1024.0,48.0,AMD Radeon RX550,1024.0,1
+29724.0,Intel Core i5,1024.0,24.0,NVIDIA GeForce GT1030,1024.0,0
+21771.05,Intel Core i3,512.0,20.0,Nvidia GeForce GT 730,512.0,2
+25793.75,Intel Core i3,256.0,48.0,Nvidia GeForce GT 730,256.0,2
+29865.95,Intel Core i5,2048.0,16.0,Nvidia GeForce GT 730,2048.0,2
+25193.01,Intel Core i3,256.0,40.0,Nvidia GeForce GT 730,256.0,2
+30665.15,Intel Core i5,1024.0,40.0,Nvidia GeForce GT 730,1024.0,2
+24262.99,Intel Core i3,256.0,16.0,AMD Radeon RX550,256.0,1
+23813.55,Intel Core i3,512.0,40.0,Nvidia GeForce GT 730,512.0,2
+24325.29,Intel Core i3,512.0,32.0,AMD Radeon RX550,512.0,1
+29865.95,Intel Core i5,2048.0,20.0,Nvidia GeForce GT 730,2048.0,2
+29027.08,Intel Core i5,512.0,48.0,AMD Radeon RX550,512.0,1
+25338.7,Intel Core i5,512.0,8.0,AMD Radeon RX550,512.0,1
+35240.52,Intel Core i5,2048.0,40.0,Nvidia GeForce GT 730,2048.0,2
+32188.27,Intel Core i5,2048.0,40.0,Nvidia GeForce GT 730,2048.0,2
+28666.7,Intel Core i5,256.0,40.0,NVIDIA GeForce GT1030,256.0,0
+39439.57,Intel Core i5,4096.0,8.0,Nvidia GeForce GTX 1650,4096.0,2
+25111.14,Intel Core i3,1024.0,32.0,Nvidia GeForce GT 730,1024.0,2
+35805.82,Intel Core i5,2048.0,32.0,Nvidia GeForce GTX 1650,2048.0,2
+26305.48,Intel Core i3,512.0,36.0,AMD Radeon RX550,512.0,1
+23551.04,Intel Core i3,2048.0,12.0,Nvidia GeForce GT 730,2048.0,2
+28948.72,Intel Core i3,512.0,64.0,AMD Radeon RX550,512.0,1
+30847.04,Intel Core i3,1024.0,64.0,AMD Radeon RX550,1024.0,1
+38937.03,Intel Core i5,4096.0,16.0,NVIDIA GeForce GT1030,4096.0,0
+27836.8,Intel Core i5,512.0,20.0,AMD Radeon RX550,512.0,1
+38422.18,Intel Core i5,2048.0,36.0,Nvidia GeForce GTX 1650,2048.0,2
+33238.07,Intel Core i5,2048.0,40.0,Dahili Ekran Kartı,2048.0,1
+25321.49,Intel Core i5,1024.0,24.0,Dahili Ekran Kartı,1024.0,1
+36415.29,Intel Core i5,2048.0,64.0,AMD Radeon RX550,2048.0,1
+26865.28,Intel Core i3,2048.0,24.0,Nvidia GeForce GT 730,2048.0,2
+30002.11,Intel Core i5,1024.0,8.0,Nvidia GeForce GT 730,1024.0,2
+33983.76,Intel Core i3,4096.0,20.0,NVIDIA GeForce GT1030,4096.0,0
+20389.85,Intel Core i3,512.0,16.0,AMD Radeon RX550,512.0,1
+36403.86,Intel Core i5,4096.0,12.0,AMD Radeon RX550,4096.0,1
+26915.24,Intel Core i5,1024.0,16.0,Nvidia GeForce GT 730,1024.0,2
+22548.24,Intel Core i3,1024.0,16.0,AMD Radeon RX550,1024.0,1
+31704.19,Intel Core i5,1024.0,24.0,NVIDIA GeForce GT1030,1024.0,0
+33757.82,Intel Core i5,1024.0,40.0,AMD Radeon RX550,1024.0,1
+27543.11,Intel Core i5,256.0,32.0,Dahili Ekran Kartı,256.0,1
+30617.09,Intel Core i5,2048.0,12.0,Nvidia GeForce GT 730,2048.0,2
+39010.46,Intel Core i5,4096.0,36.0,AMD Radeon RX550,4096.0,1
+28604.41,Intel Core i5,512.0,8.0,NVIDIA GeForce GT1030,512.0,0
+30143.59,Intel Core i3,2048.0,64.0,AMD Radeon RX550,2048.0,1
+39099.46,Intel Core i5,4096.0,48.0,Nvidia GeForce GT 730,4096.0,2
+34083.88,Intel Core i3,4096.0,24.0,Nvidia GeForce GT 730,4096.0,2
+20569.59,Intel Core i3,256.0,12.0,Nvidia GeForce GT 730,256.0,2
+30879.96,Intel Core i3,4096.0,8.0,Dahili Ekran Kartı,4096.0,1
+28899.77,Intel Core i3,4096.0,8.0,Dahili Ekran Kartı,4096.0,1
+27565.36,Intel Core i5,256.0,36.0,Nvidia GeForce GT 730,256.0,2
+33198.02,Intel Core i5,2048.0,20.0,Nvidia GeForce GT 730,2048.0,2
+33772.06,Intel Core i5,2048.0,36.0,AMD Radeon RX550,2048.0,1
+28614.64,Intel Core i5,2048.0,8.0,Dahili Ekran Kartı,2048.0,1
+31859.5,Intel Core i5,256.0,48.0,AMD Radeon RX550,256.0,1
+23231.28,Intel Core i3,1024.0,24.0,AMD Radeon RX550,1024.0,1
+27236.07,Intel Core i5,256.0,20.0,AMD Radeon RX550,256.0,1
+28662.7,Intel Core i5,1024.0,40.0,Dahili Ekran Kartı,1024.0,1
+38713.53,Intel Core i5,4096.0,40.0,NVIDIA GeForce GT1030,4096.0,0
+24325.29,Intel Core i3,512.0,36.0,AMD Radeon RX550,512.0,1
+21170.32,Intel Core i3,512.0,12.0,Nvidia GeForce GT 730,512.0,2
+27999.67,Intel Core i5,1024.0,12.0,Dahili Ekran Kartı,1024.0,1
+21170.32,Intel Core i3,256.0,16.0,Nvidia GeForce GT 730,256.0,2
+21346.1,Intel Core i3,256.0,32.0,AMD Radeon RX550,256.0,1
+29346.09,Intel Core i3,2048.0,24.0,NVIDIA GeForce GT1030,2048.0,0
+20547.34,Intel Core i3,256.0,12.0,Dahili Ekran Kartı,256.0,1
+20600.33,Intel Core i3,1024.0,8.0,Nvidia GeForce GT 730,1024.0,2
+32378.35,Intel Core i5,1024.0,48.0,AMD Radeon RX550,1024.0,1
+33160.2,Intel Core i5,2048.0,32.0,NVIDIA GeForce GT1030,2048.0,0
+29740.47,Intel Core i5,512.0,24.0,Nvidia GeForce GTX 1650,512.0,2
+29357.21,Intel Core i3,2048.0,16.0,AMD Radeon RX550,2048.0,1
+26123.6,Intel Core i5,512.0,8.0,Nvidia GeForce GT 730,512.0,2
+32512.46,Intel Core i3,4096.0,40.0,Nvidia GeForce GT 730,4096.0,2
+35587.94,Intel Core i3,4096.0,64.0,Nvidia GeForce GT 730,4096.0,2
+21670.93,Intel Core i3,256.0,16.0,NVIDIA GeForce GT1030,256.0,0
+31718.43,Intel Core i5,2048.0,16.0,NVIDIA GeForce GT1030,2048.0,0
+36441.99,Intel Core i5,2048.0,36.0,Nvidia GeForce GTX 1650,2048.0,2
+28600.4,Intel Core i5,1024.0,20.0,Dahili Ekran Kartı,1024.0,1
+27362.78,Intel Core i3,1024.0,24.0,AMD Radeon RX550,1024.0,1
+30447.8,Intel Core i5,2048.0,8.0,AMD Radeon RX550,2048.0,1
+30480.03,Intel Core i5,512.0,48.0,AMD Radeon RX550,512.0,1
+25751.92,Intel Core i3,1024.0,64.0,Dahili Ekran Kartı,1024.0,1
+27325.06,Intel Core i5,512.0,24.0,Nvidia GeForce GT 730,512.0,2
+33094.3,Intel Core i3,4096.0,36.0,AMD Radeon RX550,4096.0,1
+31347.76,Intel Core i5,256.0,36.0,Nvidia GeForce GTX 1650,256.0,2
+31848.37,Intel Core i5,512.0,48.0,NVIDIA GeForce GT1030,512.0,0
+29983.33,Intel Core i5,256.0,64.0,AMD Radeon RX550,256.0,1
+27365.11,Intel Core i5,512.0,48.0,Dahili Ekran Kartı,512.0,1
+39409.21,Intel Core i5,4096.0,40.0,AMD Radeon RX550,4096.0,1
+24187.53,Intel Core i3,1024.0,32.0,AMD Radeon RX550,1024.0,1
+28437.54,Intel Core i5,512.0,24.0,AMD Radeon RX550,512.0,1
+26101.35,Intel Core i5,512.0,8.0,Dahili Ekran Kartı,512.0,1
+37568.14,Intel Core i3,4096.0,64.0,Nvidia GeForce GT 730,4096.0,2
+23791.3,Intel Core i3,512.0,40.0,Dahili Ekran Kartı,512.0,1
+22548.24,Intel Core i3,1024.0,20.0,AMD Radeon RX550,1024.0,1
+29305.26,Intel Core i5,512.0,24.0,Nvidia GeForce GT 730,512.0,2
+27192.88,Intel Core i3,1024.0,64.0,AMD Radeon RX550,1024.0,1
+30327.29,Intel Core i3,2048.0,64.0,Dahili Ekran Kartı,2048.0,1
+34453.78,Intel Core i5,4096.0,20.0,Dahili Ekran Kartı,4096.0,1
+25549.45,Intel Core i3,1024.0,8.0,NVIDIA GeForce GT1030,1024.0,0
+24721.88,Intel Core i5,512.0,16.0,Dahili Ekran Kartı,512.0,1
+27224.94,Intel Core i5,512.0,16.0,NVIDIA GeForce GT1030,512.0,0
+21811.1,Intel Core i3,512.0,40.0,Dahili Ekran Kartı,512.0,1
+25439.89,Intel Core i5,512.0,24.0,Nvidia GeForce GT 730,512.0,2
+22480.07,Intel Core i5,512.0,20.0,Dahili Ekran Kartı,512.0,1
+26394.48,Intel Core i3,512.0,48.0,Nvidia GeForce GT 730,512.0,2
+28615.53,Intel Core i5,256.0,12.0,AMD Radeon RX550,256.0,1
+31829.42,Intel Core i3,4096.0,32.0,Nvidia GeForce GT 730,4096.0,2
+32789.52,Intel Core i5,512.0,64.0,Nvidia GeForce GT 730,512.0,2
+24721.88,Intel Core i5,512.0,20.0,Dahili Ekran Kartı,512.0,1
+29868.17,Intel Core i5,512.0,48.0,NVIDIA GeForce GT1030,512.0,0
+36571.92,Intel Core i5,512.0,64.0,Nvidia GeForce GTX 1650,512.0,2
+36441.99,Intel Core i5,2048.0,32.0,Nvidia GeForce GTX 1650,2048.0,2
+23853.6,Intel Core i3,512.0,64.0,Dahili Ekran Kartı,512.0,1
+26724.33,Intel Core i5,256.0,24.0,Nvidia GeForce GT 730,256.0,2
+38948.16,Intel Core i5,4096.0,12.0,AMD Radeon RX550,4096.0,1
+25338.7,Intel Core i5,256.0,16.0,AMD Radeon RX550,256.0,1
+26702.08,Intel Core i5,512.0,16.0,Dahili Ekran Kartı,512.0,1
+30617.09,Intel Core i5,2048.0,8.0,Nvidia GeForce GT 730,2048.0,2
+26977.98,Intel Core i5,256.0,36.0,AMD Radeon RX550,256.0,1
+26123.6,Intel Core i5,256.0,20.0,Nvidia GeForce GT 730,256.0,2
+29216.26,Intel Core i5,256.0,20.0,AMD Radeon RX550,256.0,1
+26021.73,Intel Core i5,512.0,20.0,AMD Radeon RX550,512.0,1
+23395.21,Intel Core i3,512.0,48.0,AMD Radeon RX550,512.0,1
+34146.18,Intel Core i3,4096.0,48.0,Nvidia GeForce GT 730,4096.0,2
+40990.66,Intel Core i5,4096.0,32.0,AMD Radeon RX550,4096.0,1
+23150.52,Intel Core i3,512.0,12.0,Nvidia GeForce GT 730,512.0,2
+23252.87,Intel Core i3,256.0,64.0,Dahili Ekran Kartı,256.0,1
+29957.95,Intel Core i3,2048.0,24.0,AMD Radeon RX550,2048.0,1
+37074.25,Intel Core i5,4096.0,24.0,NVIDIA GeForce GT1030,4096.0,0
+34385.25,Intel Core i5,1024.0,20.0,Nvidia GeForce GTX 1650,1024.0,2
+35708.18,Intel Core i5,4096.0,8.0,NVIDIA GeForce GT1030,4096.0,0
+32597.29,Intel Core i5,2048.0,8.0,Nvidia GeForce GT 730,2048.0,2
+29357.21,Intel Core i3,2048.0,20.0,AMD Radeon RX550,2048.0,1
+25704.75,Intel Core i3,256.0,32.0,AMD Radeon RX550,256.0,1
+33861.05,Intel Core i5,2048.0,48.0,Nvidia GeForce GT 730,2048.0,2
+26620.2,Intel Core i5,1024.0,16.0,Dahili Ekran Kartı,1024.0,1
+31347.76,Intel Core i5,512.0,48.0,Nvidia GeForce GT 730,512.0,2
+22712.17,Intel Core i3,256.0,48.0,AMD Radeon RX550,256.0,1
+23551.04,Intel Core i3,2048.0,8.0,Nvidia GeForce GT 730,2048.0,2
+33994.88,Intel Core i3,4096.0,12.0,AMD Radeon RX550,4096.0,1
+25856.05,Intel Core i3,512.0,64.0,Nvidia GeForce GT 730,512.0,2
+38436.42,Intel Core i5,4096.0,20.0,Nvidia GeForce GT 730,4096.0,2
+29182.92,Intel Core i5,2048.0,12.0,Nvidia GeForce GT 730,2048.0,2
+30787.07,Intel Core i5,512.0,64.0,Dahili Ekran Kartı,512.0,1
+30771.98,Intel Core i3,4096.0,8.0,AMD Radeon RX550,4096.0,1
+33300.37,Intel Core i5,2048.0,64.0,Dahili Ekran Kartı,2048.0,1
+34639.78,Intel Core i5,2048.0,36.0,Nvidia GeForce GT 730,2048.0,2
+32486.93,Intel Core i5,512.0,20.0,Nvidia GeForce GTX 1650,512.0,2
+35138.98,Intel Core i5,4096.0,8.0,Nvidia GeForce GT 730,4096.0,2
+37238.85,Intel Core i3,4096.0,48.0,AMD Radeon RX550,4096.0,1
+25562.91,Intel Core i5,256.0,36.0,Dahili Ekran Kartı,256.0,1
+28103.79,Intel Core i5,256.0,20.0,Nvidia GeForce GT 730,256.0,2
+37643.45,Intel Core i5,2048.0,48.0,Nvidia GeForce GTX 1650,2048.0,2
+31559.88,Intel Core i5,1024.0,64.0,Nvidia GeForce GT 730,1024.0,2
+28804.54,Intel Core i3,1024.0,40.0,AMD Radeon RX550,1024.0,1
+29216.26,Intel Core i5,256.0,16.0,AMD Radeon RX550,256.0,1
+28907.78,Intel Core i3,2048.0,48.0,Nvidia GeForce GT 730,2048.0,2
+29806.75,Intel Core i5,1024.0,40.0,NVIDIA GeForce GT1030,1024.0,0
+33777.34,Intel Core i3,4096.0,40.0,AMD Radeon RX550,4096.0,1
+35140.39,Intel Core i5,2048.0,32.0,NVIDIA GeForce GT1030,2048.0,0
+29552.64,Intel Core i3,4096.0,32.0,Dahili Ekran Kartı,4096.0,1
+27239.43,Intel Core i3,2048.0,48.0,Nvidia GeForce GT 730,2048.0,2
+31258.76,Intel Core i5,512.0,32.0,AMD Radeon RX550,512.0,1
+23813.55,Intel Core i3,256.0,48.0,Nvidia GeForce GT 730,256.0,2
+37461.3,Intel Core i5,4096.0,36.0,Nvidia GeForce GT 730,4096.0,2
+22282.79,Intel Core i3,256.0,16.0,AMD Radeon RX550,256.0,1
+26702.08,Intel Core i5,512.0,20.0,Dahili Ekran Kartı,512.0,1
+40238.63,Intel Core i5,4096.0,16.0,Nvidia GeForce GTX 1650,4096.0,2
+22029.14,Intel Core i3,256.0,40.0,AMD Radeon RX550,256.0,1
+22130.33,Intel Core i3,512.0,48.0,Nvidia GeForce GT 730,512.0,2
+22883.52,Intel Core i3,512.0,16.0,AMD Radeon RX550,512.0,1
+34057.18,Intel Core i3,4096.0,36.0,AMD Radeon RX550,4096.0,1
+22640.33,Intel Core i3,2048.0,24.0,Dahili Ekran Kartı,2048.0,1
+31399.71,Intel Core i3,2048.0,40.0,AMD Radeon RX550,2048.0,1
+23212.82,Intel Core i3,512.0,32.0,Nvidia GeForce GT 730,512.0,2
+24592.28,Intel Core i3,256.0,36.0,Nvidia GeForce GT 730,256.0,2
+24181.11,Intel Core i3,1024.0,12.0,AMD Radeon RX550,1024.0,1
+21771.05,Intel Core i3,512.0,16.0,Nvidia GeForce GT 730,512.0,2
+30759.34,Intel Core i3,4096.0,16.0,NVIDIA GeForce GT1030,4096.0,0
+27565.36,Intel Core i5,256.0,32.0,Nvidia GeForce GT 730,256.0,2
+34834.78,Intel Core i3,4096.0,64.0,Nvidia GeForce GT 730,4096.0,2
+36126.38,Intel Core i3,4096.0,48.0,Nvidia GeForce GT 730,4096.0,2
+39623.65,Intel Core i5,2048.0,48.0,Nvidia GeForce GTX 1650,2048.0,2
+33301.26,Intel Core i5,256.0,64.0,AMD Radeon RX550,256.0,1
+32637.34,Intel Core i5,2048.0,32.0,Dahili Ekran Kartı,2048.0,1
+25048.84,Intel Core i3,1024.0,12.0,Nvidia GeForce GT 730,1024.0,2
+29367.56,Intel Core i5,512.0,48.0,Nvidia GeForce GT 730,512.0,2
+29735.12,Intel Core i5,1024.0,16.0,AMD Radeon RX550,1024.0,1
+33798.75,Intel Core i5,2048.0,24.0,Nvidia GeForce GT 730,2048.0,2
+33901.99,Intel Core i5,512.0,64.0,AMD Radeon RX550,512.0,1
+35403.97,Intel Core i3,4096.0,64.0,NVIDIA GeForce GT1030,4096.0,0
+26312.6,Intel Core i3,1024.0,48.0,Nvidia GeForce GT 730,1024.0,2
+32597.29,Intel Core i5,2048.0,12.0,Nvidia GeForce GT 730,2048.0,2
+22612.08,Intel Core i3,256.0,32.0,Nvidia GeForce GT 730,256.0,2
+32329.74,Intel Core i3,2048.0,64.0,Nvidia GeForce GT 730,2048.0,2
+40211.93,Intel Core i5,4096.0,48.0,AMD Radeon RX550,4096.0,1
+23769.61,Intel Core i3,512.0,64.0,Nvidia GeForce GT 730,512.0,2
+23662.25,Intel Core i3,256.0,8.0,AMD Radeon RX550,256.0,1
+29205.14,Intel Core i5,512.0,20.0,NVIDIA GeForce GT1030,512.0,0
+20764.26,Intel Core i3,256.0,40.0,Nvidia GeForce GT 730,256.0,2
+27836.24,Intel Core i3,512.0,64.0,Nvidia GeForce GT 730,512.0,2
+32862.2,Intel Core i5,4096.0,8.0,Dahili Ekran Kartı,4096.0,1
+33928.69,Intel Core i5,256.0,40.0,Nvidia GeForce GTX 1650,256.0,2
+26123.6,Intel Core i5,512.0,12.0,Nvidia GeForce GT 730,512.0,2
+23108.69,Intel Core i3,1024.0,32.0,Dahili Ekran Kartı,1024.0,1
+31309.93,Intel Core i5,512.0,64.0,NVIDIA GeForce GT1030,512.0,0
+25326.05,Intel Core i5,512.0,20.0,NVIDIA GeForce GT1030,512.0,0
+20645.87,Intel Core i3,1024.0,36.0,Dahili Ekran Kartı,1024.0,1
+30146.29,Intel Core i5,512.0,36.0,Nvidia GeForce GT 730,512.0,2
+31243.63,Intel Core i5,1024.0,48.0,Dahili Ekran Kartı,1024.0,1
+28347.98,Intel Core i3,256.0,64.0,AMD Radeon RX550,256.0,1
+33157.08,Intel Core i5,1024.0,32.0,AMD Radeon RX550,1024.0,1
+29263.43,Intel Core i5,1024.0,48.0,Dahili Ekran Kartı,1024.0,1
+23520.41,Intel Core i5,256.0,12.0,Dahili Ekran Kartı,256.0,1
+25663.81,Intel Core i3,2048.0,12.0,Nvidia GeForce GT 730,2048.0,2
+26965.33,Intel Core i5,256.0,40.0,NVIDIA GeForce GT1030,256.0,0
+30532.8,Intel Core i5,1024.0,12.0,Nvidia GeForce GTX 1650,1024.0,2
+29134.39,Intel Core i5,1024.0,8.0,AMD Radeon RX550,1024.0,1
+35425.52,Intel Core i3,4096.0,36.0,NVIDIA GeForce GT1030,4096.0,0
+28103.79,Intel Core i5,256.0,16.0,Nvidia GeForce GT 730,256.0,2
+34372.79,Intel Core i5,2048.0,40.0,AMD Radeon RX550,2048.0,1
+22011.94,Intel Core i3,1024.0,48.0,Dahili Ekran Kartı,1024.0,1
+33198.02,Intel Core i5,2048.0,16.0,Nvidia GeForce GT 730,2048.0,2
+30696.72,Intel Core i5,256.0,40.0,Nvidia GeForce GTX 1650,256.0,2
+33246.08,Intel Core i5,1024.0,48.0,Nvidia GeForce GT 730,1024.0,2
+38030.49,Intel Core i5,4096.0,32.0,NVIDIA GeForce GT1030,4096.0,0
+26843.03,Intel Core i3,2048.0,24.0,Dahili Ekran Kartı,2048.0,1
+28704.53,Intel Core i5,512.0,16.0,Nvidia GeForce GT 730,512.0,2
+26277.74,Intel Core i5,1024.0,32.0,Dahili Ekran Kartı,1024.0,1
+32659.58,Intel Core i5,2048.0,36.0,Nvidia GeForce GT 730,2048.0,2
+11749.0,Intel Core i5,4096.0,48.0,AMD Radeon RX 550,0.0,1
+32615.42,Intel Core i3,4096.0,20.0,AMD Radeon RX550,4096.0,1
+25873.36,Intel Core i3,2048.0,32.0,Nvidia GeForce GT 730,2048.0,2
+37034.71,Intel Core i5,4096.0,24.0,Dahili Ekran Kartı,4096.0,1
+26294.36,Intel Core i3,512.0,40.0,NVIDIA GeForce GT1030,512.0,0
+26123.6,Intel Core i5,256.0,16.0,Nvidia GeForce GT 730,256.0,2
+24314.16,Intel Core i3,512.0,40.0,NVIDIA GeForce GT1030,512.0,0
+28065.97,Intel Core i5,256.0,36.0,NVIDIA GeForce GT1030,256.0,0
+29278.56,Intel Core i5,512.0,36.0,AMD Radeon RX550,512.0,1
+39878.18,Intel Core i5,4096.0,36.0,Nvidia GeForce GT 730,4096.0,2
+30747.02,Intel Core i5,256.0,48.0,Nvidia GeForce GT 730,256.0,2
+32862.2,Intel Core i5,4096.0,12.0,Dahili Ekran Kartı,4096.0,1
+29278.56,Intel Core i5,256.0,40.0,AMD Radeon RX550,256.0,1
+34973.52,Intel Core i5,2048.0,48.0,AMD Radeon RX550,2048.0,1
+27079.17,Intel Core i5,256.0,48.0,Nvidia GeForce GT 730,256.0,2
+22549.78,Intel Core i3,256.0,8.0,Nvidia GeForce GT 730,256.0,2
+28704.53,Intel Core i5,256.0,24.0,Nvidia GeForce GT 730,256.0,2
+31886.19,Intel Core i5,512.0,8.0,Nvidia GeForce GTX 1650,512.0,2
+31176.88,Intel Core i5,1024.0,32.0,AMD Radeon RX550,1024.0,1
+28766.83,Intel Core i5,256.0,48.0,Nvidia GeForce GT 730,256.0,2
+30602.85,Intel Core i5,1024.0,20.0,Nvidia GeForce GT 730,1024.0,2
+32460.23,Intel Core i5,512.0,48.0,AMD Radeon RX550,512.0,1
+30506.73,Intel Core i5,512.0,16.0,Nvidia GeForce GTX 1650,512.0,2
+32707.64,Intel Core i5,1024.0,64.0,Nvidia GeForce GT 730,1024.0,2
+41079.65,Intel Core i5,4096.0,48.0,Nvidia GeForce GT 730,4096.0,2
+21447.29,Intel Core i3,512.0,40.0,Nvidia GeForce GT 730,512.0,2
+35800.31,Intel Core i5,1024.0,64.0,AMD Radeon RX550,1024.0,1
+31804.32,Intel Core i5,1024.0,12.0,Nvidia GeForce GTX 1650,1024.0,2
+33445.32,Intel Core i3,4096.0,36.0,NVIDIA GeForce GT1030,4096.0,0
+24073.82,Intel Core i5,256.0,16.0,Nvidia GeForce GT 730,256.0,2
+38680.61,Intel Core i3,4096.0,64.0,AMD Radeon RX550,4096.0,1
+29223.38,Intel Core i5,1024.0,24.0,Nvidia GeForce GT 730,1024.0,2
+30887.97,Intel Core i3,2048.0,48.0,Nvidia GeForce GT 730,2048.0,2
+37835.69,Intel Core i5,4096.0,12.0,Nvidia GeForce GT 730,4096.0,2
+37086.89,Intel Core i5,4096.0,16.0,AMD Radeon RX550,4096.0,1
+29819.4,Intel Core i5,1024.0,36.0,AMD Radeon RX550,1024.0,1
+39600.07,Intel Core i5,4096.0,48.0,NVIDIA GeForce GT1030,4096.0,0
+25382.58,Intel Core i3,1024.0,24.0,AMD Radeon RX550,1024.0,1
+35827.01,Intel Core i5,1024.0,36.0,Nvidia GeForce GTX 1650,1024.0,2
+29215.37,Intel Core i5,2048.0,16.0,Dahili Ekran Kartı,2048.0,1
+24756.85,Intel Core i5,512.0,16.0,Nvidia GeForce GT 730,512.0,2
+31103.46,Intel Core i5,1024.0,20.0,NVIDIA GeForce GT1030,1024.0,0
+34911.23,Intel Core i5,2048.0,24.0,AMD Radeon RX550,2048.0,1
+21682.06,Intel Core i3,256.0,12.0,AMD Radeon RX550,256.0,1
+37897.99,Intel Core i5,4096.0,36.0,Nvidia GeForce GT 730,4096.0,2
+24926.02,Intel Core i3,512.0,40.0,AMD Radeon RX550,512.0,1
+26223.61,Intel Core i3,1024.0,36.0,AMD Radeon RX550,1024.0,1
+28554.52,Intel Core i5,1024.0,36.0,Nvidia GeForce GT 730,1024.0,2
+24288.72,Intel Core i3,1024.0,48.0,Nvidia GeForce GT 730,1024.0,2
+27484.44,Intel Core i5,1024.0,20.0,NVIDIA GeForce GT1030,1024.0,0
+21865.21,Intel Core i3,1024.0,8.0,AMD Radeon RX550,1024.0,1
+30042.16,Intel Core i5,1024.0,36.0,Dahili Ekran Kartı,1024.0,1
+21070.2,Intel Core i3,256.0,12.0,NVIDIA GeForce GT1030,256.0,0
+22922.65,Intel Core i3,1024.0,36.0,Nvidia GeForce GT 730,1024.0,2
+38726.18,Intel Core i5,4096.0,32.0,AMD Radeon RX550,4096.0,1
+34985.98,Intel Core i5,1024.0,24.0,Nvidia GeForce GTX 1650,1024.0,2
+33538.15,Intel Core i5,1024.0,40.0,Nvidia GeForce GTX 1650,1024.0,2
+23662.25,Intel Core i3,256.0,12.0,AMD Radeon RX550,256.0,1
+31766.49,Intel Core i5,1024.0,48.0,NVIDIA GeForce GT1030,1024.0,0
+38422.18,Intel Core i5,2048.0,32.0,Nvidia GeForce GTX 1650,2048.0,2
+23212.82,Intel Core i3,512.0,36.0,Nvidia GeForce GT 730,512.0,2
+23569.25,Intel Core i3,1024.0,8.0,NVIDIA GeForce GT1030,1024.0,0
+35971.19,Intel Core i5,256.0,64.0,Nvidia GeForce GTX 1650,256.0,2
+26264.55,Intel Core i3,2048.0,16.0,Nvidia GeForce GT 730,2048.0,2
+27377.02,Intel Core i3,2048.0,16.0,AMD Radeon RX550,2048.0,1
+31777.62,Intel Core i5,1024.0,40.0,AMD Radeon RX550,1024.0,1
+22922.65,Intel Core i3,1024.0,32.0,Nvidia GeForce GT 730,1024.0,2
+30287.24,Intel Core i3,2048.0,40.0,Nvidia GeForce GT 730,2048.0,2
+31729.56,Intel Core i5,2048.0,12.0,AMD Radeon RX550,2048.0,1
+28166.09,Intel Core i5,256.0,40.0,Nvidia GeForce GT 730,256.0,2
+28192.68,Intel Core i3,1024.0,40.0,NVIDIA GeForce GT1030,1024.0,0
+24073.82,Intel Core i5,256.0,20.0,Nvidia GeForce GT 730,256.0,2
+28622.65,Intel Core i5,1024.0,16.0,Nvidia GeForce GT 730,1024.0,2
+26277.74,Intel Core i5,1024.0,36.0,Dahili Ekran Kartı,1024.0,1
+35302.82,Intel Core i5,2048.0,64.0,Nvidia GeForce GT 730,2048.0,2
+27661.01,Intel Core i5,512.0,32.0,AMD Radeon RX550,512.0,1
+38336.3,Intel Core i5,4096.0,12.0,NVIDIA GeForce GT1030,4096.0,0
+29134.39,Intel Core i5,1024.0,12.0,AMD Radeon RX550,1024.0,1
+34687.84,Intel Core i5,1024.0,64.0,Nvidia GeForce GT 730,1024.0,2
+30548.99,Intel Core i5,2048.0,24.0,Nvidia GeForce GT 730,2048.0,2
+36456.22,Intel Core i5,4096.0,20.0,Nvidia GeForce GT 730,4096.0,2
+37028.48,Intel Core i5,1024.0,48.0,Nvidia GeForce GTX 1650,1024.0,2
+30709.2,Intel Core i5,256.0,64.0,NVIDIA GeForce GT1030,256.0,0
+33442.21,Intel Core i3,2048.0,64.0,AMD Radeon RX550,2048.0,1
+29405.27,Intel Core i3,1024.0,48.0,AMD Radeon RX550,1024.0,1
+36391.21,Intel Core i5,4096.0,16.0,NVIDIA GeForce GT1030,4096.0,0
+27706.31,Intel Core i3,2048.0,32.0,Nvidia GeForce GT 730,2048.0,2
+36433.98,Intel Core i5,4096.0,16.0,Dahili Ekran Kartı,4096.0,1
+28766.83,Intel Core i5,512.0,40.0,Nvidia GeForce GT 730,512.0,2
+30502.44,Intel Core i5,1024.0,40.0,AMD Radeon RX550,1024.0,1
+33545.23,Intel Core i5,4096.0,16.0,Dahili Ekran Kartı,4096.0,1
+27138.24,Intel Core i3,2048.0,36.0,AMD Radeon RX550,2048.0,1
+31257.87,Intel Core i5,2048.0,40.0,Dahili Ekran Kartı,2048.0,1
+30064.41,Intel Core i5,1024.0,36.0,Nvidia GeForce GT 730,1024.0,2
+25689.62,Intel Core i3,1024.0,40.0,Dahili Ekran Kartı,1024.0,1
+31114.58,Intel Core i5,1024.0,12.0,AMD Radeon RX550,1024.0,1
+28144.62,Intel Core i3,2048.0,12.0,NVIDIA GeForce GT1030,2048.0,0
+27497.09,Intel Core i5,1024.0,12.0,AMD Radeon RX550,1024.0,1
+29816.11,Intel Core i5,2048.0,24.0,Dahili Ekran Kartı,2048.0,1
+27598.28,Intel Core i5,1024.0,24.0,Nvidia GeForce GT 730,1024.0,2
+30594.84,Intel Core i5,2048.0,8.0,Dahili Ekran Kartı,2048.0,1
+31715.32,Intel Core i5,1024.0,16.0,AMD Radeon RX550,1024.0,1
+24962.65,Intel Core i3,2048.0,48.0,Dahili Ekran Kartı,2048.0,1
+36638.11,Intel Core i3,4096.0,40.0,AMD Radeon RX550,4096.0,1
+31818.56,Intel Core i5,2048.0,24.0,Nvidia GeForce GT 730,2048.0,2
+27220.94,Intel Core i5,1024.0,24.0,Dahili Ekran Kartı,1024.0,1
+31114.58,Intel Core i5,1024.0,8.0,AMD Radeon RX550,1024.0,1
+25338.7,Intel Core i5,512.0,12.0,AMD Radeon RX550,512.0,1
+36026.25,Intel Core i3,4096.0,40.0,NVIDIA GeForce GT1030,4096.0,0
+34657.92,Intel Core i3,4096.0,40.0,AMD Radeon RX550,4096.0,1
+28103.79,Intel Core i5,512.0,8.0,Nvidia GeForce GT 730,512.0,2
+30064.41,Intel Core i5,1024.0,32.0,Nvidia GeForce GT 730,1024.0,2
+28866.84,Intel Core i3,1024.0,64.0,AMD Radeon RX550,1024.0,1
+28021.92,Intel Core i5,1024.0,12.0,Nvidia GeForce GT 730,1024.0,2
+28206.14,Intel Core i5,256.0,64.0,Dahili Ekran Kartı,256.0,1
+21966.4,Intel Core i3,1024.0,24.0,Nvidia GeForce GT 730,1024.0,2
+25562.91,Intel Core i5,256.0,32.0,Dahili Ekran Kartı,256.0,1
+31285.46,Intel Core i5,256.0,8.0,Nvidia GeForce GTX 1650,256.0,2
+20600.33,Intel Core i3,1024.0,12.0,Nvidia GeForce GT 730,1024.0,2
+32944.71,Intel Core i3,4096.0,32.0,Nvidia GeForce GT 730,4096.0,2
+24262.99,Intel Core i3,512.0,12.0,AMD Radeon RX550,512.0,1
+22349.54,Intel Core i3,512.0,24.0,Dahili Ekran Kartı,512.0,1
+38538.77,Intel Core i5,4096.0,64.0,Dahili Ekran Kartı,4096.0,1
+24781.84,Intel Core i3,1024.0,20.0,AMD Radeon RX550,1024.0,1
+32922.46,Intel Core i3,4096.0,32.0,Dahili Ekran Kartı,4096.0,1
+21957.29,Intel Core i3,2048.0,20.0,Dahili Ekran Kartı,2048.0,1
+28756.48,Intel Core i3,2048.0,12.0,AMD Radeon RX550,2048.0,1
+23046.39,Intel Core i3,1024.0,8.0,Dahili Ekran Kartı,1024.0,1
+38336.3,Intel Core i5,4096.0,8.0,NVIDIA GeForce GT1030,4096.0,0
+24262.99,Intel Core i3,512.0,8.0,AMD Radeon RX550,512.0,1
+32405.05,Intel Core i5,1024.0,16.0,Nvidia GeForce GTX 1650,1024.0,2
+33838.8,Intel Core i5,2048.0,48.0,Dahili Ekran Kartı,2048.0,1
+27503.06,Intel Core i5,256.0,8.0,Nvidia GeForce GT 730,256.0,2
+25500.61,Intel Core i5,256.0,8.0,Dahili Ekran Kartı,256.0,1
+32770.11,Intel Core i5,2048.0,36.0,AMD Radeon RX550,2048.0,1
+40092.25,Intel Core i5,4096.0,48.0,AMD Radeon RX550,4096.0,1
+32014.69,Intel Core i3,4096.0,8.0,AMD Radeon RX550,4096.0,1
+25704.75,Intel Core i3,256.0,36.0,AMD Radeon RX550,256.0,1
+27644.01,Intel Core i3,2048.0,8.0,Nvidia GeForce GT 730,2048.0,2
+32044.61,Intel Core i5,1024.0,32.0,Nvidia GeForce GT 730,1024.0,2
+28818.78,Intel Core i3,2048.0,36.0,AMD Radeon RX550,2048.0,1
+28021.92,Intel Core i5,1024.0,8.0,Nvidia GeForce GT 730,1024.0,2
+22883.52,Intel Core i3,256.0,24.0,AMD Radeon RX550,256.0,1
+24803.27,Intel Core i3,2048.0,20.0,NVIDIA GeForce GT1030,2048.0,0
+24863.72,Intel Core i3,256.0,24.0,AMD Radeon RX550,256.0,1
+33081.65,Intel Core i3,4096.0,40.0,NVIDIA GeForce GT1030,4096.0,0
+37835.69,Intel Core i5,4096.0,8.0,Nvidia GeForce GT 730,4096.0,2
+29817.0,Intel Core i5,512.0,16.0,AMD Radeon RX550,512.0,1
+30190.14,Intel Core i3,4096.0,20.0,Nvidia GeForce GT 730,4096.0,2
+26764.38,Intel Core i5,256.0,48.0,Dahili Ekran Kartı,256.0,1
+28143.84,Intel Core i5,256.0,40.0,Dahili Ekran Kartı,256.0,1
+24234.08,Intel Core i3,2048.0,16.0,Nvidia GeForce GT 730,2048.0,2
+37557.57,Intel Core i5,4096.0,24.0,NVIDIA GeForce GT1030,4096.0,0
+30186.34,Intel Core i5,256.0,64.0,Dahili Ekran Kartı,256.0,1
+39537.77,Intel Core i5,4096.0,24.0,NVIDIA GeForce GT1030,4096.0,0
+28614.64,Intel Core i5,2048.0,12.0,Dahili Ekran Kartı,2048.0,1
+30747.02,Intel Core i5,512.0,40.0,Nvidia GeForce GT 730,512.0,2
+30208.59,Intel Core i5,256.0,64.0,Nvidia GeForce GT 730,256.0,2
+38144.33,Intel Core i5,4096.0,40.0,Nvidia GeForce GT 730,4096.0,2
+33483.15,Intel Core i3,4096.0,20.0,Nvidia GeForce GT 730,4096.0,2
+29735.12,Intel Core i5,1024.0,20.0,AMD Radeon RX550,1024.0,1
+34385.25,Intel Core i5,1024.0,16.0,Nvidia GeForce GTX 1650,1024.0,2
+32830.35,Intel Core i3,2048.0,64.0,NVIDIA GeForce GT1030,2048.0,0
+36956.84,Intel Core i5,4096.0,16.0,NVIDIA GeForce GT1030,4096.0,0
+34595.62,Intel Core i3,4096.0,16.0,AMD Radeon RX550,4096.0,1
+24351.46,Intel Core i3,256.0,64.0,AMD Radeon RX550,256.0,1
+26977.98,Intel Core i5,256.0,32.0,AMD Radeon RX550,256.0,1
+34310.49,Intel Core i5,2048.0,16.0,AMD Radeon RX550,2048.0,1
+31258.76,Intel Core i5,512.0,36.0,AMD Radeon RX550,512.0,1
+29237.56,Intel Core i5,1024.0,40.0,Nvidia GeForce GT 730,1024.0,2
+40466.65,Intel Core i5,4096.0,64.0,Nvidia GeForce GT 730,4096.0,2
+36626.99,Intel Core i3,4096.0,48.0,NVIDIA GeForce GT1030,4096.0,0
+33453.15,Intel Core i5,2048.0,40.0,AMD Radeon RX550,2048.0,1
+27138.24,Intel Core i3,2048.0,32.0,AMD Radeon RX550,2048.0,1
+26762.04,Intel Core i3,1024.0,20.0,AMD Radeon RX550,1024.0,1
+29123.72,Intel Core i5,1024.0,36.0,NVIDIA GeForce GT1030,1024.0,0
+37568.7,Intel Core i5,4096.0,16.0,AMD Radeon RX550,4096.0,1
+31402.83,Intel Core i3,4096.0,8.0,NVIDIA GeForce GT1030,4096.0,0
+25255.31,Intel Core i3,256.0,64.0,Nvidia GeForce GT 730,256.0,2
+29686.51,Intel Core i3,2048.0,36.0,Nvidia GeForce GT 730,2048.0,2
+25498.96,Intel Core i3,2048.0,20.0,AMD Radeon RX550,2048.0,1
+25522.86,Intel Core i5,256.0,8.0,Nvidia GeForce GT 730,256.0,2
+32855.11,Intel Core i5,1024.0,32.0,Nvidia GeForce GTX 1650,1024.0,2
+28756.48,Intel Core i3,2048.0,8.0,AMD Radeon RX550,2048.0,1
+24073.82,Intel Core i5,512.0,12.0,Nvidia GeForce GT 730,512.0,2
+24181.11,Intel Core i3,1024.0,8.0,AMD Radeon RX550,1024.0,1
+32316.05,Intel Core i5,1024.0,24.0,AMD Radeon RX550,1024.0,1
+26161.31,Intel Core i3,1024.0,8.0,AMD Radeon RX550,1024.0,1
+20764.26,Intel Core i3,512.0,36.0,Nvidia GeForce GT 730,512.0,2
+21066.19,Intel Core i3,1024.0,8.0,Dahili Ekran Kartı,1024.0,1
+36088.55,Intel Core i3,4096.0,64.0,NVIDIA GeForce GT1030,4096.0,0
+31715.32,Intel Core i5,1024.0,20.0,AMD Radeon RX550,1024.0,1
+23163.1,Intel Core i5,512.0,24.0,Dahili Ekran Kartı,512.0,1
+32330.29,Intel Core i5,2048.0,16.0,AMD Radeon RX550,2048.0,1
+32931.03,Intel Core i5,2048.0,24.0,AMD Radeon RX550,2048.0,1
+29216.26,Intel Core i5,512.0,8.0,AMD Radeon RX550,512.0,1
+26163.64,Intel Core i5,256.0,40.0,Dahili Ekran Kartı,256.0,1
+27706.31,Intel Core i3,2048.0,36.0,Nvidia GeForce GT 730,2048.0,2
+25322.62,Intel Core i5,512.0,24.0,Dahili Ekran Kartı,512.0,1
+24234.08,Intel Core i3,2048.0,20.0,Nvidia GeForce GT 730,2048.0,2
+31813.87,Intel Core i5,2048.0,24.0,AMD Radeon RX550,2048.0,1
+39878.18,Intel Core i5,4096.0,32.0,Nvidia GeForce GT 730,4096.0,2
+24655.66,Intel Core i5,256.0,8.0,AMD Radeon RX550,256.0,1
+33990.99,Intel Core i5,256.0,64.0,Nvidia GeForce GTX 1650,256.0,2
+31502.95,Intel Core i3,4096.0,20.0,Nvidia GeForce GT 730,4096.0,2
+33016.47,Intel Core i5,512.0,48.0,Intel UHD Graphics 730,512.0,0
+32415.73,Intel Core i5,512.0,40.0,Intel UHD Graphics 730,512.0,0
+31815.0,Intel Core i5,256.0,40.0,Intel UHD Graphics 730,256.0,0
+32062.79,Intel Core i5,512.0,48.0,Intel UHD Graphics 730,0.0,0
+32549.23,Intel Core i5,256.0,48.0,Intel UHD Graphics 730,0.0,0
+34228.27,Intel Core i5,4096.0,24.0,Intel UHD Graphics 730,0.0,0
+24251.86,Intel Core i3,512.0,20.0,Intel UHD Graphics 730,0.0,0
+26905.33,Intel Core i3,2048.0,48.0,Intel UHD Graphics 730,0.0,0
+28065.97,Intel Core i5,256.0,32.0,Intel UHD Graphics 730,0.0,0
+30013.69,Intel Core i5,256.0,36.0,Intel UHD Graphics 730,0.0,0
+23647.12,Intel Core i3,1024.0,16.0,Intel UHD Graphics 730,0.0,0
+28522.53,Intel Core i5,1024.0,8.0,Intel UHD Graphics 730,0.0,0
+32604.29,Intel Core i3,4096.0,24.0,Intel UHD Graphics 730,0.0,0
+29057.44,Intel Core i5,512.0,16.0,Intel UHD Graphics 730,0.0,0
+35895.54,Intel Core i5,4096.0,32.0,Intel UHD Graphics 730,0.0,0
+34299.37,Intel Core i5,2048.0,24.0,Intel UHD Graphics 730,0.0,0
+28374.41,Intel Core i5,256.0,16.0,Intel UHD Graphics 730,0.0,0
+28144.62,Intel Core i3,2048.0,8.0,Intel UHD Graphics 730,0.0,0
+22589.83,Intel Core i3,256.0,36.0,Intel UHD Graphics 730,0.0,0
+34529.43,Intel Core i5,512.0,40.0,Intel UHD Graphics 730,0.0,0
+29267.44,Intel Core i5,256.0,48.0,Intel UHD Graphics 730,0.0,0
+29057.44,Intel Core i5,256.0,24.0,Intel UHD Graphics 730,0.0,0
+29447.91,Intel Core i3,2048.0,64.0,Intel UHD Graphics 730,0.0,0
+24392.04,Intel Core i3,512.0,48.0,Intel UHD Graphics 730,0.0,0
+26750.92,Intel Core i3,1024.0,24.0,Intel UHD Graphics 730,0.0,0
+23713.43,Intel Core i3,256.0,40.0,Intel UHD Graphics 730,0.0,0
+28003.67,Intel Core i5,256.0,12.0,Intel UHD Graphics 730,0.0,0
+31442.37,Intel Core i3,4096.0,24.0,Intel UHD Graphics 730,0.0,0
+33383.02,Intel Core i3,4096.0,8.0,Intel UHD Graphics 730,0.0,0
+28522.53,Intel Core i5,1024.0,12.0,Intel UHD Graphics 730,0.0,0
+30435.15,Intel Core i5,2048.0,16.0,Intel UHD Graphics 730,0.0,0
+23713.43,Intel Core i3,512.0,36.0,Intel UHD Graphics 730,0.0,0
+22016.49,Intel Core i3,256.0,48.0,Intel UHD Graphics 730,0.0,0
+29752.11,Intel Core i5,2048.0,8.0,Intel UHD Graphics 730,0.0,0
+35188.45,Intel Core i5,1024.0,64.0,Intel UHD Graphics 730,0.0,0
+29022.66,Intel Core i7,512.0,16.0,Dahili Ekran Kartı,512.0,1
+25243.67,Intel Core i5,1024.0,16.0,Dahili Ekran Kartı,512.0,1
+5692.000000000004,Intel Core i7,250.0,8.0,Belirtilmemiş,512.0,1
+8857.239999999998,Intel Core i5,256.0,32.0,Intel HD Graphics,0.0,1
+9382.309999999998,Intel Core i3,128.0,8.0,Dahili Ekran Kartı,128.0,1
+9758.779999999999,Intel Core i3,256.0,8.0,Dahili Ekran Kartı,256.0,1
+10558.77,Intel Core i5,256.0,8.0,Dahili Ekran Kartı,256.0,1
+7923.489999999998,Intel Core i5,128.0,8.0,Dahili Ekran Kartı,128.0,1
+8064.669999999998,Intel Core i5,256.0,8.0,Intel HD Graphics,256.0,1
+10276.419999999998,Intel Core i5,256.0,8.0,Intel HD Graphics,256.0,1
+8441.14,Intel Core i3,128.0,8.0,Intel HD Graphics,128.0,1
+7970.549999999999,Intel Core i3,512.0,16.0,Intel HD Graphics,512.0,1
+9099.96,Intel Core i3,256.0,8.0,Intel HD Graphics,256.0,1
+9899.95,Intel Core i5,128.0,8.0,Intel HD Graphics,128.0,1
+9994.07,Intel Core i5,512.0,16.0,Dahili Ekran Kartı,512.0,1
+8629.370000000003,Intel Core i5,256.0,8.0,Dahili Ekran Kartı,256.0,1
+7599.9000000000015,Intel Core i5,256.0,16.0,Dahili Ekran Kartı,0.0,1
+9662.0,Intel Core i7,256.0,16.0,Intel HD Graphics,256.0,1
+29159.0,Intel Core i7,2048.0,64.0,Intel UHD Graphics 770,0.0,0
+42996.41,Intel Core i3,4096.0,64.0,Nvidia GeForce GT 730,0.0,2
+42477.47,Intel Core i5,4096.0,8.0,AMD Radeon RX550,0.0,1
+42477.47,Intel Core i5,4096.0,12.0,AMD Radeon RX550,0.0,1
+47790.63,Intel Core i5,4096.0,40.0,Nvidia GeForce GTX 1650,0.0,2
+9260.84,Intel Core i5,512.0,16.0,AMD Radeon RX 550,512.0,1
+39089.07,Intel Core i5,1024.0,64.0,AMD Radeon RX550,0.0,1
+25374.74,Intel Core i5,512.0,40.0,Dahili Ekran Kartı,0.0,1
+33897.54,AMD Ryzen 3,4096.0,16.0,AMD Radeon Graphics,0.0,1
+33652.8,Intel Core i3,4096.0,16.0,Dahili Ekran Kartı,0.0,1
+29700.0,Intel Core i3,4096.0,12.0,Dahili Ekran Kartı,0.0,1
+29700.0,Intel Core i3,4096.0,8.0,Dahili Ekran Kartı,0.0,1
+36454.45,AMD Ryzen 3,4096.0,16.0,AMD Radeon RX550,0.0,1
+36454.45,AMD Ryzen 3,4096.0,20.0,AMD Radeon RX550,0.0,1
+26854.65,Intel Core i5,256.0,36.0,NVIDIA GeForce GT1030,256.0,0
+30567.81,Intel Core i5,1024.0,32.0,Nvidia GeForce GT 730,1024.0,2
+24624.54,Intel Core i5,256.0,20.0,Intel UHD Graphics 770,256.0,0
+26854.65,Intel Core i5,256.0,32.0,NVIDIA GeForce GT1030,256.0,0
+19499.0,AMD Ryzen 5,2048.0,36.0,Nvidia GeForce GTX1050 Ti,3072.0,2
+53601.21,Intel Core i7,4096.0,64.0,Dahili Ekran Kartı,0.0,1
+9999.900000000001,Intel Core i5,500.0,36.0,Dahili Ekran Kartı,256.0,1
+18816.0,Intel Core i5,512.0,8.0,Intel HD Graphics,512.0,1
+34788.07,Intel Core i5,512.0,36.0,AMD Radeon RX550,0.0,1
+34788.07,Intel Core i5,512.0,32.0,AMD Radeon RX550,0.0,1
+6174.179999999997,Intel Core i5,512.0,16.0,Intel HD Graphics,0.0,1
+37279.45,AMD Ryzen 3,4096.0,12.0,Nvidia GeForce GT 730,0.0,2
+104299.0,Intel Core i7,512.0,8.0,Nvidia RTX A2000,4096.0,3
+98899.0,Intel Core i7,1024.0,40.0,Nvidia RTX A2000,4096.0,3
+105499.0,Intel Core i7,4096.0,40.0,Nvidia RTX A2000,4096.0,3
+21268.0,Intel Core i7,480.0,16.0,AMD Radeon R5 230,64.0,1
+7786.779999999999,Intel Core i5,512.0,8.0,Intel HD Graphics,512.0,1
+7001.709999999999,Intel Core i5,256.0,8.0,Intel HD Graphics,256.0,1
+25449.0,Intel Core i5,512.0,16.0,Intel UHD Graphics 730,0.0,0
+25349.0,Intel Core i5,1024.0,16.0,Intel UHD Graphics 730,0.0,0
+25049.0,Intel Core i5,512.0,32.0,Intel UHD Graphics 730,0.0,0
+13742.0,Intel Core i5,1024.0,8.0,Intel HD Graphics,1024.0,1
+10971.0,Intel Core i7,512.0,16.0,Intel HD Graphics,256.0,1
+31066.07,Intel Core i3,4096.0,24.0,Dahili Ekran Kartı,0.0,1
+199999.0,Intel Core i7,1024.0,32.0,Nvidia GeForce RTX3060,0.0,3
+19073.0,Intel Core i5,1024.0,32.0,Intel HD Graphics,1024.0,1
+37499.0,Intel Core i7,2048.0,32.0,Nvidia GeForce RTX3060,64.0,3
+25499.95,Intel Core i5,256.0,8.0,Intel UHD Graphics 770,0.0,0
+21500.0,Intel Core i5,256.0,32.0,Dahili Ekran Kartı,256.0,1
+65771.36,Intel Core i7,4096.0,64.0,Nvidia GeForce GTX 1650,0.0,2
+60935.53,Intel Core i7,4096.0,64.0,AMD Radeon RX550,0.0,1
+23400.0,Intel Core i5,0.0,16.0,Dahili Ekran Kartı,500.0,1
+18800.0,Intel Core i7,500.0,16.0,Dahili Ekran Kartı,0.0,1
+16312.029999999999,Intel Core i5,1024.0,32.0,Dahili Ekran Kartı,1024.0,1
+15269.77,Intel Core i5,1024.0,16.0,Dahili Ekran Kartı,1024.0,1
+13666.0,Intel Core i5,1024.0,16.0,Intel HD Graphics,1024.0,1
+23902.0,Intel Core i7,1024.0,16.0,Intel HD Graphics,1024.0,1
+12505.0,Intel Core i5,512.0,16.0,Intel HD Graphics,512.0,1
+6835.0,Intel Core i5,256.0,8.0,Intel HD Graphics,256.0,1
+20633.0,Intel Core i5,1024.0,16.0,Nvidia GeForce GTX 750,1024.0,2
+24169.95,AMD Ryzen 3,256.0,48.0,AMD Radeon Graphics,0.0,1
+24689.05,AMD Ryzen 3,1024.0,24.0,AMD Radeon Graphics,0.0,1
+30927.44,AMD Ryzen 3,1024.0,64.0,Nvidia GeForce GT 730,0.0,2
+26492.26,AMD Ryzen 3,512.0,64.0,AMD Radeon Graphics,0.0,1
+26063.97,AMD Ryzen 3,1024.0,16.0,AMD Radeon Graphics,0.0,1
+24006.02,AMD Ryzen 3,1024.0,16.0,AMD Radeon Graphics,0.0,1
+25645.3,AMD Ryzen 3,1024.0,32.0,AMD Radeon Graphics,0.0,1
+20023.0,Intel Core i7,1024.0,16.0,Intel HD Graphics,1024.0,1
+33430.86,Intel Core i5,256.0,8.0,NVIDIA GeForce GT1030,0.0,0
+32999.99,Intel Core i7,512.0,8.0,NVIDIA GeForce GT1030,0.0,0
+32999.99,Intel Core i7,2048.0,8.0,Intel UHD Graphics 770,0.0,0
+28999.99,Intel Core i7,512.0,8.0,Intel UHD Graphics 770,0.0,0
+7699.0,Intel Core i5,512.0,16.0,Dahili Ekran Kartı,512.0,1
+11154.0,Intel Core i5,256.0,8.0,Intel HD Graphics,256.0,1
+11426.0,Intel Core i7,512.0,8.0,Intel HD Graphics,512.0,1
+10808.0,Intel Core i7,256.0,8.0,Intel HD Graphics,256.0,1
+11393.0,Intel Core i7,256.0,16.0,Intel HD Graphics,256.0,1
+11727.0,Intel Core i3,512.0,16.0,Intel HD Graphics,512.0,1
+5095.610000000001,Intel Core i7,4096.0,96.0,Intel HD Graphics,256.0,1
+19702.0,Intel Core i5,1024.0,16.0,Intel HD Graphics,1024.0,1
+11509.71,Intel Core i5,256.0,8.0,Nvidia GeForce GT 520M,0.0,2
+16939.22,Intel Core i5,512.0,16.0,Nvidia GeForce GTX1650 Ti,512.0,2
+25019.0,Intel Core i5,512.0,16.0,Intel Iris Graphics,0.0,0
+46299.0,Intel Core i5,4096.0,64.0,Nvidia RTX A2000,512.0,3
+60968.11,Intel Core i7,4096.0,36.0,Nvidia GeForce GTX 1650,0.0,2
+57032.18,Intel Core i7,4096.0,32.0,NVIDIA GeForce GT1030,0.0,0
+38873.54,Intel Core i5,4096.0,8.0,NVIDIA GeForce GT1030,0.0,0
+20117.0,Intel Core i5,1024.0,32.0,Intel HD Graphics,1024.0,1
+6499.0,Intel Core i5,256.0,36.0,AMD Radeon R5 230,500.0,1
+6649.0,Intel Core i5,120.0,8.0,AMD Radeon R5,0.0,1
+10452.91,Intel Core i5,128.0,8.0,Belirtilmemiş,500.0,1
+9796.870000000003,Intel Core i7,240.0,8.0,Belirtilmemiş,500.0,1
+10015.55,Intel Core i5,128.0,4.0,Belirtilmemiş,320.0,1
+10234.23,Intel Core i5,128.0,8.0,Belirtilmemiş,320.0,1
+10321.71,Intel Core i7,240.0,16.0,Belirtilmemiş,500.0,1
+41499.99,Intel Core i5,4096.0,48.0,Intel UHD Graphics 770,0.0,0
+8349.0,Intel Core i5,4096.0,12.0,AMD Radeon RX 550,256.0,1
+10249.0,Intel Core i3,512.0,12.0,Nvidia GeForce GT 730,16.0,2
+9999.0,Intel Core i3,256.0,64.0,Nvidia GeForce GT 730,16.0,2
+9499.0,Intel Core i7,256.0,24.0,Nvidia GeForce GT 730,0.0,2
+9149.0,Intel Core i5,256.0,16.0,AMD Radeon R5,500.0,1
+76293.82,AMD Ryzen 7,1024.0,32.0,Nvidia GeForce RTX 4070,1024.0,3
+7410.860000000001,Intel Core i3,256.0,16.0,Intel HD Graphics,0.0,1
+18118.439999999995,Intel Core i7,512.0,16.0,Nvidia GeForce GTX1650 Ti,512.0,2
+24999.99,Intel Core i5,1024.0,16.0,Intel UHD Graphics 770,0.0,0
+25499.99,Intel Core i5,512.0,16.0,Intel UHD Graphics 770,0.0,0
+22499.99,Intel Core i5,512.0,16.0,Intel UHD Graphics 770,0.0,0
+24999.99,Intel Core i5,512.0,8.0,Intel UHD Graphics 770,0.0,0
+25439.89,Intel Core i3,512.0,24.0,Dahili Ekran Kartı,0.0,1
+24073.82,Intel Core i3,256.0,20.0,Dahili Ekran Kartı,0.0,1
+33984.76,Intel Core i3,1024.0,24.0,NVIDIA GeForce GT1030,0.0,0
+23963.14,Intel Core i3,256.0,12.0,Dahili Ekran Kartı,0.0,1
+63969.16,Intel Core i7,4096.0,48.0,Nvidia GeForce GTX 1650,0.0,2
+64192.85,Intel Core i7,4096.0,64.0,Nvidia GeForce GTX 1650,0.0,2
+28230.72,AMD Ryzen 3,1024.0,24.0,AMD Radeon RX550,0.0,1
+21594.65,Intel Core i3,512.0,16.0,Nvidia GeForce GT 730,0.0,2
+26668.71,AMD Ryzen 3,512.0,20.0,NVIDIA GeForce GT1030,0.0,0
+25567.36,AMD Ryzen 3,256.0,20.0,Nvidia GeForce GT 730,0.0,2
+25080.66,AMD Ryzen 3,256.0,32.0,Nvidia GeForce GT 730,0.0,2
+26145.85,AMD Ryzen 3,512.0,16.0,AMD Radeon Graphics,0.0,1
+21594.65,Intel Core i3,512.0,20.0,Nvidia GeForce GT 730,0.0,2
+20911.62,Intel Core i3,256.0,20.0,Nvidia GeForce GT 730,0.0,2
+35143.03,AMD Ryzen 3,2048.0,64.0,AMD Radeon RX550,0.0,1
+24706.26,AMD Ryzen 3,256.0,16.0,AMD Radeon RX550,0.0,1
+30990.88,Intel Core i3,2048.0,36.0,AMD Radeon RX550,0.0,1
+21847.63,AMD Ryzen 3,256.0,24.0,AMD Radeon Graphics,0.0,1
+26145.85,AMD Ryzen 3,512.0,20.0,AMD Radeon Graphics,0.0,1
+28711.2,AMD Ryzen 3,256.0,48.0,NVIDIA GeForce GT1030,0.0,0
+23564.91,AMD Ryzen 3,256.0,20.0,AMD Radeon Graphics,0.0,1
+28491.28,AMD Ryzen 3,1024.0,32.0,NVIDIA GeForce GT1030,0.0,0
+22530.66,AMD Ryzen 3,512.0,24.0,AMD Radeon Graphics,0.0,1
+20274.12,Intel Core i3,256.0,36.0,Dahili Ekran Kartı,0.0,1
+9929.2,Intel Core i7,512.0,16.0,Intel HD Graphics,0.0,1
+8918.27,Intel Core i7,512.0,16.0,Intel HD Graphics,0.0,1
+9968.0,Intel Core i5,1024.0,16.0,Intel HD Graphics,1024.0,1
+5536.919999999995,Intel Core i7,256.0,8.0,Intel HD Graphics,0.0,1
+63130.09,Intel Core i7,1024.0,32.0,Nvidia GeForce RTX 4060Ti,1024.0,3
+34499.95,Intel Core i5,2048.0,8.0,Intel UHD Graphics 770,0.0,0
+7625.0,Intel Core i5,1024.0,48.0,Intel HD Graphics,256.0,1
+8699.0,Intel Core i5,256.0,16.0,Intel HD Graphics,256.0,1
+10799.0,Intel Core i5,256.0,32.0,Nvidia GeForce GT 730,1024.0,2
+29999.99,Intel Xeon,120.0,32.0,AMD Radeon RX 570,0.0,1
+11149.0,Intel Core i5,512.0,16.0,Nvidia GeForce GT 730,1024.0,2
+10899.0,Intel Core i7,1024.0,8.0,Nvidia GeForce GT 730,2048.0,2
+43194.36,Intel Core i5,4096.0,48.0,Nvidia GeForce GT 730,4096.0,2
+42303.89,Intel Core i5,4096.0,64.0,Dahili Ekran Kartı,4096.0,1
+49511.05,Intel Core i7,1024.0,36.0,NVIDIA GeForce GT1030,1024.0,0
+48981.95,Intel Core i7,1024.0,24.0,Nvidia GeForce GT 730,1024.0,2
+49511.05,Intel Core i7,1024.0,32.0,NVIDIA GeForce GT1030,1024.0,0
+43581.04,Intel Core i5,4096.0,64.0,Nvidia GeForce GTX 1650,0.0,2
+35761.93,Intel Core i5,4096.0,16.0,AMD Radeon RX550,0.0,1
+37515.85,Intel Core i5,4096.0,20.0,Nvidia GeForce GTX 1650,0.0,2
+38666.1,Intel Core i5,4096.0,36.0,Nvidia GeForce GT 730,0.0,2
+34400.93,Intel Core i5,4096.0,20.0,Nvidia GeForce GT 730,0.0,2
+4617.999999999996,Intel Core i5,256.0,16.0,Intel HD Graphics,256.0,1
+36499.6,Intel Core i7,512.0,16.0,Nvidia GeForce RTX 4090Ti,5120.0,3
+5176.0,Intel Core i5,2048.0,16.0,Intel HD Graphics,256.0,1
+28149.0,Intel Core i5,512.0,32.0,Intel UHD Graphics 730,0.0,0
+19731.0,Intel Core i5,512.0,8.0,Intel HD Graphics,512.0,1
+43215.6,Intel Core i3,4096.0,36.0,AMD Radeon RX550,0.0,1
+42103.13,Intel Core i3,4096.0,36.0,Nvidia GeForce GT 730,0.0,2
+42521.42,Intel Core i3,4096.0,64.0,Dahili Ekran Kartı,0.0,1
+43215.6,Intel Core i3,4096.0,32.0,AMD Radeon RX550,0.0,1
+42374.57,Intel Core i3,4096.0,24.0,AMD Radeon RX550,0.0,1
+41818.33,Intel Core i3,4096.0,24.0,NVIDIA GeForce GT1030,0.0,0
+42766.16,Intel Core i3,4096.0,64.0,Nvidia GeForce GT 730,0.0,2
+41773.84,Intel Core i3,4096.0,20.0,AMD Radeon RX550,0.0,1
+44417.07,Intel Core i3,4096.0,48.0,AMD Radeon RX550,0.0,1
+43860.83,Intel Core i3,4096.0,48.0,NVIDIA GeForce GT1030,0.0,0
+43979.75,Intel Core i5,1024.0,64.0,Nvidia GeForce GTX 1650,0.0,2
+42537.99,Intel Core i5,1024.0,48.0,Nvidia GeForce GTX 1650,0.0,2
+42489.93,Intel Core i5,2048.0,20.0,Nvidia GeForce GTX 1650,0.0,2
+42070.14,Intel Core i5,2048.0,36.0,Nvidia GeForce GTX 1650,0.0,2
+42753.17,Intel Core i5,2048.0,40.0,Nvidia GeForce GTX 1650,0.0,2
+42463.23,Intel Core i5,2048.0,48.0,AMD Radeon RX550,0.0,1
+45133.16,Intel Core i5,2048.0,48.0,Nvidia GeForce GTX 1650,0.0,2
+44594.73,Intel Core i5,2048.0,64.0,Nvidia GeForce GTX 1650,0.0,2
+41924.8,Intel Core i5,2048.0,64.0,AMD Radeon RX550,0.0,1
+42081.43,Intel Core i5,512.0,64.0,Nvidia GeForce GTX 1650,0.0,2
+42070.14,Intel Core i5,2048.0,32.0,Nvidia GeForce GTX 1650,0.0,2
+46574.93,Intel Core i5,2048.0,64.0,Nvidia GeForce GTX 1650,0.0,2
+44833.65,Intel Core i3,4096.0,64.0,AMD Radeon RX550,0.0,1
+48212.62,Intel Core i7,4096.0,12.0,Dahili Ekran Kartı,0.0,1
+51943.18,Intel Core i7,4096.0,48.0,Dahili Ekran Kartı,0.0,1
+38124.93,Intel Core i3,4096.0,16.0,AMD Radeon RX550,4096.0,1
+57967.38,Intel Core i7,4096.0,8.0,NVIDIA GeForce GT1030,4096.0,0
+53329.99,Intel Core i7,4096.0,12.0,NVIDIA GeForce GT1030,4096.0,0
+53329.99,Intel Core i7,4096.0,8.0,NVIDIA GeForce GT1030,4096.0,0
+57967.38,Intel Core i7,4096.0,12.0,NVIDIA GeForce GT1030,4096.0,0
+56576.16,Intel Core i7,4096.0,8.0,NVIDIA GeForce GT1030,4096.0,0
+56576.16,Intel Core i7,4096.0,12.0,NVIDIA GeForce GT1030,4096.0,0
+50068.35,Intel Core i7,4096.0,64.0,Nvidia GeForce GT 730,0.0,2
+45423.71,Intel Core i7,4096.0,20.0,Nvidia GeForce GT 730,0.0,2
+47029.51,Intel Core i7,4096.0,24.0,Dahili Ekran Kartı,0.0,1
+50498.55,Intel Core i7,4096.0,36.0,Nvidia GeForce GT 730,0.0,2
+49521.36,Intel Core i7,4096.0,48.0,Dahili Ekran Kartı,0.0,1
+46357.87,Intel Core i7,4096.0,32.0,Dahili Ekran Kartı,0.0,1
+48739.6,Intel Core i7,4096.0,16.0,Nvidia GeForce GT 730,0.0,2
+46688.59,Intel Core i7,4096.0,20.0,AMD Radeon RX550,0.0,1
+46688.59,Intel Core i7,4096.0,16.0,AMD Radeon RX550,0.0,1
+46106.75,Intel Core i7,4096.0,24.0,Nvidia GeForce GT 730,0.0,2
+47063.0,Intel Core i7,4096.0,36.0,Nvidia GeForce GT 730,0.0,2
+49472.5,Intel Core i7,4096.0,24.0,Nvidia GeForce GT 730,0.0,2
+46296.62,Intel Core i7,4096.0,20.0,Dahili Ekran Kartı,0.0,1
+48429.07,Intel Core i7,4096.0,48.0,Nvidia GeForce GT 730,0.0,2
+45423.71,Intel Core i7,4096.0,16.0,Nvidia GeForce GT 730,0.0,2
+45469.25,Intel Core i7,4096.0,40.0,Dahili Ekran Kartı,0.0,1
+51437.82,Intel Core i7,4096.0,48.0,AMD Radeon RX550,0.0,1
+48327.01,Intel Core i7,4096.0,20.0,AMD Radeon RX550,0.0,1
+47017.74,Intel Core i7,4096.0,16.0,Nvidia GeForce GT 730,0.0,2
+48714.55,Intel Core i7,4096.0,32.0,Nvidia GeForce GT 730,0.0,2
+44786.21,Intel Core i7,4096.0,36.0,Dahili Ekran Kartı,0.0,1
+43146.93,Intel Core i7,4096.0,16.0,Dahili Ekran Kartı,0.0,1
+45992.91,Intel Core i7,4096.0,20.0,NVIDIA GeForce GT1030,0.0,0
+48055.57,Intel Core i7,4096.0,36.0,Dahili Ekran Kartı,0.0,1
+52414.54,Intel Core i7,4096.0,64.0,NVIDIA GeForce GT1030,0.0,0
+48739.6,Intel Core i7,4096.0,20.0,Nvidia GeForce GT 730,0.0,2
+48313.91,Intel Core i7,4096.0,24.0,NVIDIA GeForce GT1030,0.0,0
+41965.18,AMD Ryzen 3,4096.0,64.0,Nvidia GeForce GT 730,0.0,2
+40185.78,Intel Core i5,4096.0,16.0,Nvidia GeForce GTX 1650,4096.0,2
+44786.21,Intel Core i7,4096.0,32.0,NVIDIA GeForce GT1030,0.0,0
+36443.43,Intel Core i5,4096.0,40.0,NVIDIA GeForce GT1030,0.0,0
+21899.89,Intel Core i3,256.0,8.0,Intel UHD Graphics 730,0.0,0
+9598.41,Intel Core i5,4096.0,48.0,Intel HD Graphics,256.0,1
+10820.0,Intel Core i5,256.0,16.0,Intel HD Graphics,256.0,1
+16701.0,Intel Core i5,256.0,16.0,Intel HD Graphics,256.0,1
+56863.89,Intel Core i7,4096.0,64.0,Dahili Ekran Kartı,0.0,1
+58262.18,Intel Core i7,4096.0,64.0,Dahili Ekran Kartı,0.0,1
+54368.94,Intel Core i7,4096.0,64.0,Nvidia GeForce GTX 1650,0.0,2
+53321.56,Intel Core i7,4096.0,48.0,AMD Radeon RX550,0.0,1
+54334.04,Intel Core i7,4096.0,64.0,NVIDIA GeForce GT1030,0.0,0
+56578.87,Intel Core i7,4096.0,48.0,Nvidia GeForce GTX 1650,0.0,2
+56276.87,Intel Core i7,4096.0,64.0,Nvidia GeForce GTX 1650,0.0,2
+53134.63,Intel Core i7,4096.0,64.0,AMD Radeon RX550,0.0,1
+54580.06,Intel Core i7,4096.0,48.0,Nvidia GeForce GTX 1650,0.0,2
+55080.51,Intel Core i7,4096.0,64.0,AMD Radeon RX550,0.0,1
+53723.3,Intel Core i7,4096.0,64.0,Nvidia GeForce GT 730,0.0,2
+33600.51,Intel Core i5,2048.0,20.0,Nvidia GeForce GTX 1650,0.0,2
+33887.42,Intel Core i5,1024.0,20.0,Nvidia GeForce GTX 1650,0.0,2
+37145.62,Intel Core i5,2048.0,48.0,Nvidia GeForce GTX 1650,0.0,2
+88920.0,AMD Ryzen 9,4096.0,64.0,Nvidia GeForce RTX 3080,0.0,3
+81174.0,AMD Ryzen 9,1024.0,16.0,Nvidia GeForce RTX 3080,0.0,3
+15414.57,Intel Core i5,256.0,16.0,Intel HD Graphics,256.0,1
+36444.97,Intel Core i5,512.0,36.0,Nvidia GeForce GT 730,0.0,2
+11202.0,Intel Core i5,512.0,16.0,Nvidia Geforce GT 740,512.0,3
+16055.0,Intel Core i5,512.0,8.0,Intel HD Graphics,512.0,1
+5999.0,Intel Core i3,2048.0,16.0,Intel HD Graphics,0.0,1
+11182.0,Intel Core i7,512.0,16.0,Intel HD Graphics,512.0,1
+11322.0,Intel Core i7,512.0,16.0,Intel HD Graphics,512.0,1
+3258.0,Intel Core i3,4096.0,32.0,Intel HD Graphics,8.0,1
+20500.0,Intel Core i5,256.0,16.0,Dahili Ekran Kartı,256.0,1
+30149.0,Intel Core i7,2048.0,64.0,Intel UHD Graphics 770,0.0,0
+35055.07,Intel Core i5,256.0,36.0,Nvidia GeForce GT 730,0.0,2
+35415.51,Intel Core i5,256.0,16.0,Nvidia GeForce GTX 1650,0.0,2
+35447.23,Intel Core i5,2048.0,12.0,Nvidia GeForce GT 730,0.0,2
+39820.0,Intel Core i5,2048.0,16.0,AMD Radeon RX550,0.0,1
+35611.3,Intel Core i5,256.0,32.0,NVIDIA GeForce GT1030,0.0,0
+27808.37,Intel Core i5,512.0,8.0,Dahili Ekran Kartı,0.0,1
+38169.1,Intel Core i5,2048.0,32.0,Nvidia GeForce GT 730,0.0,2
+40705.53,Intel Core i5,2048.0,32.0,NVIDIA GeForce GT1030,0.0,0
+38169.1,Intel Core i5,2048.0,36.0,Nvidia GeForce GT 730,0.0,2
+37644.07,Intel Core i5,512.0,40.0,Nvidia GeForce GTX 1650,0.0,2
+38769.83,Intel Core i5,2048.0,40.0,Nvidia GeForce GT 730,0.0,2
+36857.27,Intel Core i5,256.0,32.0,Nvidia GeForce GTX 1650,0.0,2
+34214.04,Intel Core i5,512.0,16.0,Nvidia GeForce GT 730,0.0,2
+35415.51,Intel Core i5,256.0,20.0,Nvidia GeForce GTX 1650,0.0,2
+34643.9,Intel Core i5,1024.0,12.0,AMD Radeon RX550,0.0,1
+35326.51,Intel Core i5,512.0,16.0,AMD Radeon RX550,0.0,1
+34770.28,Intel Core i5,256.0,24.0,NVIDIA GeForce GT1030,0.0,0
+39820.0,Intel Core i5,2048.0,20.0,AMD Radeon RX550,0.0,1
+39281.57,Intel Core i5,2048.0,36.0,AMD Radeon RX550,0.0,1
+30287.54,Intel Core i5,256.0,12.0,NVIDIA GeForce GT1030,0.0,0
+29655.1,Intel Core i5,256.0,8.0,Nvidia GeForce GT 730,0.0,2
+35655.8,Intel Core i5,512.0,32.0,Nvidia GeForce GT 730,0.0,2
+41480.7,Intel Core i5,256.0,64.0,Nvidia GeForce GTX 1650,0.0,2
+36016.24,Intel Core i5,512.0,20.0,Nvidia GeForce GTX 1650,0.0,2
+36167.54,Intel Core i5,256.0,36.0,AMD Radeon RX550,0.0,1
+36167.54,Intel Core i5,256.0,32.0,AMD Radeon RX550,0.0,1
+37395.71,Intel Core i5,256.0,16.0,Nvidia GeForce GTX 1650,0.0,2
+40509.73,Intel Core i5,2048.0,20.0,Nvidia GeForce GTX 1650,0.0,2
+33675.6,Intel Core i5,512.0,36.0,Nvidia GeForce GT 730,0.0,2
+34276.34,Intel Core i5,512.0,40.0,Nvidia GeForce GT 730,0.0,2
+39882.3,Intel Core i5,2048.0,40.0,AMD Radeon RX550,0.0,1
+30919.97,Intel Core i5,256.0,8.0,AMD Radeon RX550,0.0,1
+37395.71,Intel Core i5,256.0,20.0,Nvidia GeForce GTX 1650,0.0,2
+35447.23,Intel Core i5,2048.0,8.0,Nvidia GeForce GT 730,0.0,2
+33947.05,Intel Core i5,512.0,24.0,AMD Radeon RX550,0.0,1
+35611.3,Intel Core i5,256.0,36.0,NVIDIA GeForce GT1030,0.0,0
+40149.29,Intel Core i5,2048.0,36.0,Nvidia GeForce GT 730,0.0,2
+36016.24,Intel Core i5,512.0,16.0,Nvidia GeForce GTX 1650,0.0,2
+32834.58,Intel Core i5,512.0,24.0,Nvidia GeForce GT 730,0.0,2
+35055.07,Intel Core i5,256.0,32.0,Nvidia GeForce GT 730,0.0,2
+34814.77,Intel Core i5,512.0,24.0,Nvidia GeForce GT 730,0.0,2
+35371.01,Intel Core i5,512.0,24.0,NVIDIA GeForce GT1030,0.0,0
+35655.8,Intel Core i5,512.0,36.0,Nvidia GeForce GT 730,0.0,2
+33531.43,Intel Core i5,1024.0,8.0,Nvidia GeForce GT 730,0.0,2
+36857.27,Intel Core i5,256.0,36.0,Nvidia GeForce GTX 1650,0.0,2
+41110.47,Intel Core i5,2048.0,24.0,Nvidia GeForce GTX 1650,0.0,2
+62467.32,Intel Core i7,4096.0,32.0,Nvidia GeForce GTX 1650,0.0,2
+58476.26,Intel Core i7,4096.0,12.0,Nvidia GeForce GTX 1650,0.0,2
+38391.92,AMD Ryzen 3,4096.0,8.0,AMD Radeon RX550,0.0,1
+38925.58,Intel Core i5,2048.0,36.0,Nvidia GeForce GTX 1650,0.0,2
+33831.35,Intel Core i5,256.0,36.0,Nvidia GeForce GTX 1650,0.0,2
+36166.98,Intel Core i3,4096.0,8.0,AMD Radeon RX550,0.0,1
+38391.92,AMD Ryzen 3,4096.0,12.0,AMD Radeon RX550,0.0,1
+36411.73,AMD Ryzen 3,4096.0,12.0,AMD Radeon RX550,0.0,1
+37279.45,AMD Ryzen 3,4096.0,8.0,Nvidia GeForce GT 730,0.0,2
+21640.19,Intel Core i3,256.0,48.0,Dahili Ekran Kartı,0.0,1
+33052.62,Intel Core i5,512.0,40.0,Nvidia GeForce GTX 1650,0.0,2
+35799.87,AMD Ryzen 3,4096.0,8.0,NVIDIA GeForce GT1030,0.0,0
+21476.26,Intel Core i3,1024.0,16.0,Dahili Ekran Kartı,0.0,1
+36411.73,AMD Ryzen 3,4096.0,8.0,AMD Radeon RX550,0.0,1
+26004.01,Intel Core i5,256.0,8.0,Intel UHD Graphics 770,256.0,0
+24624.54,Intel Core i5,512.0,12.0,Intel UHD Graphics 770,512.0,0
+38925.58,Intel Core i5,2048.0,32.0,Nvidia GeForce GT 730,2048.0,2
+31120.48,Intel Core i5,256.0,8.0,Nvidia GeForce GT 730,2048.0,2
+31751.03,Intel Core i5,512.0,40.0,NVIDIA GeForce GT1030,512.0,0
+34055.86,Intel Core i5,2048.0,12.0,Nvidia GeForce GT 730,2048.0,2
+26526.87,Intel Core i5,256.0,12.0,NVIDIA GeForce GT1030,256.0,0
+37546.11,Intel Core i5,2048.0,40.0,Nvidia GeForce GTX 1650,2048.0,2
+34432.08,Intel Core i5,512.0,32.0,Nvidia GeForce GTX 1650,512.0,2
+31098.23,Intel Core i5,2048.0,8.0,Intel UHD Graphics 770,2048.0,0
+34055.86,Intel Core i5,2048.0,8.0,Nvidia GeForce GT 730,2048.0,2
+33591.06,Intel Core i5,512.0,24.0,Nvidia GeForce GTX 1650,512.0,2
+41499.78,Intel Core i5,1024.0,48.0,Intel UHD Graphics 730,0.0,0
+37699.78,Intel Core i5,2048.0,32.0,Intel UHD Graphics 730,0.0,0
+23500.0,Intel Core i7,256.0,8.0,Nvidia GeForce GT 730,512.0,2
+72472.0,Intel Core i9,1024.0,64.0,NVIDIA RTX A2000,0.0,0
+14751.0,Intel Core i7,256.0,16.0,Intel HD Graphics,512.0,1
+14355.0,Intel Core i5,256.0,8.0,Intel HD Graphics,512.0,1
+39878.18,Intel Core i3,4096.0,32.0,Dahili Ekran Kartı,0.0,1
+26724.33,Intel Core i3,512.0,20.0,Dahili Ekran Kartı,0.0,1
+38436.42,Intel Core i3,4096.0,16.0,Dahili Ekran Kartı,0.0,1
+36456.22,Intel Core i3,4096.0,16.0,Dahili Ekran Kartı,0.0,1
+26232.21,Intel Core i3,1024.0,8.0,Dahili Ekran Kartı,0.0,1
+38301.18,Intel Core i3,4096.0,12.0,NVIDIA GeForce GT1030,0.0,0
+40623.5,Intel Core i3,4096.0,32.0,NVIDIA GeForce GT1030,0.0,0
+41217.6,Intel Core i3,4096.0,20.0,NVIDIA GeForce GT1030,0.0,0
+41324.4,Intel Core i3,4096.0,48.0,Nvidia GeForce GT 730,0.0,2
+40679.16,Intel Core i3,4096.0,32.0,NVIDIA GeForce GT1030,0.0,0
+39667.25,Intel Core i3,4096.0,24.0,NVIDIA GeForce GT1030,0.0,0
+38984.21,Intel Core i3,4096.0,16.0,NVIDIA GeForce GT1030,0.0,0
+39991.06,Intel Core i3,4096.0,32.0,Nvidia GeForce GT 730,0.0,2
+39237.4,Intel Core i3,4096.0,16.0,NVIDIA GeForce GT1030,0.0,0
+39281.9,Intel Core i3,4096.0,24.0,Nvidia GeForce GT 730,0.0,2
+40394.37,Intel Core i3,4096.0,24.0,AMD Radeon RX550,0.0,1
+39616.65,Intel Core i3,4096.0,16.0,AMD Radeon RX550,0.0,1
+35138.98,Intel Core i3,4096.0,12.0,Dahili Ekran Kartı,0.0,1
+40299.69,Intel Core i3,4096.0,24.0,AMD Radeon RX550,0.0,1
+40623.5,Intel Core i3,4096.0,36.0,NVIDIA GeForce GT1030,0.0,0
+35138.98,Intel Core i3,4096.0,8.0,Dahili Ekran Kartı,0.0,1
+38681.17,Intel Core i3,4096.0,20.0,Nvidia GeForce GT 730,0.0,2
+39878.18,Intel Core i3,4096.0,36.0,Dahili Ekran Kartı,0.0,1
+38498.72,Intel Core i3,4096.0,40.0,Dahili Ekran Kartı,0.0,1
+38144.33,Intel Core i3,4096.0,40.0,Dahili Ekran Kartı,0.0,1
+39793.64,Intel Core i3,4096.0,16.0,AMD Radeon RX550,0.0,1
+41255.94,Intel Core i3,4096.0,36.0,AMD Radeon RX550,0.0,1
+38984.21,Intel Core i3,4096.0,20.0,NVIDIA GeForce GT1030,0.0,0
+38933.62,Intel Core i3,4096.0,12.0,AMD Radeon RX550,0.0,1
+37897.99,Intel Core i3,4096.0,32.0,Dahili Ekran Kartı,0.0,1
+38587.39,Intel Core i5,2048.0,64.0,Dahili Ekran Kartı,0.0,1
+36074.09,Intel Core i5,512.0,64.0,Dahili Ekran Kartı,0.0,1
+32051.4,Intel Core i5,256.0,48.0,Dahili Ekran Kartı,0.0,1
+35103.13,Intel Core i5,2048.0,24.0,Dahili Ekran Kartı,0.0,1
+31306.49,Intel Core i5,1024.0,12.0,Dahili Ekran Kartı,0.0,1
+29966.76,Intel Core i5,1024.0,12.0,Dahili Ekran Kartı,0.0,1
+30008.9,Intel Core i5,256.0,24.0,Dahili Ekran Kartı,0.0,1
+31388.36,Intel Core i5,256.0,16.0,Dahili Ekran Kartı,0.0,1
+32830.13,Intel Core i5,256.0,36.0,Dahili Ekran Kartı,0.0,1
+34632.33,Intel Core i5,512.0,48.0,Dahili Ekran Kartı,0.0,1
+31989.1,Intel Core i5,512.0,20.0,Dahili Ekran Kartı,0.0,1
+36544.89,Intel Core i5,2048.0,40.0,Dahili Ekran Kartı,0.0,1
+36762.71,Intel Core i5,2048.0,20.0,NVIDIA GeForce GT1030,0.0,0
+32189.34,Intel Core i5,256.0,16.0,NVIDIA GeForce GT1030,0.0,0
+36668.6,Intel Core i5,1024.0,16.0,NVIDIA GeForce GT1030,0.0,0
+38401.99,Intel Core i5,2048.0,36.0,NVIDIA GeForce GT1030,0.0,0
+30338.13,Intel Core i5,256.0,16.0,Nvidia GeForce GT 730,0.0,2
+40753.59,Intel Core i5,1024.0,64.0,NVIDIA GeForce GT1030,0.0,0
+40197.35,Intel Core i5,1024.0,64.0,Nvidia GeForce GT 730,0.0,2
+35451.28,Intel Core i5,1024.0,32.0,NVIDIA GeForce GT1030,0.0,0
+32286.04,Intel Core i5,512.0,20.0,AMD Radeon RX550,0.0,1
+39119.43,Intel Core i5,1024.0,36.0,Nvidia GeForce GTX 1650,0.0,2
+40038.94,Intel Core i5,256.0,48.0,Nvidia GeForce GTX 1650,0.0,2
+37369.01,Intel Core i5,256.0,48.0,AMD Radeon RX550,0.0,1
+36130.27,Intel Core i5,2048.0,20.0,Nvidia GeForce GT 730,0.0,2
+38110.36,Intel Core i5,1024.0,36.0,NVIDIA GeForce GT1030,0.0,0
+33346.31,Intel Core i5,256.0,24.0,AMD Radeon RX550,0.0,1
+33925.33,Intel Core i5,512.0,36.0,AMD Radeon RX550,0.0,1
+38327.11,Intel Core i5,512.0,48.0,Nvidia GeForce GTX 1650,0.0,2
+33242.29,Intel Core i5,256.0,36.0,AMD Radeon RX550,0.0,1
+37769.55,Intel Core i5,2048.0,36.0,Nvidia GeForce GT 730,0.0,2
+36274.34,Intel Core i5,256.0,64.0,NVIDIA GeForce GT1030,0.0,0
+36130.16,Intel Core i5,1024.0,36.0,NVIDIA GeForce GT1030,0.0,0
+33128.96,Intel Core i5,1024.0,8.0,NVIDIA GeForce GT1030,0.0,0
+31653.6,Intel Core i5,512.0,16.0,NVIDIA GeForce GT1030,0.0,0
+36930.68,Intel Core i5,512.0,64.0,AMD Radeon RX550,0.0,1
+36298.24,Intel Core i5,512.0,64.0,NVIDIA GeForce GT1030,0.0,0
+34832.57,Intel Core i5,256.0,48.0,NVIDIA GeForce GT1030,0.0,0
+31977.41,Intel Core i5,256.0,36.0,Nvidia GeForce GT 730,0.0,2
+38217.15,Intel Core i5,1024.0,64.0,Nvidia GeForce GT 730,0.0,2
+37698.3,Intel Core i5,256.0,64.0,Nvidia GeForce GT 730,0.0,2
+36278.0,Intel Core i5,256.0,36.0,Nvidia GeForce GTX 1650,0.0,2
+37283.57,Intel Core i5,2048.0,20.0,NVIDIA GeForce GT1030,0.0,0
+39267.33,Intel Core i5,1024.0,40.0,AMD Radeon RX550,0.0,1
+41336.52,Intel Core i5,1024.0,36.0,Nvidia GeForce GTX 1650,0.0,2
+36762.71,Intel Core i5,2048.0,16.0,NVIDIA GeForce GT1030,0.0,0
+34638.72,Intel Core i5,256.0,16.0,Nvidia GeForce GTX 1650,0.0,2
+39311.83,Intel Core i5,1024.0,48.0,NVIDIA GeForce GT1030,0.0,0
+35665.8,Intel Core i5,512.0,64.0,Nvidia GeForce GT 730,0.0,2
+32496.52,Intel Core i5,1024.0,8.0,Nvidia GeForce GT 730,0.0,2
+40557.79,Intel Core i5,1024.0,48.0,Nvidia GeForce GTX 1650,0.0,2
+41309.82,Intel Core i5,1024.0,64.0,AMD Radeon RX550,0.0,1
+35573.92,Intel Core i5,1024.0,32.0,Nvidia GeForce GT 730,0.0,2
+34982.77,Intel Core i5,256.0,64.0,Nvidia GeForce GT 730,0.0,2
+41113.89,Intel Core i5,2048.0,24.0,Nvidia GeForce GTX 1650,0.0,2
+41336.52,Intel Core i5,1024.0,32.0,Nvidia GeForce GTX 1650,0.0,2
+39356.32,Intel Core i5,1024.0,32.0,Nvidia GeForce GTX 1650,0.0,2
+37445.74,Intel Core i5,2048.0,24.0,NVIDIA GeForce GT1030,0.0,0
+36130.16,Intel Core i5,1024.0,32.0,NVIDIA GeForce GT1030,0.0,0
+34732.9,Intel Core i5,1024.0,24.0,Nvidia GeForce GT 730,0.0,2
+32233.84,Intel Core i5,512.0,20.0,Nvidia GeForce GT 730,0.0,2
+34688.4,Intel Core i5,1024.0,16.0,NVIDIA GeForce GT1030,0.0,0
+35321.75,Intel Core i5,512.0,16.0,Nvidia GeForce GTX 1650,0.0,2
+39802.46,Intel Core i5,1024.0,40.0,Nvidia GeForce GTX 1650,0.0,2
+37224.83,Intel Core i5,1024.0,20.0,AMD Radeon RX550,0.0,1
+36174.66,Intel Core i5,1024.0,40.0,Nvidia GeForce GT 730,0.0,2
+32609.85,Intel Core i5,256.0,36.0,NVIDIA GeForce GT1030,0.0,0
+34608.36,Intel Core i5,512.0,40.0,AMD Radeon RX550,0.0,1
+31021.17,Intel Core i5,512.0,20.0,Nvidia GeForce GT 730,0.0,2
+39717.46,Intel Core i5,2048.0,40.0,AMD Radeon RX550,0.0,1
+39411.5,Intel Core i5,512.0,64.0,AMD Radeon RX550,0.0,1
+33925.33,Intel Core i5,512.0,32.0,AMD Radeon RX550,0.0,1
+33343.48,Intel Core i5,512.0,40.0,Nvidia GeForce GT 730,0.0,2
+30338.13,Intel Core i5,256.0,20.0,Nvidia GeForce GT 730,0.0,2
+32790.08,Intel Core i5,256.0,24.0,NVIDIA GeForce GT1030,0.0,0
+38707.53,Intel Core i5,2048.0,16.0,Nvidia GeForce GT 730,0.0,2
+37480.14,Intel Core i5,1024.0,16.0,Nvidia GeForce GTX 1650,0.0,2
+34132.16,Intel Core i5,1024.0,20.0,Nvidia GeForce GT 730,0.0,2
+39283.36,Intel Core i5,256.0,64.0,Nvidia GeForce GTX 1650,0.0,2
+34132.16,Intel Core i5,1024.0,16.0,Nvidia GeForce GT 730,0.0,2
+36961.04,Intel Core i5,256.0,40.0,Nvidia GeForce GTX 1650,0.0,2
+36727.33,Intel Core i5,2048.0,20.0,Nvidia GeForce GT 730,0.0,2
+38666.59,Intel Core i5,1024.0,32.0,AMD Radeon RX550,0.0,1
+38515.3,Intel Core i5,1024.0,24.0,Nvidia GeForce GTX 1650,0.0,2
+38711.09,Intel Core i5,1024.0,40.0,NVIDIA GeForce GT1030,0.0,0
+38707.53,Intel Core i5,2048.0,20.0,Nvidia GeForce GT 730,0.0,2
+35321.75,Intel Core i5,512.0,20.0,Nvidia GeForce GTX 1650,0.0,2
+37839.8,Intel Core i5,2048.0,16.0,AMD Radeon RX550,0.0,1
+35845.37,Intel Core i5,1024.0,24.0,AMD Radeon RX550,0.0,1
+40812.33,Intel Core i5,2048.0,64.0,Nvidia GeForce GT 730,0.0,2
+36727.33,Intel Core i5,2048.0,16.0,Nvidia GeForce GT 730,0.0,2
+39356.32,Intel Core i5,1024.0,36.0,Nvidia GeForce GTX 1650,0.0,2
+39966.39,Intel Core i5,512.0,64.0,Nvidia GeForce GTX 1650,0.0,2
+39034.43,Intel Core i5,2048.0,32.0,AMD Radeon RX550,0.0,1
+39263.77,Intel Core i5,2048.0,20.0,NVIDIA GeForce GT1030,0.0,0
+31021.17,Intel Core i5,256.0,24.0,Nvidia GeForce GT 730,0.0,2
+31603.01,Intel Core i5,256.0,16.0,AMD Radeon RX550,0.0,1
+31603.01,Intel Core i5,256.0,20.0,AMD Radeon RX550,0.0,1
+37395.15,Intel Core i5,2048.0,16.0,AMD Radeon RX550,0.0,1
+38254.53,Intel Core i5,256.0,64.0,NVIDIA GeForce GT1030,0.0,0
+35573.92,Intel Core i5,1024.0,36.0,Nvidia GeForce GT 730,0.0,2
+36686.39,Intel Core i5,1024.0,36.0,AMD Radeon RX550,0.0,1
+34169.54,Intel Core i5,256.0,16.0,NVIDIA GeForce GT1030,0.0,0
+34688.4,Intel Core i5,1024.0,20.0,NVIDIA GeForce GT1030,0.0,0
+37413.51,Intel Core i5,512.0,48.0,NVIDIA GeForce GT1030,0.0,0
+37914.56,Intel Core i5,1024.0,20.0,Nvidia GeForce GTX 1650,0.0,2
+39119.43,Intel Core i5,1024.0,32.0,Nvidia GeForce GTX 1650,0.0,2
+38659.47,Intel Core i5,512.0,48.0,Nvidia GeForce GTX 1650,0.0,2
+40774.9,Intel Core i5,2048.0,64.0,Nvidia GeForce GT 730,0.0,2
+33346.31,Intel Core i5,512.0,16.0,AMD Radeon RX550,0.0,1
+38755.59,Intel Core i5,1024.0,48.0,Nvidia GeForce GT 730,0.0,2
+39768.06,Intel Core i5,2048.0,48.0,NVIDIA GeForce GT1030,0.0,0
+35615.21,Intel Core i5,256.0,64.0,NVIDIA GeForce GT1030,0.0,0
+32969.08,Intel Core i5,512.0,24.0,AMD Radeon RX550,0.0,1
+32745.58,Intel Core i5,256.0,16.0,AMD Radeon RX550,0.0,1
+31021.17,Intel Core i5,512.0,16.0,Nvidia GeForce GT 730,0.0,2
+36812.77,Intel Core i5,256.0,48.0,NVIDIA GeForce GT1030,0.0,0
+31977.41,Intel Core i5,256.0,32.0,Nvidia GeForce GT 730,0.0,2
+35388.81,Intel Core i5,256.0,48.0,AMD Radeon RX550,0.0,1
+37269.33,Intel Core i5,1024.0,24.0,NVIDIA GeForce GT1030,0.0,0
+32496.52,Intel Core i5,1024.0,12.0,Nvidia GeForce GT 730,0.0,2
+36247.65,Intel Core i5,256.0,64.0,AMD Radeon RX550,0.0,1
+28525.31,Intel Core i5,1024.0,12.0,Nvidia GeForce GT 730,0.0,2
+33052.62,Intel Core i5,256.0,48.0,Nvidia GeForce GTX 1650,0.0,2
+37457.11,Intel Core i5,2048.0,48.0,AMD Radeon RX550,0.0,1
+28607.19,Intel Core i5,256.0,20.0,Nvidia GeForce GT 730,0.0,2
+30586.05,Intel Core i5,256.0,36.0,Nvidia GeForce GTX 1650,0.0,2
+30048.95,Intel Core i5,256.0,36.0,Nvidia GeForce GT 730,0.0,2
+25826.01,Intel Core i5,512.0,24.0,Dahili Ekran Kartı,0.0,1
+31161.42,Intel Core i5,256.0,32.0,AMD Radeon RX550,0.0,1
+32451.89,Intel Core i5,512.0,36.0,Nvidia GeForce GTX 1650,0.0,2
+26667.04,Intel Core i5,256.0,40.0,Dahili Ekran Kartı,0.0,1
+26072.33,AMD Ryzen 3,512.0,24.0,AMD Radeon RX550,0.0,1
+278999.99000000005,Intel Core i9,2048.0,128.0,Intel HD Graphics,2048.0,1
+27227.72,Intel Core i5,512.0,16.0,Nvidia GeForce GT 730,0.0,2
+28525.31,Intel Core i5,1024.0,8.0,Nvidia GeForce GT 730,0.0,2
+26626.99,Intel Core i5,256.0,16.0,Nvidia GeForce GT 730,0.0,2
+32321.95,Intel Core i5,2048.0,24.0,Nvidia GeForce GT 730,0.0,2
+34350.21,Intel Core i5,1024.0,32.0,Nvidia GeForce GTX 1650,0.0,2
+25215.37,Intel Core i5,512.0,8.0,NVIDIA GeForce GT1030,0.0,0
+38992.66,AMD Ryzen 3,4096.0,16.0,AMD Radeon RX550,0.0,1
+35032.82,Intel Core i5,256.0,48.0,Nvidia GeForce GTX 1650,0.0,2
+31160.53,Intel Core i5,2048.0,36.0,Dahili Ekran Kartı,0.0,1
+28940.93,Intel Core i5,512.0,24.0,AMD Radeon RX550,0.0,1
+41097.45,AMD Ryzen 3,4096.0,64.0,AMD Radeon RX550,0.0,1
+36845.26,Intel Core i5,2048.0,48.0,NVIDIA GeForce GT1030,0.0,0
+29107.8,Intel Core i5,256.0,20.0,NVIDIA GeForce GT1030,0.0,0
+35339.3,AMD Ryzen 3,4096.0,32.0,AMD Radeon Graphics,0.0,1
+30505.51,Intel Core i5,1024.0,12.0,Nvidia GeForce GT 730,0.0,2
+76999.99,Intel Xeon,1024.0,128.0,Dahili Ekran Kartı,1024.0,1
+31006.12,Intel Core i5,1024.0,12.0,NVIDIA GeForce GT1030,0.0,0
+35094.56,Intel Core i3,4096.0,36.0,Dahili Ekran Kartı,0.0,1
+31976.78,Intel Core i3,4096.0,8.0,Nvidia GeForce GT 730,0.0,2
+35388.25,Intel Core i3,4096.0,24.0,AMD Radeon RX550,0.0,1
+31824.45,Intel Core i5,256.0,64.0,AMD Radeon RX550,0.0,1
+35940.04,AMD Ryzen 3,4096.0,40.0,AMD Radeon Graphics,0.0,1
+27739.46,Intel Core i5,256.0,16.0,AMD Radeon RX550,0.0,1
+34186.78,Intel Core i3,4096.0,12.0,AMD Radeon RX550,0.0,1
+34275.78,Intel Core i3,4096.0,24.0,Nvidia GeForce GT 730,0.0,2
+27478.49,Intel Core i5,2048.0,12.0,Dahili Ekran Kartı,0.0,1
+34787.52,Intel Core i3,4096.0,16.0,AMD Radeon RX550,0.0,1
+39593.39,AMD Ryzen 3,4096.0,24.0,AMD Radeon RX550,0.0,1
+38209.48,Intel Core i3,4096.0,36.0,AMD Radeon RX550,0.0,1
+31020.15,Intel Core i5,2048.0,8.0,AMD Radeon RX550,0.0,1
+33329.82,Intel Core i5,2048.0,40.0,NVIDIA GeForce GT1030,0.0,0
+28069.44,Intel Core i5,1024.0,12.0,AMD Radeon RX550,0.0,1
+34498.28,AMD Ryzen 3,4096.0,24.0,AMD Radeon Graphics,0.0,1
+35414.62,Intel Core i5,2048.0,24.0,NVIDIA GeForce GT1030,0.0,0
+35643.79,Intel Core i5,2048.0,36.0,NVIDIA GeForce GT1030,0.0,0
+28669.49,Intel Core i5,256.0,40.0,Nvidia GeForce GT 730,0.0,2
+34025.51,Intel Core i5,2048.0,40.0,AMD Radeon RX550,0.0,1
+34950.94,Intel Core i5,1024.0,40.0,Nvidia GeForce GTX 1650,0.0,2
+37511.89,AMD Ryzen 3,4096.0,40.0,Nvidia GeForce GT 730,0.0,2
+37097.01,Intel Core i3,4096.0,36.0,Nvidia GeForce GT 730,0.0,2
+35877.74,AMD Ryzen 3,4096.0,16.0,AMD Radeon Graphics,0.0,1
+27806.21,Intel Core i5,512.0,24.0,Dahili Ekran Kartı,0.0,1
+26066.3,Intel Core i5,256.0,36.0,Dahili Ekran Kartı,0.0,1
+37097.01,Intel Core i3,4096.0,32.0,Nvidia GeForce GT 730,0.0,2
+35095.12,Intel Core i5,512.0,64.0,Nvidia GeForce GTX 1650,0.0,2
+33653.35,Intel Core i5,512.0,48.0,Nvidia GeForce GTX 1650,0.0,2
+38498.61,Intel Core i7,1024.0,32.0,Dahili Ekran Kartı,0.0,1
+35655.25,Intel Core i3,4096.0,16.0,Nvidia GeForce GT 730,0.0,2
+34302.15,Intel Core i5,2048.0,24.0,Nvidia GeForce GT 730,0.0,2
+37012.46,AMD Ryzen 3,4096.0,16.0,AMD Radeon RX550,0.0,1
+30649.68,Intel Core i5,512.0,32.0,Nvidia GeForce GT 730,0.0,2
+33114.36,Intel Core i3,4096.0,36.0,Dahili Ekran Kartı,0.0,1
+35717.54,Intel Core i3,4096.0,40.0,Nvidia GeForce GT 730,0.0,2
+35771.42,AMD Ryzen 3,4096.0,8.0,AMD Radeon RX550,0.0,1
+36478.47,AMD Ryzen 3,4096.0,24.0,AMD Radeon Graphics,0.0,1
+39822.56,AMD Ryzen 3,4096.0,36.0,NVIDIA GeForce GT1030,0.0,0
+34506.54,AMD Ryzen 3,4096.0,8.0,Nvidia GeForce GT 730,0.0,2
+28607.19,Intel Core i5,256.0,16.0,Nvidia GeForce GT 730,0.0,2
+29781.96,Intel Core i5,256.0,40.0,AMD Radeon RX550,0.0,1
+39962.73,AMD Ryzen 3,4096.0,64.0,AMD Radeon Graphics,0.0,1
+31680.28,Intel Core i5,1024.0,36.0,AMD Radeon RX550,0.0,1
+29207.92,Intel Core i5,512.0,16.0,Nvidia GeForce GT 730,0.0,2
+36945.38,Intel Core i5,2048.0,32.0,Nvidia GeForce GTX 1650,0.0,2
+26604.74,Intel Core i5,256.0,20.0,Dahili Ekran Kartı,0.0,1
+35503.62,Intel Core i5,2048.0,16.0,Nvidia GeForce GTX 1650,0.0,2
+34405.38,Intel Core i5,512.0,64.0,AMD Radeon RX550,0.0,1
+29170.1,Intel Core i5,256.0,40.0,NVIDIA GeForce GT1030,0.0,0
+33296.81,AMD Ryzen 3,4096.0,8.0,AMD Radeon Graphics,0.0,1
+35299.26,AMD Ryzen 3,4096.0,12.0,Nvidia GeForce GT 730,0.0,2
+34506.54,AMD Ryzen 3,4096.0,12.0,Nvidia GeForce GT 730,0.0,2
+35655.25,Intel Core i3,4096.0,20.0,Nvidia GeForce GT 730,0.0,2
+30921.13,Intel Core i5,512.0,24.0,AMD Radeon RX550,0.0,1
+27639.76,AMD Ryzen 3,2048.0,24.0,AMD Radeon Graphics,0.0,1
+38081.09,AMD Ryzen 3,4096.0,40.0,NVIDIA GeForce GT1030,0.0,0
+33192.79,Intel Core i5,256.0,64.0,NVIDIA GeForce GT1030,0.0,0
+35899.99,AMD Ryzen 3,4096.0,20.0,Nvidia GeForce GT 730,0.0,2
+34813.88,Intel Core i5,2048.0,20.0,AMD Radeon RX550,0.0,1
+29181.22,Intel Core i5,256.0,36.0,AMD Radeon RX550,0.0,1
+36229.28,Intel Core i3,4096.0,32.0,AMD Radeon RX550,0.0,1
+35116.81,Intel Core i3,4096.0,36.0,Nvidia GeForce GT 730,0.0,2
+36993.44,Intel Core i5,1024.0,64.0,Nvidia GeForce GTX 1650,0.0,2
+24023.81,Intel Core i5,256.0,12.0,Dahili Ekran Kartı,0.0,1
+33715.1,Intel Core i3,4096.0,40.0,Dahili Ekran Kartı,0.0,1
+28340.19,Intel Core i5,512.0,20.0,AMD Radeon RX550,0.0,1
+38776.77,AMD Ryzen 3,4096.0,40.0,AMD Radeon RX550,0.0,1
+31617.98,Intel Core i5,1024.0,12.0,AMD Radeon RX550,0.0,1
+36400.6,AMD Ryzen 3,4096.0,20.0,NVIDIA GeForce GT1030,0.0,0
+25911.05,Intel Core i5,512.0,8.0,AMD Radeon RX550,0.0,1
+31105.15,Intel Core i5,1024.0,8.0,Nvidia GeForce GTX 1650,0.0,2
+36255.98,Intel Core i3,4096.0,24.0,Nvidia GeForce GT 730,0.0,2
+39740.24,Intel Core i3,4096.0,64.0,Nvidia GeForce GT 730,0.0,2
+33074.31,Intel Core i3,4096.0,12.0,Nvidia GeForce GT 730,0.0,2
+33052.06,Intel Core i3,4096.0,8.0,Dahili Ekran Kartı,0.0,1
+41024.03,AMD Ryzen 3,4096.0,48.0,NVIDIA GeForce GT1030,0.0,0
+38480.92,AMD Ryzen 3,4096.0,24.0,Nvidia GeForce GT 730,0.0,2
+40523.42,AMD Ryzen 3,4096.0,48.0,Nvidia GeForce GT 730,0.0,2
+33074.31,Intel Core i3,4096.0,8.0,Nvidia GeForce GT 730,0.0,2
+37613.19,AMD Ryzen 3,4096.0,24.0,AMD Radeon RX550,0.0,1
+36830.01,Intel Core i3,4096.0,40.0,AMD Radeon RX550,0.0,1
+41035.15,AMD Ryzen 3,4096.0,40.0,AMD Radeon RX550,0.0,1
+37920.24,AMD Ryzen 3,4096.0,40.0,AMD Radeon Graphics,0.0,1
+39922.68,AMD Ryzen 3,4096.0,40.0,Nvidia GeForce GT 730,0.0,2
+37942.49,AMD Ryzen 3,4096.0,40.0,Nvidia GeForce GT 730,0.0,2
+35771.42,AMD Ryzen 3,4096.0,12.0,AMD Radeon RX550,0.0,1
+34787.52,Intel Core i3,4096.0,20.0,AMD Radeon RX550,0.0,1
+35075.74,AMD Ryzen 3,4096.0,12.0,NVIDIA GeForce GT1030,0.0,0
+35116.81,Intel Core i3,4096.0,32.0,Nvidia GeForce GT 730,0.0,2
+27011.37,AMD Ryzen 3,1024.0,48.0,AMD Radeon Graphics,0.0,1
+32229.76,AMD Ryzen 3,4096.0,8.0,AMD Radeon Graphics,0.0,1
+33052.06,Intel Core i3,4096.0,12.0,Dahili Ekran Kartı,0.0,1
+36767.72,Intel Core i3,4096.0,16.0,AMD Radeon RX550,0.0,1
+38093.74,AMD Ryzen 3,4096.0,32.0,AMD Radeon RX550,0.0,1
+40852.71,Intel Core i3,4096.0,64.0,AMD Radeon RX550,0.0,1
+37319.5,AMD Ryzen 3,4096.0,32.0,AMD Radeon Graphics,0.0,1
+38454.22,AMD Ryzen 3,4096.0,32.0,AMD Radeon RX550,0.0,1
+38093.74,AMD Ryzen 3,4096.0,36.0,AMD Radeon RX550,0.0,1
+39655.69,AMD Ryzen 3,4096.0,48.0,AMD Radeon RX550,0.0,1
+39984.98,AMD Ryzen 3,4096.0,64.0,Nvidia GeForce GT 730,0.0,2
+35421.93,Intel Core i5,2048.0,24.0,Nvidia GeForce GTX 1650,2048.0,2
+38146.85,Intel Core i5,2048.0,48.0,Nvidia GeForce GTX 1650,2048.0,2
+36255.65,Intel Core i5,2048.0,32.0,AMD Radeon RX550,2048.0,1
+37483.81,Intel Core i5,2048.0,20.0,Nvidia GeForce GTX 1650,2048.0,2
+34275.45,Intel Core i5,2048.0,36.0,AMD Radeon RX550,2048.0,1
+26066.3,Intel Core i5,256.0,32.0,Intel UHD Graphics 770,256.0,0
+40127.04,Intel Core i5,2048.0,48.0,Nvidia GeForce GTX 1650,2048.0,2
+39383.54,Intel Core i5,2048.0,64.0,Nvidia GeForce GTX 1650,2048.0,2
+27739.46,Intel Core i5,256.0,20.0,AMD Radeon RX550,256.0,1
+29118.03,Intel Core i5,2048.0,8.0,Intel UHD Graphics 770,2048.0,0
+34350.21,Intel Core i5,1024.0,36.0,Nvidia GeForce GTX 1650,1024.0,2
+32822.56,Intel Core i5,2048.0,24.0,NVIDIA GeForce GT1030,2048.0,0
+38084.55,Intel Core i5,2048.0,24.0,Nvidia GeForce GTX 1650,2048.0,2
+30320.39,Intel Core i5,512.0,16.0,AMD Radeon RX550,512.0,1
+30549.56,Intel Core i5,256.0,32.0,NVIDIA GeForce GT1030,256.0,0
+30505.51,Intel Core i5,1024.0,8.0,Nvidia GeForce GT 730,1024.0,2
+26522.86,Intel Core i5,1024.0,8.0,Intel UHD Graphics 770,1024.0,0
+29719.66,Intel Core i5,256.0,16.0,AMD Radeon RX550,256.0,1
+26604.74,Intel Core i5,256.0,16.0,Intel UHD Graphics 770,256.0,0
+32760.63,Intel Core i5,2048.0,40.0,Nvidia GeForce GT 730,2048.0,2
+29719.66,Intel Core i5,256.0,20.0,AMD Radeon RX550,256.0,1
+29708.53,Intel Core i5,512.0,20.0,NVIDIA GeForce GT1030,512.0,0
+31168.54,Intel Core i5,1024.0,40.0,Nvidia GeForce GT 730,1024.0,2
+30649.68,Intel Core i5,256.0,40.0,Nvidia GeForce GT 730,256.0,2
+29770.83,Intel Core i5,512.0,40.0,NVIDIA GeForce GT1030,512.0,0
+32908.44,Intel Core i5,1024.0,20.0,Nvidia GeForce GTX 1650,1024.0,2
+31068.42,Intel Core i5,1024.0,32.0,NVIDIA GeForce GT1030,1024.0,0
+28669.49,Intel Core i5,512.0,36.0,Nvidia GeForce GT 730,512.0,2
+29708.53,Intel Core i5,256.0,24.0,NVIDIA GeForce GT1030,256.0,0
+28647.24,Intel Core i5,512.0,32.0,Intel UHD Graphics 770,512.0,0
+29247.97,Intel Core i5,512.0,40.0,Intel UHD Graphics 770,512.0,0
+31150.3,Intel Core i5,256.0,40.0,NVIDIA GeForce GT1030,256.0,0
+33763.71,Intel Core i5,2048.0,40.0,Nvidia GeForce GT 730,2048.0,2
+35743.91,Intel Core i5,2048.0,40.0,Nvidia GeForce GT 730,2048.0,2
+30320.39,Intel Core i5,256.0,24.0,AMD Radeon RX550,256.0,1
+35633.55,Intel Core i5,512.0,48.0,Nvidia GeForce GTX 1650,512.0,2
+29181.22,Intel Core i5,256.0,32.0,AMD Radeon RX550,256.0,1
+36255.65,Intel Core i5,2048.0,36.0,AMD Radeon RX550,2048.0,1
+31010.12,Intel Core i5,512.0,20.0,Nvidia GeForce GTX 1650,512.0,2
+27127.6,Intel Core i5,256.0,20.0,NVIDIA GeForce GT1030,256.0,0
+29207.92,Intel Core i5,256.0,24.0,Nvidia GeForce GT 730,256.0,2
+33162.98,Intel Core i5,2048.0,32.0,Nvidia GeForce GT 730,2048.0,2
+33509.18,Intel Core i5,1024.0,24.0,Nvidia GeForce GTX 1650,1024.0,2
+34888.64,Intel Core i5,1024.0,20.0,Nvidia GeForce GTX 1650,1024.0,2
+31290.47,Intel Core i5,512.0,64.0,Intel UHD Graphics 770,512.0,0
+32221.83,Intel Core i5,2048.0,16.0,NVIDIA GeForce GT1030,2048.0,0
+34274.43,Intel Core i5,512.0,64.0,Nvidia GeForce GTX 1650,512.0,2
+29718.77,Intel Core i5,2048.0,16.0,Intel UHD Graphics 770,2048.0,0
+38898.88,Intel Core i5,2048.0,64.0,AMD Radeon RX550,2048.0,1
+27127.6,Intel Core i5,256.0,16.0,NVIDIA GeForce GT1030,256.0,0
+32386.22,Intel Core i5,2048.0,24.0,AMD Radeon RX550,2048.0,1
+29118.03,Intel Core i5,2048.0,12.0,Intel UHD Graphics 770,2048.0,0
+31068.42,Intel Core i5,1024.0,36.0,NVIDIA GeForce GT1030,1024.0,0
+33342.47,Intel Core i5,2048.0,32.0,AMD Radeon RX550,2048.0,1
+30048.95,Intel Core i5,256.0,32.0,Nvidia GeForce GT 730,256.0,2
+37483.81,Intel Core i5,2048.0,16.0,Nvidia GeForce GT 730,2048.0,2
+31851.15,Intel Core i5,512.0,48.0,Nvidia GeForce GT 730,512.0,2
+32207.59,Intel Core i5,1024.0,24.0,NVIDIA GeForce GT1030,1024.0,0
+28916.41,Intel Core i5,512.0,40.0,AMD Radeon RX550,512.0,1
+31250.42,Intel Core i5,512.0,40.0,Nvidia GeForce GT 730,512.0,2
+30312.83,Intel Core i5,2048.0,36.0,Nvidia GeForce GTX 1650,512.0,2
+29207.92,Intel Core i5,512.0,20.0,Nvidia GeForce GT 730,512.0,2
+29781.96,Intel Core i5,1024.0,16.0,AMD Radeon RX550,512.0,1
+31020.15,Intel Core i5,2048.0,12.0,AMD Radeon RX550,2048.0,1
+33793.53,Intel Core i5,512.0,64.0,NVIDIA GeForce GT1030,512.0,0
+31698.97,Intel Core i5,2048.0,16.0,Intel UHD Graphics 770,2048.0,0
+27478.49,Intel Core i5,2048.0,8.0,Intel UHD Graphics 770,2048.0,0
+35783.96,Intel Core i5,2048.0,64.0,Intel UHD Graphics 770,2048.0,0
+31813.33,Intel Core i5,512.0,64.0,Nvidia GeForce GT 730,512.0,2
+32218.71,Intel Core i5,1024.0,20.0,AMD Radeon RX550,1024.0,1
+37531.87,Intel Core i5,1024.0,48.0,Nvidia GeForce GTX 1650,1024.0,2
+37786.41,Intel Core i5,2048.0,64.0,Nvidia GeForce GT 730,2048.0,2
+32990.32,Intel Core i5,512.0,16.0,Nvidia GeForce GTX 1650,512.0,2
+32218.71,Intel Core i5,1024.0,16.0,AMD Radeon RX550,1024.0,1
+29629.8,Intel Core i5,512.0,16.0,Nvidia GeForce GTX 1650,512.0,2
+36378.18,Intel Core i5,2048.0,32.0,Nvidia GeForce GTX 1650,2048.0,2
+29718.77,Intel Core i5,2048.0,20.0,Intel UHD Graphics 770,2048.0,0
+29781.96,Intel Core i5,512.0,32.0,AMD Radeon RX550,512.0,1
+23963.14,Intel Core i5,256.0,12.0,Nvidia GeForce GT 730,256.0,2
+36856.38,Intel Core i5,2048.0,40.0,AMD Radeon RX550,2048.0,1
+34202.03,Intel Core i5,2048.0,20.0,NVIDIA GeForce GT1030,2048.0,0
+21686.36,Intel Core i5,256.0,12.0,Intel UHD Graphics 770,256.0,0
+28647.24,Intel Core i5,256.0,40.0,Intel UHD Graphics 770,256.0,0
+31952.12,Intel Core i5,512.0,40.0,Nvidia GeForce GTX 1650,512.0,2
+32819.45,Intel Core i5,1024.0,24.0,AMD Radeon RX550,1024.0,1
+32281.01,Intel Core i5,1024.0,40.0,AMD Radeon RX550,1024.0,1
+31762.15,Intel Core i5,512.0,32.0,AMD Radeon RX550,512.0,1
+34738.9,Intel Core i5,2048.0,16.0,Nvidia GeForce GTX 1650,2048.0,2
+31762.15,Intel Core i5,512.0,36.0,AMD Radeon RX550,512.0,1
+28233.37,Intel Core i5,512.0,36.0,Nvidia GeForce GTX 1650,512.0,2
+31762.15,Intel Core i5,256.0,40.0,AMD Radeon RX550,256.0,1
+25911.05,Intel Core i5,512.0,12.0,AMD Radeon RX550,512.0,1
+31617.98,Intel Core i5,1024.0,8.0,AMD Radeon RX550,1024.0,1
+32221.83,Intel Core i5,2048.0,20.0,NVIDIA GeForce GT1030,2048.0,0
+29708.53,Intel Core i5,512.0,16.0,NVIDIA GeForce GT1030,512.0,0
+34876.18,Intel Core i5,2048.0,40.0,AMD Radeon RX550,2048.0,1
+28233.37,Intel Core i5,512.0,32.0,AMD Radeon RX550,512.0,1
+27205.47,Intel Core i5,256.0,24.0,Intel UHD Graphics 770,256.0,0
+32990.32,Intel Core i5,256.0,24.0,Nvidia GeForce GTX 1650,256.0,2
+33649.35,Intel Core i5,1024.0,40.0,NVIDIA GeForce GT1030,1024.0,0
+33260.32,Intel Core i3,2048.0,40.0,Intel UHD Graphics 730,0.0,0
+11833.029999999999,Intel Core i5,2048.0,8.0,AMD Radeon RX 550,256.0,1
+11648.0,Intel Core i7,2048.0,40.0,Intel HD Graphics,1024.0,1
+11999.0,Intel Core i7,1024.0,16.0,AMD Radeon R7 240,0.0,1
+7999.0,Intel Core i5,256.0,8.0,Dahili Ekran Kartı,320.0,1
+9999.0,Intel Core i7,2048.0,16.0,AMD Radeon RX 550,0.0,1
+15576.71,Intel Core i5,256.0,16.0,Nvidia GeForce MX110,0.0,2
+13569.91,Intel Core i5,512.0,16.0,Nvidia GeForce MX110,0.0,2
+24461.0,Intel Core i7,1024.0,16.0,Intel HD Graphics,1024.0,1
+5650.0,Intel Pentium,512.0,24.0,Dahili Ekran Kartı,0.0,1
+78899.49,Intel Core i7,4096.0,96.0,Nvidia Quadro T1000,0.0,3
+64499.49,Intel Core i7,4096.0,96.0,AMD Radeon RX 550,0.0,1
+48000.76,Intel Core i7,1024.0,40.0,AMD Radeon RX550,1024.0,1
+47526.89,Intel Core i7,512.0,64.0,NVIDIA GeForce GT1030,512.0,0
+50718.5,Intel Core i7,4096.0,64.0,Nvidia GeForce GTX 1650,0.0,2
+49437.21,Intel Core i7,4096.0,20.0,Nvidia GeForce GT 730,0.0,2
+15499.0,Intel Core i5,1024.0,32.0,Dahili Ekran Kartı,0.0,1
+43599.49,Intel Core i7,512.0,64.0,AMD Radeon RX 550,0.0,1
+43399.49,Intel Core i7,2048.0,48.0,AMD Radeon RX 550,0.0,1
+48999.49,Intel Core i7,2048.0,64.0,AMD Radeon RX 550,0.0,1
+48699.49,Intel Core i7,2048.0,48.0,AMD Radeon RX 550,0.0,1
+42799.49,Intel Core i7,1024.0,32.0,AMD Radeon RX 550,0.0,1
+44099.49,Intel Core i7,1024.0,32.0,AMD Radeon RX 550,0.0,1
+43299.49,Intel Core i7,1024.0,24.0,AMD Radeon RX 550,0.0,1
+52199.49,Intel Core i7,4096.0,32.0,AMD Radeon RX 550,0.0,1
+51399.49,Intel Core i7,4096.0,24.0,AMD Radeon RX 550,0.0,1
+44499.49,Intel Core i7,2048.0,24.0,AMD Radeon RX 550,0.0,1
+42499.49,Intel Core i7,256.0,64.0,AMD Radeon RX 550,0.0,1
+44999.49,Intel Core i7,2048.0,64.0,AMD Radeon RX 550,0.0,1
+51399.49,Intel Core i7,4096.0,64.0,AMD Radeon RX 550,0.0,1
+43299.49,Intel Core i7,512.0,48.0,AMD Radeon RX 550,0.0,1
+45499.49,Intel Core i7,2048.0,16.0,AMD Radeon RX 550,0.0,1
+45499.49,Intel Core i7,1024.0,64.0,AMD Radeon RX 550,0.0,1
+43399.49,Intel Core i7,2048.0,12.0,AMD Radeon RX 550,0.0,1
+43099.49,Intel Core i7,256.0,64.0,AMD Radeon RX 550,0.0,1
+44399.49,Intel Core i7,1024.0,48.0,AMD Radeon RX 550,0.0,1
+41999.49,Intel Core i7,512.0,48.0,AMD Radeon RX 550,0.0,1
+42499.49,Intel Core i7,1024.0,16.0,AMD Radeon RX 550,0.0,1
+51099.49,Intel Core i7,4096.0,12.0,AMD Radeon RX 550,0.0,1
+50599.49,Intel Core i7,4096.0,16.0,AMD Radeon RX 550,0.0,1
+47299.49,Intel Core i7,1024.0,64.0,AMD Radeon RX 550,0.0,1
+44399.49,Intel Core i7,256.0,64.0,AMD Radeon RX 550,0.0,1
+44699.49,Intel Core i7,2048.0,12.0,AMD Radeon RX 550,0.0,1
+41999.49,Intel Core i7,1024.0,64.0,AMD Radeon RX 550,0.0,1
+41799.49,Intel Core i7,2048.0,32.0,AMD Radeon RX 550,0.0,1
+48499.49,Intel Core i7,2048.0,64.0,AMD Radeon RX 550,0.0,1
+42799.49,Intel Core i7,256.0,48.0,AMD Radeon RX 550,0.0,1
+41699.49,Intel Core i7,1024.0,12.0,AMD Radeon RX 550,0.0,1
+47099.49,Intel Core i7,2048.0,32.0,AMD Radeon RX 550,0.0,1
+49799.49,Intel Core i7,4096.0,12.0,AMD Radeon RX 550,0.0,1
+44899.49,Intel Core i7,512.0,64.0,AMD Radeon RX 550,0.0,1
+52699.49,Intel Core i7,4096.0,24.0,AMD Radeon RX 550,0.0,1
+50799.49,Intel Core i7,4096.0,24.0,AMD Radeon RX 550,0.0,1
+41699.49,Intel Core i7,512.0,32.0,AMD Radeon RX 550,0.0,1
+65304.12,Intel Core i7,4096.0,40.0,Nvidia GeForce GTX 1650,4096.0,2
+53709.95,Intel Core i7,1024.0,24.0,Nvidia GeForce GTX 1650,1024.0,2
+53616.5,Intel Core i7,2048.0,24.0,AMD Radeon RX550,2048.0,1
+63736.82,Intel Core i7,4096.0,40.0,Nvidia GeForce GTX 1650,4096.0,2
+53337.27,Intel Core i7,1024.0,64.0,Nvidia GeForce GT 730,1024.0,2
+56863.89,Intel Core i7,4096.0,64.0,Intel UHD Graphics 730,4096.0,0
+58221.1,Intel Core i7,4096.0,64.0,AMD Radeon RX550,4096.0,1
+59719.47,Intel Core i7,4096.0,48.0,Nvidia GeForce GTX 1650,4096.0,2
+57609.71,Intel Core i7,4096.0,48.0,Nvidia GeForce GTX 1650,4096.0,2
+8999.0,Intel Core i7,256.0,16.0,AMD Radeon RX550,256.0,1
+11700.0,Intel Core i3,500.0,32.0,Dahili Ekran Kartı,1024.0,1
+56699.49,Intel Core i7,4096.0,64.0,AMD Radeon RX 550,0.0,1
+53499.49,Intel Core i7,4096.0,32.0,AMD Radeon RX 550,0.0,1
+53199.49,Intel Core i7,4096.0,48.0,AMD Radeon RX 550,0.0,1
+41889.2,Intel Core i5,2048.0,8.0,Nvidia GeForce GTX 1650,0.0,2
+43931.69,Intel Core i5,2048.0,36.0,Nvidia GeForce GTX 1650,0.0,2
+41951.5,Intel Core i5,2048.0,32.0,Nvidia GeForce GTX 1650,0.0,2
+41889.2,Intel Core i5,2048.0,12.0,Nvidia GeForce GTX 1650,0.0,2
+43931.69,Intel Core i5,2048.0,32.0,Nvidia GeForce GTX 1650,0.0,2
+41862.5,Intel Core i5,2048.0,40.0,AMD Radeon RX550,0.0,1
+44201.21,Intel Core i3,4096.0,64.0,NVIDIA GeForce GT1030,0.0,0
+45805.99,Intel Core i3,4096.0,64.0,NVIDIA GeForce GT1030,0.0,0
+42321.73,Intel Core i3,4096.0,24.0,NVIDIA GeForce GT1030,0.0,0
+42561.92,Intel Core i3,4096.0,48.0,NVIDIA GeForce GT1030,0.0,0
+41783.29,Intel Core i3,4096.0,40.0,NVIDIA GeForce GT1030,0.0,0
+43162.75,Intel Core i3,4096.0,36.0,NVIDIA GeForce GT1030,0.0,0
+43825.79,Intel Core i3,4096.0,64.0,NVIDIA GeForce GT1030,0.0,0
+43024.81,Intel Core i3,4096.0,64.0,Dahili Ekran Kartı,0.0,1
+43718.99,Intel Core i3,4096.0,32.0,AMD Radeon RX550,0.0,1
+42606.52,Intel Core i3,4096.0,32.0,Nvidia GeForce GT 730,0.0,2
+44382.02,Intel Core i3,4096.0,64.0,AMD Radeon RX550,0.0,1
+41738.79,Intel Core i3,4096.0,32.0,AMD Radeon RX550,0.0,1
+43807.99,Intel Core i3,4096.0,48.0,Nvidia GeForce GT 730,0.0,2
+41828.29,Intel Core i3,4096.0,36.0,AMD Radeon RX550,0.0,1
+41828.29,Intel Core i3,4096.0,32.0,AMD Radeon RX550,0.0,1
+43194.36,Intel Core i3,4096.0,48.0,AMD Radeon RX550,0.0,1
+42940.26,Intel Core i3,4096.0,48.0,AMD Radeon RX550,0.0,1
+41583.05,Intel Core i3,4096.0,48.0,Dahili Ekran Kartı,0.0,1
+45249.75,Intel Core i3,4096.0,64.0,Nvidia GeForce GT 730,0.0,2
+42277.23,Intel Core i3,4096.0,20.0,AMD Radeon RX550,0.0,1
+42877.96,Intel Core i3,4096.0,24.0,AMD Radeon RX550,0.0,1
+41765.49,Intel Core i3,4096.0,24.0,Nvidia GeForce GT 730,0.0,2
+48903.47,Intel Core i7,4096.0,16.0,Dahili Ekran Kartı,0.0,1
+48714.09,Intel Core i7,2048.0,48.0,Dahili Ekran Kartı,0.0,1
+49911.98,Intel Core i7,2048.0,48.0,Dahili Ekran Kartı,0.0,1
+50144.48,Intel Core i7,1024.0,48.0,NVIDIA GeForce GT1030,0.0,0
+51410.98,Intel Core i7,4096.0,8.0,NVIDIA GeForce GT1030,0.0,0
+52613.09,Intel Core i7,4096.0,24.0,Dahili Ekran Kartı,0.0,1
+49843.01,Intel Core i7,1024.0,48.0,Nvidia GeForce GTX 1650,0.0,2
+52741.49,Intel Core i7,4096.0,20.0,AMD Radeon RX550,0.0,1
+52693.15,Intel Core i7,2048.0,48.0,Nvidia GeForce GT 730,0.0,2
+45547.98,Intel Core i7,1024.0,48.0,Dahili Ekran Kartı,0.0,1
+52405.02,Intel Core i7,4096.0,12.0,Dahili Ekran Kartı,0.0,1
+50561.49,Intel Core i7,4096.0,36.0,Dahili Ekran Kartı,0.0,1
+52107.12,Intel Core i7,2048.0,48.0,NVIDIA GeForce GT1030,0.0,0
+51462.15,Intel Core i7,4096.0,16.0,Nvidia GeForce GT 730,0.0,2
+51378.57,Intel Core i7,1024.0,64.0,AMD Radeon RX550,0.0,1
+50771.3,Intel Core i7,4096.0,8.0,Nvidia GeForce GT 730,0.0,2
+50699.96,Intel Core i7,1024.0,64.0,NVIDIA GeForce GT1030,0.0,0
+52152.99,Intel Core i7,4096.0,24.0,Nvidia GeForce GT 730,0.0,2
+49117.37,Intel Core i7,2048.0,48.0,NVIDIA GeForce GT1030,0.0,0
+49619.62,Intel Core i7,1024.0,48.0,AMD Radeon RX550,0.0,1
+52101.82,Intel Core i7,4096.0,20.0,NVIDIA GeForce GT1030,0.0,0
+51462.15,Intel Core i7,4096.0,20.0,Nvidia GeForce GT 730,0.0,2
+52792.66,Intel Core i7,4096.0,24.0,NVIDIA GeForce GT1030,0.0,0
+51428.52,Intel Core i7,2048.0,48.0,Nvidia GeForce GT 730,0.0,2
+52101.82,Intel Core i7,4096.0,16.0,NVIDIA GeForce GT1030,0.0,0
+52405.02,Intel Core i7,4096.0,8.0,Dahili Ekran Kartı,0.0,1
+50021.36,Intel Core i7,1024.0,64.0,Nvidia GeForce GT 730,0.0,2
+42934.57,Intel Core i7,1024.0,48.0,Dahili Ekran Kartı,0.0,1
+46668.01,Intel Core i7,1024.0,48.0,Dahili Ekran Kartı,0.0,1
+51410.98,Intel Core i7,4096.0,12.0,NVIDIA GeForce GT1030,0.0,0
+48327.88,Intel Core i7,4096.0,36.0,AMD Radeon RX550,0.0,1
+47632.19,Intel Core i7,4096.0,36.0,NVIDIA GeForce GT1030,0.0,0
+46249.46,Intel Core i7,2048.0,64.0,NVIDIA GeForce GT1030,0.0,0
+48315.23,Intel Core i7,4096.0,40.0,NVIDIA GeForce GT1030,0.0,0
+50762.24,Intel Core i7,4096.0,12.0,Nvidia GeForce GTX 1650,0.0,2
+50023.81,Intel Core i7,4096.0,32.0,AMD Radeon RX550,0.0,1
+45523.55,Intel Core i7,1024.0,64.0,AMD Radeon RX550,0.0,1
+42606.03,Intel Core i7,1024.0,64.0,Nvidia GeForce GT 730,0.0,2
+51946.97,Intel Core i7,2048.0,64.0,Nvidia GeForce GTX 1650,0.0,2
+43954.05,Intel Core i7,4096.0,12.0,Dahili Ekran Kartı,0.0,1
+43963.48,Intel Core i7,2048.0,48.0,Nvidia GeForce GT 730,0.0,2
+45309.87,Intel Core i7,4096.0,8.0,NVIDIA GeForce GT1030,0.0,0
+24624.54,Intel Core i5,2048.0,24.0,Nvidia GeForce GTX 1650,0.0,2
+6588.0,Intel Core i5,1024.0,64.0,NVIDIA GeForce GT1030,0.0,0
+7887.580000000002,Intel Core i5,2048.0,16.0,Nvidia GeForce GT 730,0.0,2
+40653.02,Intel Core i3,4096.0,64.0,Dahili Ekran Kartı,0.0,1
+34985.98,Intel Core i5,256.0,12.0,Dahili Ekran Kartı,256.0,1
+9999.0,Intel Core i5,512.0,64.0,NVIDIA GeForce GT1030,0.0,0
+34299.37,Intel Core i5,512.0,64.0,Nvidia GeForce RTX 4070,0.0,3
+37483.81,Intel Core i7,512.0,8.0,Intel HD Graphics,0.0,1
+11649.0,Intel Core i3,4096.0,20.0,AMD Radeon RX550,512.0,1
+32138.05,Intel Core i5,1024.0,64.0,Intel UHD Graphics 770,0.0,0
+38093.74,Intel Core i5,256.0,48.0,AMD Radeon RX550,0.0,1
+35152.41,Intel Core i3,1024.0,20.0,AMD Radeon RX550,512.0,1
+33652.8,Intel Core i5,1024.0,48.0,AMD Radeon RX550,512.0,1
+5999.989999999998,Intel Core i3,2048.0,32.0,Nvidia GeForce GTX 1650,4096.0,2
+37036.3,Intel Xeon,2048.0,20.0,NVIDIA GeForce GT1030,1024.0,0
+25439.89,Intel Core i5,2048.0,24.0,AMD Radeon RX550,2048.0,1
+33430.86,Intel Core i5,256.0,16.0,AMD Radeon RX550,512.0,1
+33296.81,Intel Core i3,4096.0,20.0,AMD Radeon RX550,512.0,1
+23190.57,Intel Core i5,4096.0,32.0,AMD Radeon RX 550,256.0,1
+22271.67,Intel Core i5,2048.0,40.0,Nvidia GeForce GT 730,0.0,2
+29999.99,Intel Core i5,512.0,48.0,NVIDIA GeForce GT1030,512.0,0
+21748.8,Intel Core i7,4096.0,32.0,Intel HD Graphics,0.0,1
+43187.92,Intel Core i7,1024.0,20.0,Nvidia GeForce GT 730,0.0,2
+36391.21,Intel Core i5,512.0,24.0,Nvidia GeForce GT 730,2048.0,2
+29699.0,Intel Core i5,2048.0,40.0,NVIDIA GeForce GT1030,0.0,0
+29735.12,Intel Core i5,256.0,24.0,Intel HD Graphics,4096.0,1
+35557.91,AMD Ryzen 5,4096.0,12.0,Dahili Ekran Kartı,0.0,1
+38204.14,Intel Core i7,1024.0,64.0,AMD Radeon RX550,256.0,1
+34911.23,AMD Ryzen 3,2048.0,12.0,Dahili Ekran Kartı,2048.0,1
+11455.0,Intel Core i3,4096.0,48.0,AMD Radeon RX550,2048.0,1
+35138.98,Intel Core i5,2048.0,64.0,Nvidia GeForce GT 730,1024.0,2
+38941.93,Intel Core i5,1024.0,16.0,Nvidia GeForce GT 730,512.0,2
+49843.01,Intel Core i5,4096.0,40.0,Intel HD Graphics,1024.0,1
+29834.8,AMD Ryzen 3,4096.0,8.0,NVIDIA GeForce GT1030,0.0,0
+33346.31,Intel Core i3,512.0,20.0,Nvidia GeForce GTX 1650,512.0,2
+33052.62,Intel Core i5,4096.0,32.0,Nvidia GeForce GTX 1650,0.0,2
+33074.31,Intel Core i5,2048.0,64.0,Nvidia GeForce RTX 4060,1024.0,3
+36442.88,Intel Core i7,512.0,64.0,NVIDIA GeForce GT1030,0.0,0
+40881.53,Intel Xeon,256.0,20.0,Nvidia GeForce GT 730,512.0,2
+40705.53,Intel Core i7,4096.0,32.0,Nvidia GeForce GTX 1650,256.0,2
+25498.96,Intel Core i3,4096.0,24.0,Nvidia GeForce GT 730,512.0,2
+28340.19,Intel Core i3,2048.0,8.0,NVIDIA GeForce GT1030,0.0,0
+23853.6,Intel Core i5,4096.0,40.0,AMD Radeon RX550,2048.0,1
+10829.91,Intel Core i5,256.0,32.0,Dahili Ekran Kartı,512.0,1
+36255.65,Intel Core i3,256.0,32.0,Nvidia GeForce GT 730,512.0,2
+42886.31,Intel Core i7,256.0,8.0,Intel UHD Graphics 730,0.0,0
+38602.85,Intel Core i3,2048.0,8.0,Dahili Ekran Kartı,1024.0,1
+30772.62,Intel Core i5,4096.0,24.0,NVIDIA GeForce GT1030,1024.0,0
+87499.49,Intel Core i5,1024.0,32.0,Nvidia GeForce GTX 1650,4096.0,2
+31502.95,Intel Core i7,4096.0,16.0,NVIDIA GeForce GT1030,0.0,0
+49866.78,Intel Core i5,256.0,40.0,AMD Radeon RX550,16.0,1
+26977.98,Intel Core i5,2048.0,36.0,Nvidia GeForce GT 730,4096.0,2
+42285.57,Intel Core i5,2048.0,64.0,Nvidia GeForce GT 730,4096.0,2
+53337.27,Intel Core i5,2048.0,40.0,AMD Radeon Graphics,256.0,1
+44328.07,Intel Core i3,512.0,8.0,Nvidia GeForce GTX 1650,0.0,2
+35138.98,Intel Core i5,512.0,16.0,AMD Radeon Graphics,0.0,1
+42886.31,Intel Core i7,256.0,48.0,AMD Radeon RX 550,512.0,1
+15749.0,Intel Core i5,256.0,20.0,Intel HD Graphics,0.0,1
+22130.33,Intel Core i3,256.0,32.0,Dahili Ekran Kartı,2048.0,1
+27484.44,Intel Core i5,512.0,40.0,Nvidia Geforce GT 740,0.0,3
+87499.49,Intel Core i7,256.0,48.0,Nvidia GeForce GT 730,0.0,2
+30143.59,Intel Core i5,256.0,64.0,AMD Radeon RX550,0.0,1
+38725.67,Intel Core i5,4096.0,40.0,Intel HD Graphics,0.0,1
+8760.0,Intel Core i7,1024.0,40.0,Nvidia RTX A2000,3072.0,3
+43945.93,Intel Core i5,4096.0,40.0,Intel HD Graphics,2048.0,1
+28756.48,Intel Core i7,256.0,16.0,NVIDIA GeForce GT1030,4096.0,0
+44137.28,Intel Core i3,256.0,20.0,AMD Radeon RX550,1024.0,1
+36126.38,Intel Core i5,256.0,64.0,AMD Radeon RX550,1024.0,1
+35708.18,Intel Core i5,512.0,24.0,AMD Radeon RX550,4096.0,1
+21594.65,Intel Core i5,1024.0,40.0,Nvidia GeForce GTX 1650,0.0,2
+20799.0,Intel Core i5,512.0,8.0,Nvidia GeForce GT 730,1024.0,2
+23791.3,Intel Core i5,2048.0,48.0,NVIDIA GeForce GT1030,0.0,0
+29250.0,Intel Core i3,256.0,48.0,NVIDIA GeForce GT1030,1024.0,0
+35895.54,Intel Core i5,4096.0,24.0,NVIDIA GeForce GT1030,4096.0,0
+21748.8,Intel Core i5,4096.0,16.0,AMD Radeon RX 550,0.0,1
+37531.87,Intel Core i7,512.0,24.0,NVIDIA GeForce GT1030,4096.0,0
+32199.0,Intel Core i5,4096.0,32.0,Nvidia GeForce GT 730,1024.0,2
+34293.03,Intel Core i7,256.0,20.0,Dahili Ekran Kartı,1024.0,1
+9999.900000000001,Intel Core i5,2048.0,20.0,Intel UHD Graphics 770,1024.0,0
+53709.95,Intel Core i5,256.0,12.0,Nvidia GeForce GT 730,1024.0,2
+35845.37,Intel Core i3,1024.0,16.0,NVIDIA GeForce GT1030,2048.0,0
+26750.92,Intel Core i7,4096.0,12.0,AMD Radeon RX550,1024.0,1
+49843.01,Intel Core i5,4096.0,8.0,Nvidia GeForce GTX 1650,2048.0,2
+9573.0,Intel Core i5,4096.0,32.0,Nvidia GeForce GTX 1650,1024.0,2
+9309.43,Intel Core i5,4096.0,24.0,NVIDIA GeForce GT1030,0.0,0
+17614.5,Intel Core i5,512.0,16.0,Nvidia GeForce GTX 1650,1024.0,2
+37795.64,Intel Core i5,4096.0,32.0,Dahili Ekran Kartı,1024.0,1
+29237.56,Intel Core i5,1024.0,48.0,Intel HD Graphics,256.0,1
+25565.96,Intel Core i5,4096.0,24.0,Dahili Ekran Kartı,256.0,1
+32207.59,Intel Core i3,1024.0,32.0,Nvidia RTX A2000,4096.0,3
+22011.94,Intel Core i5,256.0,40.0,Nvidia GeForce GT 730,4096.0,2
+7699.0,Intel Core i5,4096.0,16.0,Nvidia GeForce GT 730,256.0,2
+8918.27,Intel Core i5,1024.0,16.0,AMD Radeon RX550,4096.0,1
+28976.49,Intel Core i5,4096.0,32.0,Dahili Ekran Kartı,512.0,1
+29834.8,Intel Core i5,240.0,8.0,NVIDIA GeForce GT1030,0.0,0
+31603.01,Intel Core i3,1024.0,8.0,AMD Radeon RX550,500.0,1
+11376.7,Intel Core i5,1024.0,8.0,Dahili Ekran Kartı,500.0,1
+73948.0,Intel Core i5,512.0,20.0,AMD Radeon RX550,0.0,1
+26905.33,Intel Core i5,2048.0,32.0,Intel HD Graphics,0.0,1
+31150.3,Intel Core i5,128.0,16.0,AMD Radeon RX550,256.0,1
