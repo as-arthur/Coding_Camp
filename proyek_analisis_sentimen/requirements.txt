@@ -1,0 +1,6 @@
+sastrawi 
+googletrans
+pytube
+wordcloud  
+tensorflow  
+google_play_scraper
