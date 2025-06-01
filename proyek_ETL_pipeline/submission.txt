@@ -1,0 +1,9 @@
+# Menjalankan Skrip
+py main.py
+
+# Menjalankan Test 
+py -m pytest tests
+
+# Menjalankan Test Coverage
+coverage run -m pytest tests
+
