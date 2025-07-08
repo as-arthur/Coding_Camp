@@ -1,6 +1,6 @@
 from utils.extract import scrape
 from utils.transform import transform_to_DataFrame, transform_data
-from utils.load import load_data, load_to_google_sheets, load_to_postgresql
+from utils.load import load_to_csv
 
 def main():
     # Step 1: Extract
@@ -12,13 +12,7 @@ def main():
     df_clean = transform_data(df_raw, exchange_rate=16000)
 
     # Step 3: Load
-    load_data(df_clean, destination='csv', filename='fathur_products.csv')
-    load_to_google_sheets(
-        df_clean, 
-        spreadsheet_name='fathur_product',
-        worksheet_name='Sheet1',  
-        service_account_json='path/to/google-sheets-api.json'  
-    )
+    load_to_csv(df_clean, filename='fathur_products.csv')
 
 
 if __name__ == '__main__':
